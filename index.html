@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elimu AI — Practical AI Courses &amp; Workbooks for Kenyan Builders</title>
+  <meta name="description" content="65 premium, localized digital courses, AI workbooks and ready-to-use prompt libraries. 5,000+ prompts. Unlock instantly via M-Pesa or WhatsApp.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='8'%20fill='%23064E3B'/%3E%3Cg%20transform='translate(4%204)'%20fill='none'%20stroke='%23fff'%20stroke-width='1.5'%20stroke-linecap='round'%20stroke-linejoin='round'%3E%3Cpath%20d='M3%208.2A2.7%202.7%200%200%201%205.7%205.5H11v9.2H5.7a2.7%202.7%200%200%201-2.7-2.7V8.2Z'%20fill='%23fff'%20stroke='none'/%3E%3Cpath%20d='M13%205.5h5.3A2.7%202.7%200%200%201%2021%208.2v3.8a2.7%202.7%200%200%201-2.7%202.7H13V5.5Z'%20fill='%23fff'%20fill-opacity='.9'%20stroke='none'/%3E%3Cpath%20d='M11%205.5v9.2'%20stroke-width='1.6'/%3E%3Cpath%20d='M17%205.5V3.4'%20stroke='%23F5C63C'%20stroke-width='1.7'/%3E%3Cpath%20d='M17%202.6%2014.2%201M17%202.6%2019.8%201'%20stroke-width='1.4'/%3E%3Ccircle%20cx='14.2'%20cy='.9'%20r='1.05'%20fill='%23fff'%20stroke='none'/%3E%3Ccircle%20cx='19.8'%20cy='.9'%20r='1.05'%20fill='%23fff'%20stroke='none'/%3E%3Ccircle%20cx='17'%20cy='3.1'%20r='1.8'%20fill='%23F5C63C'%20stroke='none'/%3E%3C/g%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- ============ HEADER ============ -->
+  <header class="header" id="site-header">
+    <div class="container header__inner">
+      <a class="brand" href="index.html" aria-label="Elimu AI home">
+        <span class="brand__mark" aria-hidden="true">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 8.2A2.7 2.7 0 0 1 5.7 5.5H11v9.2H5.7a2.7 2.7 0 0 1-2.7-2.7V8.2Z" fill="currentColor" stroke="none"/>
+            <path d="M13 5.5h5.3A2.7 2.7 0 0 1 21 8.2v3.8a2.7 2.7 0 0 1-2.7 2.7H13V5.5Z" fill="currentColor" fill-opacity=".9" stroke="none"/>
+            <path d="M11 5.5v9.2" stroke-width="1.6"/>
+            <path d="M17 5.5V3.4" stroke="#F5C63C" stroke-width="1.7"/>
+            <path d="M17 2.6 14.2 1M17 2.6 19.8 1" stroke-width="1.4"/>
+            <circle cx="14.2" cy=".9" r="1.05" fill="currentColor" stroke="none"/>
+            <circle cx="19.8" cy=".9" r="1.05" fill="currentColor" stroke="none"/>
+            <circle cx="17" cy="3.1" r="1.8" fill="#F5C63C" stroke="none"/>
+          </svg>
+        </span>
+        <span class="brand__name">Elimu <em>AI</em></span>
+      </a>
+
+      <nav class="nav" aria-label="Primary">
+        <ul class="nav__list">
+          <li><a class="nav__link" href="index.html" aria-current="page">Home</a></li>
+          <li><a class="nav__link" href="guides.html">All Courses</a></li>
+          <li><a class="nav__link" href="community.html">Community</a></li>
+          <li><a class="nav__link" href="community.html#faq">FAQ</a></li>
+        </ul>
+      </nav>
+
+      <div class="header__actions">
+        <form class="header-search" action="guides.html" method="get" role="search" aria-label="Search courses">
+          <svg class="search__icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+          <input class="search__input" type="search" name="q" placeholder="Search 65 courses…" aria-label="Search courses">
+        </form>
+        <a class="btn btn--whatsapp btn--xs" href="https://wa.me/254792238421?text=Hi%20Elimu%20AI%2C%20I%20want%20to%20know%20more%20about%20your%20courses">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+          WhatsApp Us
+        </a>
+      </div>
+
+      <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+    <a class="nav__link" href="index.html" aria-current="page">Home</a>
+    <a class="nav__link" href="guides.html">All Courses</a>
+    <a class="nav__link" href="community.html">Community</a>
+    <a class="nav__link" href="community.html#faq">FAQ</a>
+    <a class="btn btn--whatsapp" href="https://wa.me/254792238421">WhatsApp Us</a>
+  </nav>
+
+  <main id="main">
+    <!-- ============ HERO ============ -->
+    <section class="hero">
+      <div class="container hero__inner">
+        <div class="hero__content">
+          <span class="badge badge--emerald hero__badge">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 2c.5 4.6 2.6 6.7 7 7-4.4.3-6.5 2.4-7 7-.5-4.6-2.6-6.7-7-7 4.4-.3 6.5-2.4 7-7z"/>
+            </svg>
+            Built for Kenya · M-Pesa Verified
+          </span>
+
+          <h1>Practical AI courses, <span class="accent">written for the way you work.</span></h1>
+
+          <p class="hero__sub">No theory. 65 micro-learning courses and 5,000+ ready-to-use prompts that solve real local problems — downloaded to your phone, unlocked in minutes.</p>
+
+          <div class="hero__cta">
+            <a class="btn btn--primary btn--lg" href="guides.html">
+              Explore all 65 Courses
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-7-7 7 7-7 7"/></svg>
+            </a>
+            <a class="btn btn--ghost btn--lg" href="#featured">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+              Preview a Free Course
+            </a>
+          </div>
+
+          <div class="hero__stat-row" role="list" aria-label="Platform stats">
+            <div class="hero__stat" role="listitem"><b class="tabular">65</b><span>Localized courses</span></div>
+            <div class="hero__stat" role="listitem"><b class="tabular">5,000+</b><span>Ready-to-use prompts</span></div>
+            <div class="hero__stat" role="listitem"><b class="tabular">2,500+</b><span>Local AI builders</span></div>
+            <div class="hero__stat" role="listitem"><b class="tabular">4.9/5</b><span>Course rating</span></div>
+          </div>
+        </div>
+
+        <div class="hero__art" aria-hidden="true">
+          <div class="hero__book">
+            <div class="mockup mockup--book">
+              <div class="mockup__stage">
+                <div class="mockup__pages"></div>
+                <div class="mockup__spine"></div>
+                <div class="mockup__cover">
+                  <svg class="mockup__cover-art" viewBox="0 0 300 400" preserveAspectRatio="xMidYMid slice">
+                    <defs>
+                      <linearGradient id="cvHero" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="0" stop-color="#064E3B"/>
+                        <stop offset="1" stop-color="#047857"/>
+                      </linearGradient>
+                      <pattern id="gHero" width="26" height="26" patternUnits="userSpaceOnUse">
+                        <path d="M26 0H0V26" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+                      </pattern>
+                    </defs>
+                    <rect width="300" height="400" fill="url(#cvHero)"/>
+                    <rect width="300" height="400" fill="url(#gHero)"/>
+                    <path d="M0 330 300 250v150H0Z" fill="#ffffff" fill-opacity=".05"/>
+                    <circle cx="232" cy="110" r="52" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="1.5"/>
+                    <circle cx="232" cy="110" r="30" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="1.5"/>
+                    <path d="M250 52l-9 24-24 9 24 9 9 24 9-24 24-9-24-9Z" fill="#F5C63C" fill-opacity=".95"/>
+                  </svg>
+                  <span class="mockup__brand"><span class="dot"></span>Elimu AI</span>
+                  <span class="mockup__title">The Elimu AI Library.<br>65 Courses, One Library.</span>
+                  <span class="mockup__sub">Edition · 2026</span>
+                </div>
+                <div class="mockup__shine"></div>
+              </div>
+              <div class="mockup__shadow"></div>
+            </div>
+
+            <div class="hero__float hero__float--top">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2c.5 4.6 2.6 6.7 7 7-4.4.3-6.5 2.4-7 7-.5-4.6-2.6-6.7-7-7 4.4-.3 6.5-2.4 7-7z"/>
+              </svg>
+              <span><b class="tabular">5,000+</b> prompts unlocked</span>
+            </div>
+            <div class="hero__float hero__float--bottom">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>
+              </svg>
+              <span>Unlocks in <b class="tabular">&lt; 3 min</b> via M-Pesa</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TRUST STRIP ============ -->
+    <div class="trust-strip">
+      <div class="container trust-strip__inner">
+        <span class="trust-strip__label">As featured alongside</span>
+        <span class="partner-logo"><span class="mono-mark">GE</span>GrowthEdge</span>
+        <span class="partner-logo"><span class="mono-mark">KN</span>KaziNow</span>
+        <span class="partner-logo"><span class="mono-mark">BR</span>Baraka Co.</span>
+        <span class="partner-logo"><span class="mono-mark">DS</span>DukaSmart</span>
+        <span class="partner-logo"><span class="mono-mark">HM</span>Hadithi Media</span>
+      </div>
+    </div>
+
+    <!-- ============ GOAL SELECTOR ============ -->
+    <section class="section" aria-labelledby="goals-heading">
+      <div class="container">
+        <div class="section-head section-head--split" data-reveal>
+          <div>
+            <span class="eyebrow eyebrow--emerald">Start with your goal</span>
+            <h2 id="goals-heading" class="display-md">What do you want to get done today?</h2>
+          </div>
+          <p class="section-head__aside lede" style="max-width:30ch">Pick a goal and we'll surface the exact courses built for it.</p>
+        </div>
+
+        <div class="goal-grid" data-reveal>
+          <a class="goal-card" href="guides.html?goal=grow-business">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10 12 5 2 10l10 5 10-5Z"/><path d="M6 12v5c3 2 9 2 12 0v-5"/></svg>
+            </span>
+            <b>Grow Business</b>
+            <span>Marketing, sales replies &amp; admin for local businesses.</span>
+          </a>
+          <a class="goal-card" href="guides.html?goal=improve-content">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+            </span>
+            <b>Improve Content</b>
+            <span>Reels, scripts and newsletters that stop the scroll.</span>
+          </a>
+          <a class="goal-card" href="guides.html?goal=automate-study">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+            </span>
+            <b>Automate Study</b>
+            <span>Exam revision, mnemonics &amp; research in half the time.</span>
+          </a>
+          <a class="goal-card" href="guides.html?goal=career-advancement">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg>
+            </span>
+            <b>Career Advancement</b>
+            <span>Resumes, interviews &amp; portfolios that get replies.</span>
+          </a>
+          <a class="goal-card" href="guides.html?goal=freelancing-income">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7Z"/><path d="M4 12h16"/></svg>
+            </span>
+            <b>Freelancing Income</b>
+            <span>Proposals, pricing and client systems that pay.</span>
+          </a>
+          <a class="goal-card" href="guides.html?goal=master-profession">
+            <span class="goal-card__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 20c1.5-3.5 4.5-5 8-5s6.5 1.5 8 5"/></svg>
+            </span>
+            <b>Master My Profession</b>
+            <span>AI workflows for teachers, accountants, nurses &amp; more.</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ FEATURED BUNDLE ============ -->
+    <section class="section--tight" aria-labelledby="bundle-heading">
+      <div class="container">
+        <div class="bundle-card" data-reveal>
+          <div class="bundle-card__media" aria-hidden="true">
+            <div class="mockup__stack">
+              <div class="book-plane" style="background:linear-gradient(180deg,#334155,#1E293B);">
+                <span class="mockup__brand"><span class="dot"></span>Elimu AI</span>
+                <span class="mockup__title" style="color:#E2E8F0">Prompt Engineering for Profit</span>
+              </div>
+              <div class="book-plane" style="background:linear-gradient(180deg,#065F46,#059669);">
+                <span class="mockup__brand"><span class="dot"></span>Elimu AI</span>
+                <span class="mockup__title" style="color:#ECFDF5">AI for WhatsApp Business</span>
+              </div>
+              <div class="book-plane" style="background:linear-gradient(180deg,#064E3B,#047857);">
+                <span class="mockup__brand"><span class="dot"></span>Elimu AI</span>
+                <span class="mockup__title" style="color:#ECFDF5">The Starter Collection</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="bundle-card__body">
+            <div class="bundle-card__marks">
+              <span class="badge badge--gold">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2c.5 4.6 2.6 6.7 7 7-4.4.3-6.5 2.4-7 7-.5-4.6-2.6-6.7-7-7 4.4-.3 6.5-2.4 7-7z"/></svg>
+                Limited Bundle
+              </span>
+              <span class="trust-mark">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3Z"/><path d="m9 12 2 2 4-4"/></svg>
+                Verified
+              </span>
+              <span class="trust-mark trust-mark--mpesa">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12 18h.01"/></svg>
+                M-Pesa Verified
+              </span>
+            </div>
+
+            <h2 id="bundle-heading" class="bundle-card__title">The Starter Collection — 12 Most Popular Courses</h2>
+            <p class="bundle-card__copy">Every business, content, student and freelancer course in the catalog — the 12 most unlocked, 900+ prompts, lifetime updates. One payment. Unlocked forever.</p>
+
+            <div class="scarcity-bar">
+              <div class="scarcity-bar__row">
+                <span>Limited launch offer</span>
+                <span class="strong tabular">Only 12 launch seats</span>
+              </div>
+              <div class="scarcity-bar__track"><div class="scarcity-bar__fill" style="width:42%"></div></div>
+            </div>
+
+            <ul class="bundle-list">
+              <li>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                12 courses · 900+ prompts
+              </li>
+              <li>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                Reads on any phone
+              </li>
+              <li>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                Lifetime updates included
+              </li>
+              <li>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                WhatsApp support group
+              </li>
+            </ul>
+
+            <div class="bundle-card__price-row">
+              <div class="bundle-card__price">
+                <span class="now tabular">KSh 6,999</span>
+                <span class="was tabular">KSh 14,850</span>
+              </div>
+              <a class="btn btn--gold" href="https://wa.me/254792238421?text=Hi%20Elimu%20AI%2C%20I%27d%20like%20to%20reserve%20the%20Starter%20Collection%20bundle%20at%20KSh%206%2C999%20%28down%20from%20KSh%2014%2C850%29.%20Please%20share%20M-Pesa%20payment%20details.">
+                Reserve the Bundle
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-7-7 7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ FEATURED COURSE GRID ============ -->
+    <section class="section" id="featured" aria-labelledby="featured-heading">
+      <div class="container">
+        <div class="section-head section-head--split" data-reveal>
+          <div>
+            <span class="eyebrow eyebrow--emerald">Featured this week</span>
+            <h2 id="featured-heading" class="display-md">6 courses builders keep unlocking</h2>
+          </div>
+          <a class="section-head__aside btn btn--ghost" href="guides.html">
+            Browse the full catalog
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-7-7 7 7-7 7"/></svg>
+          </a>
+        </div>
+
+        <div class="guide-grid" id="featured-grid">
+          <div class="catalog-loading" id="featured-loading">
+            <span class="spinner" aria-hidden="true"></span>
+            <p>Loading featured courses…</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TESTIMONIALS ============ -->
+    <section class="section" style="background:var(--bg-alt); border-top:1px solid var(--line); border-bottom:1px solid var(--line);" aria-labelledby="testimonials-heading">
+      <div class="container">
+        <div class="section-head section-head--split" data-reveal>
+          <div>
+            <span class="eyebrow eyebrow--emerald">Validated results</span>
+            <h2 id="testimonials-heading" class="display-md">Builders who already shipped</h2>
+          </div>
+          <p class="section-head__aside lede" style="max-width:30ch">Real members, real outcomes — with the numbers to prove it.</p>
+        </div>
+
+        <div class="testimonial-grid">
+          <article class="testimonial" data-reveal>
+            <div class="testimonial__head">
+              <span class="avatar" style="background:linear-gradient(140deg,#064E3B,#047857)" aria-hidden="true">MK</span>
+              <div>
+                <div class="testimonial__name">Mercy K.</div>
+                <div class="testimonial__loc">Digital Marketer · Kisumu</div>
+              </div>
+            </div>
+            <span class="testimonial__stars" aria-label="5 out of 5 stars">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </span>
+            <span class="testimonial__metric">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg>
+              Saved 15 hours per week
+            </span>
+            <p class="testimonial__quote">"I used to type every WhatsApp customer reply myself. The course's templates cut my customer-messaging time from 20 hours a week to about 5 — and my order close rate went up."</p>
+            <div class="testimonial__role">Unlocked: AI for WhatsApp Business Replies</div>
+          </article>
+
+          <article class="testimonial" data-reveal>
+            <div class="testimonial__head">
+              <span class="avatar" style="background:linear-gradient(140deg,#111827,#334155)" aria-hidden="true">BO</span>
+              <div>
+                <div class="testimonial__name">Brian O.</div>
+                <div class="testimonial__loc">Final-Year Student · Nairobi CBD</div>
+              </div>
+            </div>
+            <span class="testimonial__stars" aria-label="5 out of 5 stars">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </span>
+            <span class="testimonial__metric">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg>
+              Exam scores B → A
+            </span>
+            <p class="testimonial__quote">"The workbook turned my messy notes into daily revision plans. I stopped cramming at 2am. My end-of-year average moved from a B to an A over one term."</p>
+            <div class="testimonial__role">Unlocked: AI Tools for School &amp; Assignment Help</div>
+          </article>
+
+          <article class="testimonial" data-reveal>
+            <div class="testimonial__head">
+              <span class="avatar" style="background:linear-gradient(140deg,#B45309,#D97706)" aria-hidden="true">WN</span>
+              <div>
+                <div class="testimonial__name">Wanjiru N.</div>
+                <div class="testimonial__loc">Freelance Writer · Nakuru</div>
+              </div>
+            </div>
+            <span class="testimonial__stars" aria-label="5 out of 5 stars">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </span>
+            <span class="testimonial__metric">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg>
+              Monthly income KSh 30k → 60k
+            </span>
+            <p class="testimonial__quote">"The proposal prompts alone paid for the course. I stopped writing every pitch from scratch, doubled my client work, and finally raised my rates."</p>
+            <div class="testimonial__role">Unlocked: Prompt Engineering for Profit</div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CONVERSION BAND ============ -->
+    <section class="section" aria-labelledby="convert-heading">
+      <div class="container">
+        <div class="conversion-band" data-reveal>
+          <span class="eyebrow eyebrow--gold">Start in the next 10 minutes</span>
+          <h2 id="convert-heading">Your next skill is one course away.</h2>
+          <p>Browse the catalog, unlock with M-Pesa, and get your course delivered on WhatsApp — while the coffee is still hot.</p>
+          <div class="hero__cta">
+            <a class="btn btn--primary btn--lg" href="guides.html">
+              Explore all 65 Courses
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-7-7 7 7-7 7"/></svg>
+            </a>
+            <a class="btn btn--ghost-dark btn--lg" href="community.html">Join the Community</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="container footer__grid">
+      <div class="footer__brand">
+        <a class="brand" href="index.html" aria-label="Elimu AI home">
+          <span class="brand__mark" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 8.2A2.7 2.7 0 0 1 5.7 5.5H11v9.2H5.7a2.7 2.7 0 0 1-2.7-2.7V8.2Z" fill="currentColor" stroke="none"/>
+              <path d="M13 5.5h5.3A2.7 2.7 0 0 1 21 8.2v3.8a2.7 2.7 0 0 1-2.7 2.7H13V5.5Z" fill="currentColor" fill-opacity=".9" stroke="none"/>
+              <path d="M11 5.5v9.2" stroke-width="1.6"/>
+              <path d="M17 5.5V3.4" stroke="#F5C63C" stroke-width="1.7"/>
+              <path d="M17 2.6 14.2 1M17 2.6 19.8 1" stroke-width="1.4"/>
+              <circle cx="14.2" cy=".9" r="1.05" fill="currentColor" stroke="none"/>
+              <circle cx="19.8" cy=".9" r="1.05" fill="currentColor" stroke="none"/>
+              <circle cx="17" cy="3.1" r="1.8" fill="#F5C63C" stroke="none"/>
+            </svg>
+          </span>
+          <span class="brand__name" style="color:var(--on-dark)">Elimu <em style="color:var(--emerald-100)">AI</em></span>
+        </a>
+        <p>Premium, localized micro-learning courses and practical AI workbooks for Kenyan builders — unlocked in minutes via M-Pesa.</p>
+        <div class="footer__pay">
+          <span class="trust-mark trust-mark--on-dark">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M12 18h.01"/></svg>
+            M-Pesa
+          </span>
+          <span class="trust-mark trust-mark--on-dark">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3Z"/><path d="m9 12 2 2 4-4"/></svg>
+            Visa
+          </span>
+          <span class="trust-mark trust-mark--on-dark">Airtel Money</span>
+        </div>
+      </div>
+      <div class="footer__col">
+        <h4>Courses</h4>
+        <ul>
+          <li><a href="guides.html">All Courses</a></li>
+          <li><a href="guides.html?goal=grow-business">Business</a></li>
+          <li><a href="guides.html?goal=improve-content">Content</a></li>
+          <li><a href="guides.html?goal=automate-study">Student</a></li>
+          <li><a href="guides.html?goal=freelancing-income">Freelancing</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="community.html">Community</a></li>
+          <li><a href="community.html#instructors">Instructors</a></li>
+          <li><a href="community.html#faq">FAQ</a></li>
+          <li><a href="community.html#request">Request a Course</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Support</h4>
+        <ul>
+          <li><a href="https://wa.me/254792238421">WhatsApp Support</a></li>
+          <li><a href="mailto:hello@elimuai.co.ke">hello@elimuai.co.ke</a></li>
+          <li><a href="community.html#faq">Payments &amp; Refunds</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer__bottom">
+      <span>© <span id="year">2026</span> Elimu AI. All rights reserved.</span>
+      <div class="footer__legal">
+        <a href="#">Terms</a>
+        <a href="#">Privacy</a>
+        <a href="#">Licensing</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ============ LIVE PURCHASE TICKER ============ -->
+  <aside class="ticker" id="ticker" aria-live="polite" aria-atomic="true">
+    <div class="ticker__head">
+      <span class="ticker__dot" aria-hidden="true"></span>
+      <span class="ticker__label">Live unlocks</span>
+      <button class="ticker__close no-print" id="ticker-close" aria-label="Dismiss notification">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+    <p class="ticker__body"><strong id="ticker-name">Mercy K.</strong> from <span id="ticker-loc">Kisumu</span> just unlocked <span id="ticker-item">ChatGPT Basics for Beginners</span></p>
+    <span class="ticker__time tabular" id="ticker-time">12 minutes ago</span>
+  </aside>
+
+  <script src="js/main.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/covers.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

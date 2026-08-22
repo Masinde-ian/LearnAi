@@ -1,0 +1,4470 @@
+{
+  "meta": {
+    "name": "Elimu AI",
+    "tagline": "Practical AI courses for the way Kenya works.",
+    "waNumber": "254792238421",
+    "email": "hello@elimuai.co.ke",
+    "builders": 2500,
+    "rating": 4.9,
+    "updated": "2026-08-20",
+    "count": 65,
+    "promptCount": 5002
+  },
+  "instructors": {
+    "KM": {
+      "name": "Kevin Mwangi",
+      "initials": "KM",
+      "role": "Prompt Engineering Specialist · ex-Safaricom",
+      "gradient": "linear-gradient(140deg,#064E3B,#047857)",
+      "bio": "Tested 40,000+ prompts in African business contexts. Kevin designs the prompt systems inside every Elimu AI course and benchmarks every template against real output quality.",
+      "tags": [
+        "Prompt systems",
+        "Localization"
+      ]
+    },
+    "FN": {
+      "name": "Faith Njeri",
+      "initials": "FN",
+      "role": "Content Strategist · former national editor",
+      "gradient": "linear-gradient(140deg,#B45309,#D97706)",
+      "bio": "Eleven years in Kenyan newsrooms. Faith curates the editorial frameworks so every course reads like a great editor is sitting beside you.",
+      "tags": [
+        "Editorial craft",
+        "Newsletters"
+      ]
+    },
+    "AO": {
+      "name": "Dr. Amara Otieno",
+      "initials": "AO",
+      "role": "AI Curriculum Lead · PhD ML, Strathmore",
+      "gradient": "linear-gradient(140deg,#111827,#334155)",
+      "bio": "Researches applied AI in low-resource settings. Dr. Otieno sets the learning science so courses build real skill, not just steps.",
+      "tags": [
+        "Learning design",
+        "Low-resource AI"
+      ]
+    },
+    "SK": {
+      "name": "Samuel Kiprop",
+      "initials": "SK",
+      "role": "Localization Lead · Kiswahili LLM researcher",
+      "gradient": "linear-gradient(140deg,#065F46,#10B981)",
+      "bio": "Works on multilingual model alignment. Samuel ensures every prompt performs with Kenyan English, Sheng and Kiswahili — not just textbook English.",
+      "tags": [
+        "Multilingual",
+        "Culture fit"
+      ]
+    }
+  },
+  "courses": [
+    {
+      "id": 1,
+      "slug": "chatgpt-basics-for-beginners",
+      "title": "ChatGPT Basics for Beginners",
+      "tier": 1,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "job-seeker",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "productivity"
+      ],
+      "price": 500,
+      "pages": 28,
+      "prompts": 25,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 0,
+      "featured": true,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 1140,
+      "updated": "2026-08-12",
+      "desc": "What ChatGPT is and isn't, free account setup, your first 10 useful prompts, and the beginner mistakes that waste time — all on your phone.",
+      "tagline": "Your first real ChatGPT win in under 2 hours.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 2,
+      "slug": "ai-prompt-writing-101",
+      "title": "AI Prompt Writing 101",
+      "tier": 1,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "job-seeker",
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "writing",
+        "productivity"
+      ],
+      "price": 550,
+      "pages": 30,
+      "prompts": 30,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 920,
+      "updated": "2026-08-10",
+      "desc": "The anatomy of a good prompt, weak-vs-strong before/afters, a 20-prompt cheat sheet, and how to fix a bad AI reply by re-prompting.",
+      "tagline": "Stop getting vague answers — write prompts that work first time.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 3,
+      "slug": "ai-social-media-captions",
+      "title": "Using AI to Write Social Media Captions",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 30,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": true,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 980,
+      "updated": "2026-08-08",
+      "desc": "Generate captions for Instagram, TikTok, Facebook and WhatsApp Status, match tone to audience, and batch a week of posts in 15 minutes.",
+      "tagline": "A week of captions in 15 minutes, in the right tone.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 4,
+      "slug": "ai-cv-cover-letter-writing",
+      "title": "AI for CV & Cover Letter Writing",
+      "tier": 1,
+      "cat": "Career",
+      "level": "beginner",
+      "roles": [
+        "job-seeker",
+        "student"
+      ],
+      "tasks": [
+        "writing"
+      ],
+      "price": 550,
+      "pages": 30,
+      "prompts": 28,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 3,
+      "featured": true,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.9,
+      "unlocks": 1105,
+      "updated": "2026-08-09",
+      "desc": "Turn a rough work history into a polished CV, write tailored cover letters, avoid Kenyan job-seeker mistakes, and format for ATS.",
+      "tagline": "A CV that passes ATS filters and gets you interviews.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 5,
+      "slug": "canva-ai-quick-graphics",
+      "title": "Canva + AI for Quick Graphics",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator",
+        "entrepreneur",
+        "freelancer"
+      ],
+      "tasks": [
+        "design-media"
+      ],
+      "price": 500,
+      "pages": 28,
+      "prompts": 26,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "FN",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 760,
+      "updated": "2026-08-06",
+      "desc": "Use Canva's built-in AI tools, make posters and social posts in minutes, know which paid features are worth it, and keep 5 reusable templates.",
+      "tagline": "Professional graphics in minutes — no design degree needed.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 6,
+      "slug": "ai-school-assignment-help",
+      "title": "AI Tools for School & Assignment Help",
+      "tier": 1,
+      "cat": "Student",
+      "level": "beginner",
+      "roles": [
+        "student"
+      ],
+      "tasks": [
+        "study"
+      ],
+      "price": 500,
+      "pages": 32,
+      "prompts": 32,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 5,
+      "featured": true,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 1230,
+      "updated": "2026-08-11",
+      "desc": "Understand hard topics, summarize textbooks, revise with AI-generated questions, and use AI responsibly without plagiarizing.",
+      "tagline": "Understand any topic and revise smarter — the honest way.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 7,
+      "slug": "ai-side-hustle-ideas",
+      "title": "Using AI to Find a Side Hustle Idea",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "student",
+        "job-seeker"
+      ],
+      "tasks": [
+        "money-growth"
+      ],
+      "price": 550,
+      "pages": 26,
+      "prompts": 24,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 860,
+      "updated": "2026-08-05",
+      "desc": "Brainstorm side hustle ideas from your skills, validate them before spending money, and write a one-page plan with real Kenyan examples.",
+      "tagline": "Find and validate a hustle idea before you risk a shilling.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 8,
+      "slug": "ai-whatsapp-business-replies",
+      "title": "AI for WhatsApp Business Replies",
+      "tier": 1,
+      "cat": "Business",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin"
+      ],
+      "price": 600,
+      "pages": 30,
+      "prompts": 36,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 1,
+      "featured": true,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 1500,
+      "updated": "2026-08-14",
+      "desc": "Write quick professional replies, build saved templates, handle price and delivery objections, and turn chats into sales without sounding robotic.",
+      "tagline": "Turn every WhatsApp chat into a chance to close.",
+      "was": 1100,
+      "discount": 45,
+      "save": 500
+    },
+    {
+      "id": 9,
+      "slug": "ai-voice-video-tools",
+      "title": "AI Voice & Video Tools Basics",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 25,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 640,
+      "updated": "2026-08-03",
+      "desc": "Overview of free AI video and voice tools, turn a script into a captioned short, generate voiceovers, and export for TikTok, Reels and Shorts.",
+      "tagline": "Your first captioned short, no camera or mic required.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 10,
+      "slug": "ai-blogging-content-writing",
+      "title": "AI for Blogging & Content Writing Basics",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator",
+        "freelancer"
+      ],
+      "tasks": [
+        "writing"
+      ],
+      "price": 550,
+      "pages": 30,
+      "prompts": 28,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 700,
+      "updated": "2026-08-02",
+      "desc": "Turn an idea into a full blog post outline with AI, write in your own voice, get SEO basics, and edit drafts so they don't read as AI-written.",
+      "tagline": "Write faster without sounding like a robot.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 11,
+      "slug": "ai-bio-profile-optimization",
+      "title": "AI for Instagram & TikTok Bio Optimization",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "marketing",
+        "writing"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 22,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.7,
+      "unlocks": 540,
+      "updated": "2026-08-01",
+      "desc": "Write a bio that converts, pick a niche and content angle, quick profile-pic and highlight ideas, and a 5-minute profile audit.",
+      "tagline": "A profile that turns visitors into followers and customers.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 12,
+      "slug": "ai-business-naming-slogan",
+      "title": "AI for Naming Your Business & Writing a Slogan",
+      "tier": 1,
+      "cat": "Business",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 20,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 590,
+      "updated": "2026-07-30",
+      "desc": "Generate and shortlist business names, check domain and social availability fast, write a memorable slogan, and know the BRS registration basics.",
+      "tagline": "A name and slogan that stick — without paying a branding agency.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 13,
+      "slug": "ai-budgeting-meal-planning",
+      "title": "AI for Budgeting & Meal Planning on a Tight Income",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "entrepreneur",
+        "professional"
+      ],
+      "tasks": [
+        "money-growth",
+        "productivity"
+      ],
+      "price": 500,
+      "pages": 28,
+      "prompts": 26,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 720,
+      "updated": "2026-07-28",
+      "desc": "Build a simple weekly budget, plan affordable family meals, track spending without apps, and cut recurring costs with AI suggestions.",
+      "tagline": "Make a tight income stretch further — one budget at a time.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 14,
+      "slug": "ai-farmers-crop-pest",
+      "title": "AI for Farmers: Quick Crop & Pest Identification",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "money-growth"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 24,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "SK",
+        "AO"
+      ],
+      "rating": 4.8,
+      "unlocks": 480,
+      "updated": "2026-07-26",
+      "desc": "Identify common pests and diseases with AI photo tools, get planting and weather guidance, and know when a local agrovet is the real answer.",
+      "tagline": "Faster crop and pest answers — while knowing when to ask an expert.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 15,
+      "slug": "ai-church-announcements",
+      "title": "AI for Church Announcements & Sermon Notes",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 22,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.7,
+      "unlocks": 410,
+      "updated": "2026-07-24",
+      "desc": "Turn rough sermon notes into shareable summaries, write weekly announcements and WhatsApp group messages, and make simple event graphics.",
+      "tagline": "Clear, authentic church communication in minutes.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 16,
+      "slug": "ai-wedding-event-planning",
+      "title": "AI for Wedding & Event Planning Basics",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "professional",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "admin",
+        "marketing"
+      ],
+      "price": 550,
+      "pages": 28,
+      "prompts": 26,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "SK",
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 520,
+      "updated": "2026-07-22",
+      "desc": "Build a day-of event checklist and timeline, write invitations and MC scripts, budget with AI, and use vendor communication templates.",
+      "tagline": "Plan a wedding or event that actually runs on time.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 17,
+      "slug": "ai-workout-fitness-plans",
+      "title": "AI for Simple Workout & Fitness Plans",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "professional"
+      ],
+      "tasks": [
+        "productivity"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 20,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.7,
+      "unlocks": 460,
+      "updated": "2026-07-20",
+      "desc": "Generate a beginner workout plan from your goals and equipment, get basic nutrition guidance, track progress simply, and know when to see a pro.",
+      "tagline": "A simple plan you'll actually follow — no gym membership required.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 18,
+      "slug": "ai-parents-homework-stories",
+      "title": "AI for Parents: Homework Help & Bedtime Stories",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "study",
+        "writing"
+      ],
+      "price": 500,
+      "pages": 28,
+      "prompts": 26,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 560,
+      "updated": "2026-07-18",
+      "desc": "Explain homework in simple terms, generate custom bedtime stories in English or Kiswahili, and build a safe weekly family learning routine.",
+      "tagline": "Homework help and bedtime stories, in English or Kiswahili.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 19,
+      "slug": "ai-song-lyrics-music",
+      "title": "AI for Song Lyrics & Music Ideas",
+      "tier": 1,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media",
+        "writing"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 22,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.7,
+      "unlocks": 430,
+      "updated": "2026-07-16",
+      "desc": "Generate lyric ideas and song structures, beat writer's block, keep your originality, and turn lyrics into a rough demo.",
+      "tagline": "Finish songs instead of staring at a blank page.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 20,
+      "slug": "ai-legal-letter-templates",
+      "title": "AI for Quick Legal & Business Letter Templates",
+      "tier": 1,
+      "cat": "Business",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "freelancer"
+      ],
+      "tasks": [
+        "admin",
+        "writing"
+      ],
+      "price": 600,
+      "pages": 30,
+      "prompts": 28,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 620,
+      "updated": "2026-07-14",
+      "desc": "Generate demand letters, notices and quotations, draft simple agreements and receipts, and know when a real lawyer is required.",
+      "tagline": "10 ready-to-edit templates — and a clear line for when to call a lawyer.",
+      "was": 1100,
+      "discount": 45,
+      "save": 500
+    },
+    {
+      "id": 21,
+      "slug": "ai-debt-savings-planning",
+      "title": "AI for Debt & Savings Planning",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "student"
+      ],
+      "tasks": [
+        "money-growth"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 24,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "SK",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 690,
+      "updated": "2026-07-12",
+      "desc": "Map debts and build a payoff plan, set realistic savings goals, manage chama records with AI, and catch money mistakes early.",
+      "tagline": "A debt payoff and savings plan that fits your actual income.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 22,
+      "slug": "ai-sacco-record-keeping",
+      "title": "AI for Boda Boda & Matatu SACCO Record Keeping",
+      "tier": 1,
+      "cat": "Business",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "professional"
+      ],
+      "tasks": [
+        "admin",
+        "money-growth"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 22,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "SK",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 380,
+      "updated": "2026-07-10",
+      "desc": "Set up daily income and expense tracking, generate SACCO meeting reports, write member reminders, and track loans and savings.",
+      "tagline": "Clean SACCO records and reports without the spreadsheet pain.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 23,
+      "slug": "ai-excel-data-entry",
+      "title": "AI for Quick Excel & Data Entry Skills",
+      "tier": 1,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "freelancer",
+        "job-seeker"
+      ],
+      "tasks": [
+        "admin",
+        "productivity"
+      ],
+      "price": 550,
+      "pages": 30,
+      "prompts": 28,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "KM",
+        "AO"
+      ],
+      "rating": 4.8,
+      "unlocks": 810,
+      "updated": "2026-07-08",
+      "desc": "Write Excel formulas without memorizing syntax, clean messy data fast, build simple dashboards, and find local and remote data jobs.",
+      "tagline": "Excel formulas on demand — and data jobs to use them on.",
+      "was": 1000,
+      "discount": 45,
+      "save": 450
+    },
+    {
+      "id": 24,
+      "slug": "ai-translation-kiswahili",
+      "title": "AI for Translating Content (English–Kiswahili)",
+      "tier": 1,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 600,
+      "pages": 26,
+      "prompts": 24,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 450,
+      "updated": "2026-07-06",
+      "desc": "Translate marketing content accurately, make it sound natural not robotic, and build a translation side-service people pay for.",
+      "tagline": "Natural translations that read local — not robotic.",
+      "was": 1100,
+      "discount": 45,
+      "save": 500
+    },
+    {
+      "id": 25,
+      "slug": "ai-sleep-routine-planning",
+      "title": "AI for Better Sleep & Daily Routine Planning",
+      "tier": 1,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "job-seeker"
+      ],
+      "tasks": [
+        "productivity"
+      ],
+      "price": 500,
+      "pages": 24,
+      "prompts": 20,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.7,
+      "unlocks": 400,
+      "updated": "2026-07-04",
+      "desc": "Design a personalized daily and weekly routine, build simple habits and reminders, and fix what's disrupting your sleep and focus.",
+      "tagline": "A realistic routine you'll stick to — no 5am overhaul.",
+      "was": 1000,
+      "discount": 50,
+      "save": 500
+    },
+    {
+      "id": 26,
+      "slug": "advanced-chatgpt-mastery",
+      "title": "Advanced ChatGPT Mastery: Automate Your Work Tasks",
+      "tier": 2,
+      "cat": "AI Basics",
+      "level": "pro",
+      "roles": [
+        "entrepreneur",
+        "job-seeker",
+        "freelancer"
+      ],
+      "tasks": [
+        "admin",
+        "productivity"
+      ],
+      "price": 2500,
+      "pages": 84,
+      "prompts": 60,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 680,
+      "updated": "2026-08-15",
+      "desc": "Build repeatable prompt templates for recurring work tasks, use ChatGPT for research and reports, connect it to email and data workflows, and tune custom instructions.",
+      "tagline": "Repeatable prompt templates that save hours every week.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 27,
+      "slug": "prompt-engineering-for-profit",
+      "title": "Prompt Engineering for Profit: Sell Prompts & Services",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 2800,
+      "pages": 96,
+      "prompts": 70,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": true,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 760,
+      "updated": "2026-08-16",
+      "desc": "Chain prompting, role-stacking and few-shot structures, a personal prompt library, packaging prompts as a product, and where to sell locally and online.",
+      "tagline": "Turn prompt skill into a sellable product or service.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 28,
+      "slug": "social-media-content-system",
+      "title": "Social Media Content System: 30 Days of Content in 2 Hours",
+      "tier": 2,
+      "cat": "Content",
+      "level": "beginner",
+      "roles": [
+        "content-creator",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "writing"
+      ],
+      "price": 2500,
+      "pages": 90,
+      "prompts": 64,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 640,
+      "updated": "2026-08-13",
+      "desc": "Plan a full month's content calendar with AI, batch-generate captions and hooks by theme, repurpose one piece into 5 formats, and read simple analytics.",
+      "tagline": "A month of content planned, written and scheduled in 2 hours.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 29,
+      "slug": "land-the-job",
+      "title": "Land the Job: AI-Powered Job Application System",
+      "tier": 2,
+      "cat": "Career",
+      "level": "beginner",
+      "roles": [
+        "job-seeker",
+        "student"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 2700,
+      "pages": 88,
+      "prompts": 62,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "FN",
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 720,
+      "updated": "2026-08-12",
+      "desc": "Build a master CV and tailor it per role in minutes, optimize LinkedIn with AI, prepare for interviews with mock Q&A, and follow up professionally.",
+      "tagline": "A master CV and application system that gets replies.",
+      "was": 5100,
+      "discount": 47,
+      "save": 2400
+    },
+    {
+      "id": 30,
+      "slug": "ai-graphic-design-business",
+      "title": "AI Graphic Design Business: From Canva to Client Work",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media",
+        "marketing"
+      ],
+      "price": 2800,
+      "pages": 94,
+      "prompts": 66,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "FN",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 560,
+      "updated": "2026-08-10",
+      "desc": "Build a portfolio of AI-assisted designs, price and package design services, find your first paying clients, and deliver professional files with revisions.",
+      "tagline": "Portfolio, pricing and your first paying design clients.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 31,
+      "slug": "ai-study-research-mastery",
+      "title": "AI Study & Research Mastery for Students",
+      "tier": 2,
+      "cat": "Student",
+      "level": "beginner",
+      "roles": [
+        "student"
+      ],
+      "tasks": [
+        "study",
+        "writing"
+      ],
+      "price": 2500,
+      "pages": 92,
+      "prompts": 64,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 800,
+      "updated": "2026-08-09",
+      "desc": "Research papers, citations and literature summaries with AI, a personalized study plan, exam prep across subjects, and staying within academic integrity rules.",
+      "tagline": "Research papers and exam prep, done the honest way.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 32,
+      "slug": "launch-ai-side-hustle",
+      "title": "Launch Your AI Side Hustle: From Idea to First Client",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "freelancer"
+      ],
+      "tasks": [
+        "money-growth",
+        "marketing"
+      ],
+      "price": 2600,
+      "pages": 84,
+      "prompts": 58,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 600,
+      "updated": "2026-08-08",
+      "desc": "Turn a validated idea into an offer, set a price and service page, get your first 5 customers via WhatsApp and referrals, and get paid via M-Pesa.",
+      "tagline": "From validated idea to your first 5 paying customers.",
+      "was": 4900,
+      "discount": 47,
+      "save": 2300
+    },
+    {
+      "id": 33,
+      "slug": "automate-whatsapp-chatbots",
+      "title": "Automate Your WhatsApp Business with AI Chatbots",
+      "tier": 2,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin"
+      ],
+      "price": 3200,
+      "pages": 98,
+      "prompts": 68,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 520,
+      "updated": "2026-08-14",
+      "desc": "Set up a basic AI auto-responder for WhatsApp Business, automate FAQs, orders and appointments, hand off bot to human at the right moment, and pick low-cost tools.",
+      "tagline": "An auto-responder that books orders while you sleep.",
+      "was": 6100,
+      "discount": 48,
+      "save": 2900
+    },
+    {
+      "id": 34,
+      "slug": "ai-faceless-video-creation",
+      "title": "AI Video Creation: Make Faceless Videos That Get Views",
+      "tier": 2,
+      "cat": "Content",
+      "level": "pro",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media",
+        "marketing"
+      ],
+      "price": 2800,
+      "pages": 92,
+      "prompts": 66,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 580,
+      "updated": "2026-08-07",
+      "desc": "Script a full faceless video from one idea, combine AI voice, stock footage and captions, grow the page step by step, and learn monetization paths.",
+      "tagline": "A faceless channel pipeline that grows while you sleep.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 35,
+      "slug": "ai-content-writing-business",
+      "title": "AI Content Writing Business: Get Paid to Write with AI",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "beginner",
+      "roles": [
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 2700,
+      "pages": 90,
+      "prompts": 64,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "FN",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 620,
+      "updated": "2026-08-06",
+      "desc": "Write articles, product descriptions and website copy with AI, edit output so it passes as quality human writing, find gigs, and price your services.",
+      "tagline": "Get paid to write — with AI doing the heavy lifting.",
+      "was": 5100,
+      "discount": 47,
+      "save": 2400
+    },
+    {
+      "id": 36,
+      "slug": "ai-personal-finance-system",
+      "title": "AI-Powered Personal Finance & Budgeting System",
+      "tier": 2,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "freelancer"
+      ],
+      "tasks": [
+        "money-growth"
+      ],
+      "price": 2500,
+      "pages": 82,
+      "prompts": 56,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 580,
+      "updated": "2026-08-05",
+      "desc": "A full monthly budgeting system with AI tracking prompts, planning for irregular income, savings goals for milestones, and monthly budget reviews.",
+      "tagline": "A monthly budget system for irregular income.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 37,
+      "slug": "ai-agribusiness-farm-to-market",
+      "title": "AI for Agribusiness: From Farm to Market",
+      "tier": 2,
+      "cat": "Business",
+      "level": "beginner",
+      "roles": [
+        "professional",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "money-growth",
+        "marketing"
+      ],
+      "price": 2600,
+      "pages": 86,
+      "prompts": 60,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "SK",
+        "AO"
+      ],
+      "rating": 4.8,
+      "unlocks": 420,
+      "updated": "2026-08-04",
+      "desc": "A farm record-keeping and planning system with AI, research buyers and pricing trends, market produce directly, and coordinate cooperative selling.",
+      "tagline": "From record-keeping to selling direct — a farm system.",
+      "was": 4900,
+      "discount": 47,
+      "save": 2300
+    },
+    {
+      "id": 38,
+      "slug": "ai-church-content-at-scale",
+      "title": "AI for Church & Ministry Content at Scale",
+      "tier": 2,
+      "cat": "Everyday AI",
+      "level": "beginner",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 2500,
+      "pages": 80,
+      "prompts": 56,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.7,
+      "unlocks": 380,
+      "updated": "2026-08-03",
+      "desc": "A content calendar for sermons, devotionals and social posts, multi-platform content from one sermon, outreach support, and a consistent authentic voice.",
+      "tagline": "One sermon becomes a week of content.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 39,
+      "slug": "ai-event-planning-business",
+      "title": "AI Event Planning Business: From Idea to Paid Bookings",
+      "tier": 2,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur",
+        "professional"
+      ],
+      "tasks": [
+        "admin",
+        "marketing"
+      ],
+      "price": 2700,
+      "pages": 88,
+      "prompts": 58,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "SK",
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 460,
+      "updated": "2026-08-02",
+      "desc": "Turn event-planning skill into a bookable service, build a portfolio and pricing packages, run vendor management and client communication, and market locally.",
+      "tagline": "Turn event planning into paid bookings.",
+      "was": 5100,
+      "discount": 47,
+      "save": 2400
+    },
+    {
+      "id": 40,
+      "slug": "ai-fitness-coaching",
+      "title": "AI Fitness Coaching: Build & Sell Online Programs",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "freelancer"
+      ],
+      "tasks": [
+        "money-growth",
+        "marketing"
+      ],
+      "price": 2800,
+      "pages": 92,
+      "prompts": 62,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 440,
+      "updated": "2026-08-01",
+      "desc": "Design structured multi-week programs, personalize at scale for multiple clients, package and price an online coaching offer, and deliver via WhatsApp.",
+      "tagline": "Design, package and sell online coaching programs.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 41,
+      "slug": "ai-parents-education-business",
+      "title": "AI for Parents: Build an Educational Content Side Business",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "beginner",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "writing",
+        "money-growth"
+      ],
+      "price": 2500,
+      "pages": 78,
+      "prompts": 54,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.7,
+      "unlocks": 360,
+      "updated": "2026-07-31",
+      "desc": "Turn homework-help skill into paid tutoring content, build a library of AI-assisted worksheets and story lessons, and market to other parents.",
+      "tagline": "Turn homework help into paid tutoring content.",
+      "was": 4800,
+      "discount": 48,
+      "save": 2300
+    },
+    {
+      "id": 42,
+      "slug": "ai-music-production",
+      "title": "AI Music Production Basics: Beats, Lyrics & Distribution",
+      "tier": 2,
+      "cat": "Content",
+      "level": "pro",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media",
+        "money-growth"
+      ],
+      "price": 2800,
+      "pages": 90,
+      "prompts": 60,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.7,
+      "unlocks": 400,
+      "updated": "2026-07-30",
+      "desc": "Generate and refine beats with AI tools, structure a full song from lyrics to arrangement, home recording tips, and distribution on Spotify and Audiomack.",
+      "tagline": "Beats, structure and distribution — from lyrics to Spotify.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 43,
+      "slug": "ai-legal-admin-document-business",
+      "title": "AI Legal & Admin Document Business",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "beginner",
+      "roles": [
+        "freelancer",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "admin",
+        "writing"
+      ],
+      "price": 2700,
+      "pages": 84,
+      "prompts": 58,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 480,
+      "updated": "2026-07-29",
+      "desc": "Build a library of reusable business document templates, offer a document-drafting service to small businesses, understand liability, and price the service.",
+      "tagline": "A document-drafting service for small businesses.",
+      "was": 5100,
+      "discount": 47,
+      "save": 2400
+    },
+    {
+      "id": 44,
+      "slug": "ai-virtual-assistant-skills",
+      "title": "AI Virtual Assistant Skills: Get Hired Remotely",
+      "tier": 2,
+      "cat": "Career",
+      "level": "pro",
+      "roles": [
+        "job-seeker",
+        "student"
+      ],
+      "tasks": [
+        "admin",
+        "productivity"
+      ],
+      "price": 3000,
+      "pages": 94,
+      "prompts": 62,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "AO",
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 700,
+      "updated": "2026-07-28",
+      "desc": "Build a VA skill set — scheduling, inbox management, data tasks — with AI, create a VA-specific portfolio and CV, find remote jobs, and manage multiple clients.",
+      "tagline": "A VA skill set that wins international remote roles.",
+      "was": 5700,
+      "discount": 47,
+      "save": 2700
+    },
+    {
+      "id": 45,
+      "slug": "ai-translators-transcribers",
+      "title": "AI for Translators & Transcribers: Build a Service Business",
+      "tier": 2,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 2800,
+      "pages": 88,
+      "prompts": 58,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 420,
+      "updated": "2026-07-27",
+      "desc": "Offer translation and transcription as a paid freelance service, use AI to speed up work while keeping accuracy, find clients, and price per word and minute.",
+      "tagline": "Offer translation and transcription as a paid service.",
+      "was": 5300,
+      "discount": 47,
+      "save": 2500
+    },
+    {
+      "id": 46,
+      "slug": "ai-for-freelancers",
+      "title": "AI for Freelancers: Build a Full Freelance Business Using AI",
+      "tier": 3,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer"
+      ],
+      "tasks": [
+        "marketing",
+        "admin",
+        "money-growth"
+      ],
+      "price": 5000,
+      "pages": 148,
+      "prompts": 110,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 380,
+      "updated": "2026-08-18",
+      "desc": "Choose a niche and set up profiles, write winning proposals and portfolio pieces, deliver client work faster with AI, price contracts, and scale to a small team.",
+      "tagline": "A full freelance business — proposals, delivery, scaling.",
+      "was": 9500,
+      "discount": 47,
+      "save": 4500
+    },
+    {
+      "id": 47,
+      "slug": "ai-real-estate-agents-kenya",
+      "title": "AI for Real Estate Agents in Kenya",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "marketing",
+        "writing"
+      ],
+      "price": 5500,
+      "pages": 156,
+      "prompts": 118,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 300,
+      "updated": "2026-08-17",
+      "desc": "Write property listings and ad copy, create marketing content and virtual tour scripts, automate client inquiries and follow-ups, and run comparables research.",
+      "tagline": "Listings, follow-ups and marketing on autopilot.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 48,
+      "slug": "ai-teachers-tutors",
+      "title": "AI for Teachers & Tutors: Building Digital Courses & Content",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "writing",
+        "marketing"
+      ],
+      "price": 5000,
+      "pages": 152,
+      "prompts": 112,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.8,
+      "unlocks": 260,
+      "updated": "2026-08-16",
+      "desc": "Turn lesson plans into structured digital course content, create quizzes and study guides with AI, record efficiently, pick a platform, and market to parents.",
+      "tagline": "Turn lesson plans into sellable digital courses.",
+      "was": 9500,
+      "discount": 47,
+      "save": 4500
+    },
+    {
+      "id": 49,
+      "slug": "ai-small-business-automation",
+      "title": "AI for Small Business Owners: Automate Sales, Marketing & Customer Service",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin"
+      ],
+      "price": 6000,
+      "pages": 168,
+      "prompts": 130,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 340,
+      "updated": "2026-08-15",
+      "desc": "Map your processes to find where AI saves time, automate marketing and ad copy, set up AI-assisted customer service, and build a 90-day automation roadmap.",
+      "tagline": "A 90-day automation roadmap for your business.",
+      "was": 11400,
+      "discount": 47,
+      "save": 5400
+    },
+    {
+      "id": 50,
+      "slug": "ai-content-creators-influencers",
+      "title": "AI for Content Creators & Influencers: Build a Personal Brand with AI",
+      "tier": 3,
+      "cat": "Content",
+      "level": "pro",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "marketing",
+        "design-media",
+        "writing"
+      ],
+      "price": 5500,
+      "pages": 158,
+      "prompts": 122,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 310,
+      "updated": "2026-08-14",
+      "desc": "Define your brand niche and content pillars, script and edit at scale, build a posting system without burnout, grow an audience, and pitch to brands.",
+      "tagline": "A personal-brand system that doesn't burn you out.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 51,
+      "slug": "ai-job-seekers-career-switchers",
+      "title": "AI for Job Seekers & Career Switchers: Land a Tech/Remote Job",
+      "tier": 3,
+      "cat": "Career",
+      "level": "pro",
+      "roles": [
+        "job-seeker",
+        "student"
+      ],
+      "tasks": [
+        "writing",
+        "study"
+      ],
+      "price": 5500,
+      "pages": 160,
+      "prompts": 124,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "AO",
+        "FN"
+      ],
+      "rating": 4.9,
+      "unlocks": 330,
+      "updated": "2026-08-13",
+      "desc": "Identify in-demand AI-adjacent skills, build a project portfolio with AI, prepare for technical and behavioral interviews, and apply to remote roles from Kenya.",
+      "tagline": "Land a tech or remote job with an AI-built portfolio.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 52,
+      "slug": "ai-ecommerce-sellers",
+      "title": "AI for E-commerce Sellers: Dropshipping & Store Automation",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin"
+      ],
+      "price": 6500,
+      "pages": 172,
+      "prompts": 136,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 280,
+      "updated": "2026-08-12",
+      "desc": "Validate a product niche with AI research, automate a store from listings to replies, handle customer service at scale, run ads, and manage logistics.",
+      "tagline": "Automate your store from listings to orders.",
+      "was": 12400,
+      "discount": 48,
+      "save": 5900
+    },
+    {
+      "id": 53,
+      "slug": "ai-hospitality-tourism",
+      "title": "AI for Hospitality & Tourism Businesses",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin"
+      ],
+      "price": 5500,
+      "pages": 150,
+      "prompts": 116,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "SK",
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 240,
+      "updated": "2026-08-11",
+      "desc": "Write listings for hotels, Airbnbs and tour packages, automate guest inquiries and bookings, create seasonal promotions, and manage reviews and reputation.",
+      "tagline": "Listings, bookings and reviews on autopilot.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 54,
+      "slug": "ai-fashion-designers-tailors",
+      "title": "AI for Fashion Designers & Tailors: Design, Market & Sell",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "design-media",
+        "marketing"
+      ],
+      "price": 5500,
+      "pages": 154,
+      "prompts": 118,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "FN",
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 220,
+      "updated": "2026-08-10",
+      "desc": "Generate design inspiration, mood boards and pattern ideas, create product photography concepts, build an online catalog, and grow loyal customers.",
+      "tagline": "Design, market and sell — from moodboard to client.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 55,
+      "slug": "ai-ngos-community-organizations",
+      "title": "AI for NGOs & Community Organizations: Reporting & Grant Writing",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional"
+      ],
+      "tasks": [
+        "writing",
+        "admin"
+      ],
+      "price": 5000,
+      "pages": 146,
+      "prompts": 108,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.8,
+      "unlocks": 200,
+      "updated": "2026-08-09",
+      "desc": "Draft grant proposals and donor reports with AI, build M&E summaries efficiently, create outreach content, and use AI as a drafting tool, never a data source.",
+      "tagline": "Grant proposals and donor reports drafted fast.",
+      "was": 9500,
+      "discount": 47,
+      "save": 4500
+    },
+    {
+      "id": 56,
+      "slug": "ai-podcasters-youtubers",
+      "title": "AI for Podcasters & YouTubers: Full Production System",
+      "tier": 3,
+      "cat": "Content",
+      "level": "pro",
+      "roles": [
+        "content-creator"
+      ],
+      "tasks": [
+        "design-media",
+        "marketing",
+        "writing"
+      ],
+      "price": 6000,
+      "pages": 164,
+      "prompts": 128,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "FN"
+      ],
+      "rating": 4.8,
+      "unlocks": 260,
+      "updated": "2026-08-08",
+      "desc": "Plan and script episodes with AI, speed up editing and thumbnails, build a publishing and promotion schedule, grow an audience, and pitch for sponsorships.",
+      "tagline": "A full production system — script to sponsorship.",
+      "was": 11400,
+      "discount": 47,
+      "save": 5400
+    },
+    {
+      "id": 57,
+      "slug": "ai-health-wellness-coaches",
+      "title": "AI for Health & Wellness Coaches",
+      "tier": 3,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "freelancer"
+      ],
+      "tasks": [
+        "marketing",
+        "money-growth"
+      ],
+      "price": 5500,
+      "pages": 156,
+      "prompts": 116,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "SK"
+      ],
+      "rating": 4.8,
+      "unlocks": 210,
+      "updated": "2026-08-07",
+      "desc": "Build client intake and goal-setting processes, create personalized wellness content and check-ins, market a coaching practice, and price coaching programs.",
+      "tagline": "Client systems and a coaching business online.",
+      "was": 10500,
+      "discount": 48,
+      "save": 5000
+    },
+    {
+      "id": 58,
+      "slug": "complete-ai-business-blueprint",
+      "title": "The Complete AI Business Blueprint: 0 to 100K/Month in Kenya",
+      "tier": 4,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "money-growth",
+        "marketing",
+        "admin"
+      ],
+      "price": 10000,
+      "pages": 248,
+      "prompts": 200,
+      "format": "Program",
+      "mockup": "book",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 5,
+      "unlocks": 180,
+      "updated": "2026-08-19",
+      "desc": "Choose a profitable AI business model, build your offer and funnel, set up M-Pesa STK payments and delivery, scale to consistent monthly revenue, and execute a 90-day plan.",
+      "tagline": "0 to 100K/month — a 90-day execution plan.",
+      "was": 19000,
+      "discount": 47,
+      "save": 9000
+    },
+    {
+      "id": 59,
+      "slug": "ai-automation-agency",
+      "title": "AI Automation Agency Masterclass: Sell AI Services to Businesses",
+      "tier": 4,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "admin",
+        "marketing"
+      ],
+      "price": 12000,
+      "pages": 268,
+      "prompts": 220,
+      "format": "Program",
+      "mockup": "folder",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 5,
+      "unlocks": 150,
+      "updated": "2026-08-19",
+      "desc": "Identify which local businesses need automation, build your first 3 automation offers, price retainers vs projects, land clients, and scale the agency.",
+      "tagline": "Sell automation retainers to local businesses.",
+      "was": 22800,
+      "discount": 47,
+      "save": 10800
+    },
+    {
+      "id": 60,
+      "slug": "become-ai-consultant",
+      "title": "Become an AI Consultant: Train & Advise Businesses on AI",
+      "tier": 4,
+      "cat": "Career",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "freelancer"
+      ],
+      "tasks": [
+        "marketing",
+        "writing"
+      ],
+      "price": 11000,
+      "pages": 258,
+      "prompts": 210,
+      "format": "Program",
+      "mockup": "book",
+      "cover": 0,
+      "featured": false,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 130,
+      "updated": "2026-08-18",
+      "desc": "Position yourself as a credible AI consultant, run company AI-readiness assessments, deliver training workshops, price engagements, and build a referral pipeline.",
+      "tagline": "Train and advise businesses — a consulting practice.",
+      "was": 20900,
+      "discount": 47,
+      "save": 9900
+    },
+    {
+      "id": 61,
+      "slug": "ai-for-developers",
+      "title": "AI for Developers: Build & Sell AI-Powered Apps and Tools",
+      "tier": 4,
+      "cat": "Career",
+      "level": "pro",
+      "roles": [
+        "student",
+        "freelancer",
+        "job-seeker"
+      ],
+      "tasks": [
+        "study",
+        "productivity"
+      ],
+      "price": 14000,
+      "pages": 286,
+      "prompts": 240,
+      "format": "Program",
+      "mockup": "tablet",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "AO",
+        "KM"
+      ],
+      "rating": 5,
+      "unlocks": 120,
+      "updated": "2026-08-20",
+      "desc": "Build real applications with AI APIs, design a product around a local problem worth paying for, manage prompts and costs, integrate M-Pesa, and launch to paying users.",
+      "tagline": "Build and sell AI-powered apps with M-Pesa built in.",
+      "was": 26600,
+      "discount": 47,
+      "save": 12600
+    },
+    {
+      "id": 62,
+      "slug": "ecommerce-empire",
+      "title": "AI-Powered E-commerce Empire: Build & Scale an Online Store",
+      "tier": 4,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "entrepreneur"
+      ],
+      "tasks": [
+        "marketing",
+        "admin",
+        "money-growth"
+      ],
+      "price": 12000,
+      "pages": 262,
+      "prompts": 214,
+      "format": "Program",
+      "mockup": "tablet",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 140,
+      "updated": "2026-08-17",
+      "desc": "Full end-to-end store build from sourcing to setup, AI-driven ads and copy at scale, automated operations, scaling to multiple brands, and real margin numbers.",
+      "tagline": "Scale one store into multiple brands.",
+      "was": 22800,
+      "discount": 47,
+      "save": 10800
+    },
+    {
+      "id": 63,
+      "slug": "ai-diaspora-job-seekers",
+      "title": "AI for Diaspora-Track Job Seekers: Land Remote International Roles",
+      "tier": 4,
+      "cat": "Career",
+      "level": "pro",
+      "roles": [
+        "job-seeker",
+        "student"
+      ],
+      "tasks": [
+        "writing",
+        "study"
+      ],
+      "price": 10000,
+      "pages": 244,
+      "prompts": 196,
+      "format": "Program",
+      "mockup": "book",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 160,
+      "updated": "2026-08-16",
+      "desc": "Identify remote-friendly roles, build an internationally competitive CV and LinkedIn presence, navigate time zones and contracts, and interview for remote-first companies.",
+      "tagline": "Land remote international roles from Kenya.",
+      "was": 19000,
+      "discount": 47,
+      "save": 9000
+    },
+    {
+      "id": 64,
+      "slug": "ai-course-creator-mastery",
+      "title": "AI Course Creator Mastery: Build & Sell Your Own Course Empire",
+      "tier": 4,
+      "cat": "Freelancing",
+      "level": "pro",
+      "roles": [
+        "freelancer",
+        "content-creator"
+      ],
+      "tasks": [
+        "writing",
+        "marketing",
+        "money-growth"
+      ],
+      "price": 12000,
+      "pages": 264,
+      "prompts": 216,
+      "format": "Program",
+      "mockup": "book",
+      "cover": 4,
+      "featured": false,
+      "authors": [
+        "FN",
+        "KM"
+      ],
+      "rating": 4.9,
+      "unlocks": 110,
+      "updated": "2026-08-15",
+      "desc": "Validate a profitable course topic, structure and produce a full course, build your funnel with ads and landing pages, run a cohort, and scale to passive income.",
+      "tagline": "Build and sell your own course empire.",
+      "was": 22800,
+      "discount": 47,
+      "save": 10800
+    },
+    {
+      "id": 65,
+      "slug": "ai-agribusiness-enterprise",
+      "title": "AI-Powered Agribusiness Enterprise: From Farm to Market at Scale",
+      "tier": 4,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "money-growth",
+        "marketing"
+      ],
+      "price": 11000,
+      "pages": 252,
+      "prompts": 204,
+      "format": "Program",
+      "mockup": "folder",
+      "cover": 5,
+      "featured": false,
+      "authors": [
+        "SK",
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 100,
+      "updated": "2026-08-14",
+      "desc": "Build a digitized farm operation with planning, records and forecasting, use AI for market access and pricing, scale to cooperative models, and brand produce.",
+      "tagline": "Farm to market at cooperative scale.",
+      "was": 20900,
+      "discount": 47,
+      "save": 9900
+    }
+  ],
+  "chapters": {
+    "1": [
+      {
+        "t": "What ChatGPT is and isn't",
+        "o": "Set up a free account and map where the tool is genuinely useful for your life.",
+        "m": 14
+      },
+      {
+        "t": "Your first 10 prompts",
+        "o": "Write useful prompts for emails, ideas and summaries — and see what good output feels like.",
+        "m": 22
+      },
+      {
+        "t": "Beginner mistakes",
+        "o": "Avoid vague prompts and blind trust in answers with three mental rules.",
+        "m": 18
+      },
+      {
+        "t": "Mobile-first workflow",
+        "o": "Use ChatGPT comfortably from your phone with voice input and saved chats.",
+        "m": 16
+      }
+    ],
+    "2": [
+      {
+        "t": "Anatomy of a good prompt",
+        "o": "Role, context, task and format — and why all four matter.",
+        "m": 16
+      },
+      {
+        "t": "Weak vs strong prompts",
+        "o": "Before and after examples that show exactly what changes output quality.",
+        "m": 20
+      },
+      {
+        "t": "The 20-prompt cheat sheet",
+        "o": "Twenty everyday task prompts you can copy and start using immediately.",
+        "m": 18
+      },
+      {
+        "t": "Fixing bad responses",
+        "o": "Re-prompting techniques that turn a wrong or vague answer into a useful one.",
+        "m": 14
+      }
+    ],
+    "3": [
+      {
+        "t": "Captions for every platform",
+        "o": "Instagram, TikTok, Facebook and WhatsApp Status — with format differences that matter.",
+        "m": 18
+      },
+      {
+        "t": "Matching tone to audience",
+        "o": "Business page vs personal brand: pick the right voice and prompt for each.",
+        "m": 16
+      },
+      {
+        "t": "Batch a week in 15 minutes",
+        "o": "One session that plans seven days of posts you can schedule and forget.",
+        "m": 20
+      },
+      {
+        "t": "Hashtags and CTAs",
+        "o": "Add reach-driving hashtags and calls-to-action without making posts feel spammy.",
+        "m": 14
+      }
+    ],
+    "4": [
+      {
+        "t": "From rough history to CV",
+        "o": "Turn a messy work history into a clean, achievement-first CV with AI.",
+        "m": 20
+      },
+      {
+        "t": "Tailored cover letters",
+        "o": "Write a new cover letter per application in minutes — not hours.",
+        "m": 18
+      },
+      {
+        "t": "Kenyan job-seeker mistakes",
+        "o": "Fix the five common CV errors local recruiters see daily.",
+        "m": 12
+      },
+      {
+        "t": "ATS formatting",
+        "o": "Format so applicant tracking systems actually parse your details.",
+        "m": 14
+      }
+    ],
+    "5": [
+      {
+        "t": "Canva's built-in AI",
+        "o": "Magic Design, background remover and text-to-image — used the right way.",
+        "m": 16
+      },
+      {
+        "t": "Posters and social posts fast",
+        "o": "A 3-step prompt-to-post workflow for flyers, promos and cover images.",
+        "m": 18
+      },
+      {
+        "t": "Free vs paid",
+        "o": "Which Canva features are actually worth paying for in Kenya.",
+        "m": 12
+      },
+      {
+        "t": "5 reusable templates",
+        "o": "Templates any business can keep and rebrand in minutes.",
+        "m": 16
+      }
+    ],
+    "6": [
+      {
+        "t": "Understand any topic",
+        "o": "Explain-like-I'm-in-form-2 prompts that make hard concepts click.",
+        "m": 16
+      },
+      {
+        "t": "Summarize textbooks and notes",
+        "o": "Compress dense notes into revision-ready summaries and mind maps.",
+        "m": 18
+      },
+      {
+        "t": "Use AI responsibly",
+        "o": "Avoid plagiarism and actually build understanding — the honest rules.",
+        "m": 14
+      },
+      {
+        "t": "Exam revision with AI",
+        "o": "Generate practice questions and mock tests from your own material.",
+        "m": 20
+      }
+    ],
+    "7": [
+      {
+        "t": "Brainstorm from your skills",
+        "o": "Prompt your way from what you already know to viable hustle ideas.",
+        "m": 18
+      },
+      {
+        "t": "Validate before spending",
+        "o": "Cheap tests that show whether an idea has demand before you invest.",
+        "m": 20
+      },
+      {
+        "t": "One-page plan",
+        "o": "Write a simple plan with AI that covers offer, price and first customers.",
+        "m": 16
+      },
+      {
+        "t": "Real Kenyan examples",
+        "o": "Small AI-assisted hustles already working locally — and what to copy.",
+        "m": 12
+      }
+    ],
+    "8": [
+      {
+        "t": "Quick professional replies",
+        "o": "Turn common customer questions into fast, warm responses.",
+        "m": 16
+      },
+      {
+        "t": "Saved reply templates",
+        "o": "Build a quick-reply library with AI for pricing, delivery and stock questions.",
+        "m": 18
+      },
+      {
+        "t": "Handling objections",
+        "o": "Price, delivery and trust objections — answered politely and persuasively.",
+        "m": 20
+      },
+      {
+        "t": "From chat to sale",
+        "o": "Prompt scripts that move a conversation toward checkout without pressure.",
+        "m": 18
+      }
+    ],
+    "9": [
+      {
+        "t": "Free AI video and voice tools",
+        "o": "CapCut AI, subtitle generators and voiceover tools — a practical overview.",
+        "m": 16
+      },
+      {
+        "t": "Script to captioned short",
+        "o": "Turn a written script into a captioned short video step by step.",
+        "m": 18
+      },
+      {
+        "t": "Voiceover without recording",
+        "o": "Generate a natural voiceover when you don't want to record your own voice.",
+        "m": 14
+      },
+      {
+        "t": "Export for the platforms",
+        "o": "Size, format and export for TikTok, Reels and YouTube Shorts.",
+        "m": 12
+      }
+    ],
+    "10": [
+      {
+        "t": "Idea to full outline",
+        "o": "Turn a single idea into a complete blog post outline with AI.",
+        "m": 16
+      },
+      {
+        "t": "Writing in your own voice",
+        "o": "Prompts that keep your tone instead of generic AI-sounding prose.",
+        "m": 18
+      },
+      {
+        "t": "SEO basics",
+        "o": "Titles, headings and keywords AI can help you research and place.",
+        "m": 16
+      },
+      {
+        "t": "Editing AI drafts",
+        "o": "A fast pass that makes AI output read like a human wrote it.",
+        "m": 14
+      }
+    ],
+    "11": [
+      {
+        "t": "A bio that converts",
+        "o": "Rewrite your bio so visitors follow or buy — with a simple formula.",
+        "m": 14
+      },
+      {
+        "t": "Niche and content angle",
+        "o": "Use AI to pick a niche and angle that stands out in your space.",
+        "m": 16
+      },
+      {
+        "t": "Profile picture and highlights",
+        "o": "Quick ideas for profile art and highlight covers using AI tools.",
+        "m": 12
+      },
+      {
+        "t": "The 5-minute audit",
+        "o": "A checklist that grades your profile and tells you what to fix first.",
+        "m": 12
+      }
+    ],
+    "12": [
+      {
+        "t": "Name ideas that stick",
+        "o": "Generate and shortlist business name ideas with AI in one session.",
+        "m": 16
+      },
+      {
+        "t": "Check availability fast",
+        "o": "Domain and social handle checks so your name is actually usable.",
+        "m": 12
+      },
+      {
+        "t": "A memorable slogan",
+        "o": "Write a tagline that's clear, memorable and easy to say aloud.",
+        "m": 14
+      },
+      {
+        "t": "Registration basics",
+        "o": "What to know about the Business Registration Service before you commit.",
+        "m": 10
+      }
+    ],
+    "13": [
+      {
+        "t": "A simple weekly budget",
+        "o": "Use AI as your assistant to build a budget you'll actually track.",
+        "m": 16
+      },
+      {
+        "t": "Affordable family meals",
+        "o": "Plan balanced, cheap meals for a family with AI-generated menus.",
+        "m": 18
+      },
+      {
+        "t": "Track without apps",
+        "o": "A low-tech spending tracker that works on WhatsApp or paper.",
+        "m": 14
+      },
+      {
+        "t": "Cut recurring costs",
+        "o": "AI suggestions for trimming recurring expenses without pain.",
+        "m": 12
+      }
+    ],
+    "14": [
+      {
+        "t": "Identify pests and diseases",
+        "o": "Use AI photo tools to identify common crop problems fast.",
+        "m": 16
+      },
+      {
+        "t": "Planting and weather timing",
+        "o": "Get quick guidance on planting windows and weather from AI.",
+        "m": 14
+      },
+      {
+        "t": "Where AI ends",
+        "o": "Know when a local agrovet or extension officer is the real answer.",
+        "m": 12
+      },
+      {
+        "t": "Simple farm records",
+        "o": "Record inputs, yields and sales with AI-assisted notes.",
+        "m": 14
+      }
+    ],
+    "15": [
+      {
+        "t": "Sermon notes to summary",
+        "o": "Turn rough notes into clear, shareable sermon summaries.",
+        "m": 14
+      },
+      {
+        "t": "Weekly announcements",
+        "o": "Write church announcements and WhatsApp group messages fast.",
+        "m": 16
+      },
+      {
+        "t": "Simple event graphics",
+        "o": "Create church event graphics with AI plus Canva.",
+        "m": 16
+      },
+      {
+        "t": "Keep it authentic",
+        "o": "Respectful AI use that preserves the message's voice.",
+        "m": 10
+      }
+    ],
+    "16": [
+      {
+        "t": "Day-of checklist and timeline",
+        "o": "Build a full event timeline with AI so the day runs on schedule.",
+        "m": 18
+      },
+      {
+        "t": "Invitations, programs, MC scripts",
+        "o": "Write all the event documents with one prompt chain.",
+        "m": 16
+      },
+      {
+        "t": "Budgeting with AI",
+        "o": "Compare cost options and build a realistic event budget.",
+        "m": 16
+      },
+      {
+        "t": "Vendor communication",
+        "o": "Templates for caterers, decorators and MCs that set clear expectations.",
+        "m": 12
+      }
+    ],
+    "17": [
+      {
+        "t": "A plan from your goals",
+        "o": "Generate a beginner workout plan based on goals and equipment.",
+        "m": 16
+      },
+      {
+        "t": "Basic nutrition guidance",
+        "o": "Pair your plan with simple, realistic nutrition prompts.",
+        "m": 14
+      },
+      {
+        "t": "Track progress simply",
+        "o": "Track workouts without expensive apps.",
+        "m": 12
+      },
+      {
+        "t": "When to see a pro",
+        "o": "Know when AI advice ends and a professional is needed.",
+        "m": 10
+      }
+    ],
+    "18": [
+      {
+        "t": "Explain homework simply",
+        "o": "Prompts that explain any topic at your child's level.",
+        "m": 14
+      },
+      {
+        "t": "Bedtime stories in two languages",
+        "o": "Generate custom stories in English or Kiswahili in minutes.",
+        "m": 16
+      },
+      {
+        "t": "Screen-time-safe AI use",
+        "o": "Let older kids use AI for schoolwork without safety risks.",
+        "m": 14
+      },
+      {
+        "t": "A family learning routine",
+        "o": "Build a weekly routine that makes learning a family habit.",
+        "m": 12
+      }
+    ],
+    "19": [
+      {
+        "t": "Lyric ideas and structure",
+        "o": "Generate verse, hook and bridge ideas with AI.",
+        "m": 16
+      },
+      {
+        "t": "Beat writer's block",
+        "o": "Prompts that unstick a verse or hook when inspiration stalls.",
+        "m": 12
+      },
+      {
+        "t": "Staying original",
+        "o": "Understand originality and avoid copying existing songs.",
+        "m": 12
+      },
+      {
+        "t": "From lyrics to rough demo",
+        "o": "Simple tools to turn lyrics into a rough demo.",
+        "m": 16
+      }
+    ],
+    "20": [
+      {
+        "t": "Common letters on demand",
+        "o": "Generate demand letters, notices and quotations with templates.",
+        "m": 16
+      },
+      {
+        "t": "Simple agreements and receipts",
+        "o": "Draft basic business agreements and receipts with AI.",
+        "m": 16
+      },
+      {
+        "t": "When a lawyer is needed",
+        "o": "Know where AI-generated text needs real legal review.",
+        "m": 12
+      },
+      {
+        "t": "The 10-template starter pack",
+        "o": "A ready-to-edit pack of 10 templates you can customize.",
+        "m": 14
+      }
+    ],
+    "21": [
+      {
+        "t": "Map debts and a payoff plan",
+        "o": "Build a debt payoff plan that fits your actual income.",
+        "m": 16
+      },
+      {
+        "t": "Realistic savings goals",
+        "o": "Set savings targets you can actually hit and track them simply.",
+        "m": 14
+      },
+      {
+        "t": "Chama record keeping",
+        "o": "Use AI to manage chama and table-banking records.",
+        "m": 14
+      },
+      {
+        "t": "Catch money mistakes early",
+        "o": "Prompt checks that spot leaks before they become problems.",
+        "m": 12
+      }
+    ],
+    "22": [
+      {
+        "t": "Daily income and expense tracking",
+        "o": "Set up simple daily tracking for a SACCO with AI.",
+        "m": 16
+      },
+      {
+        "t": "Meeting reports",
+        "o": "Generate clear reports for SACCO meetings from your records.",
+        "m": 14
+      },
+      {
+        "t": "Member communication",
+        "o": "Write reminders and notices with AI.",
+        "m": 12
+      },
+      {
+        "t": "Loan and savings templates",
+        "o": "Basic loan and savings tracking templates that actually work.",
+        "m": 14
+      }
+    ],
+    "23": [
+      {
+        "t": "Formulas without memorizing",
+        "o": "Ask AI for Excel formulas in plain language and paste them in.",
+        "m": 16
+      },
+      {
+        "t": "Clean messy data fast",
+        "o": "Use AI to split, clean and structure messy spreadsheets.",
+        "m": 18
+      },
+      {
+        "t": "Simple dashboards",
+        "o": "Build summaries and dashboards for small business owners.",
+        "m": 16
+      },
+      {
+        "t": "Data jobs to aim for",
+        "o": "Common local and remote data entry jobs — and how to apply.",
+        "m": 12
+      }
+    ],
+    "24": [
+      {
+        "t": "Accurate marketing translation",
+        "o": "Translate marketing content between English and Kiswahili correctly.",
+        "m": 16
+      },
+      {
+        "t": "Natural, not robotic",
+        "o": "Adjust translations so they sound like a local wrote them.",
+        "m": 14
+      },
+      {
+        "t": "A translation side-service",
+        "o": "Build a basic translation service people will pay for.",
+        "m": 14
+      },
+      {
+        "t": "When a human check is essential",
+        "o": "Know where AI translation is reliable and where it isn't.",
+        "m": 10
+      }
+    ],
+    "25": [
+      {
+        "t": "Design your ideal routine",
+        "o": "Build a personalized daily and weekly routine with AI.",
+        "m": 16
+      },
+      {
+        "t": "Habits and reminders",
+        "o": "Create simple habits and reminders that stick.",
+        "m": 14
+      },
+      {
+        "t": "What disrupts sleep",
+        "o": "Identify what's hurting your sleep and focus.",
+        "m": 12
+      },
+      {
+        "t": "Small changes, not overhauls",
+        "o": "Realistic tweaks instead of a 5am routine you'll abandon.",
+        "m": 10
+      }
+    ],
+    "26": [
+      {
+        "t": "Repeatable prompt templates",
+        "o": "Build templates for recurring work tasks you run weekly.",
+        "m": 20
+      },
+      {
+        "t": "Research, reports, summaries",
+        "o": "Use ChatGPT for research briefs, reports and meeting summaries.",
+        "m": 22
+      },
+      {
+        "t": "Connect to everyday workflows",
+        "o": "Wire AI into email drafts and data organization.",
+        "m": 18
+      },
+      {
+        "t": "Custom instructions and memory",
+        "o": "Tune custom instructions and memory for personalized output.",
+        "m": 16
+      }
+    ],
+    "27": [
+      {
+        "t": "Advanced prompt structures",
+        "o": "Chain prompting, role-stacking and few-shot examples.",
+        "m": 24
+      },
+      {
+        "t": "A personal prompt library",
+        "o": "Organize your prompts by use case so they're easy to reuse.",
+        "m": 18
+      },
+      {
+        "t": "Packaging prompts as a product",
+        "o": "Turn a prompt library into something you can sell.",
+        "m": 20
+      },
+      {
+        "t": "Where to sell",
+        "o": "Locally and online — the channels that actually move prompt services.",
+        "m": 16
+      }
+    ],
+    "28": [
+      {
+        "t": "A month of content planned",
+        "o": "Use AI to plan a full content calendar in one sitting.",
+        "m": 22
+      },
+      {
+        "t": "Batch by theme",
+        "o": "Generate captions, hooks and ideas by theme in batches.",
+        "m": 20
+      },
+      {
+        "t": "One piece, five formats",
+        "o": "Repurpose a single piece of content into 5 formats with AI.",
+        "m": 18
+      },
+      {
+        "t": "Read your analytics",
+        "o": "Simple metrics that tell you what to double down on.",
+        "m": 16
+      }
+    ],
+    "29": [
+      {
+        "t": "Master CV, tailored per role",
+        "o": "Build one master CV and tailor it in minutes per application.",
+        "m": 22
+      },
+      {
+        "t": "LinkedIn with AI",
+        "o": "Optimize your LinkedIn profile for recruiters and algorithms.",
+        "m": 18
+      },
+      {
+        "t": "Mock interviews",
+        "o": "Use AI for mock Q&A and behavioral question prep.",
+        "m": 20
+      },
+      {
+        "t": "Professional follow-up",
+        "o": "Follow up after applying or interviewing without seeming pushy.",
+        "m": 14
+      }
+    ],
+    "30": [
+      {
+        "t": "A portfolio that attracts",
+        "o": "Build a portfolio of AI-assisted designs that wins clients.",
+        "m": 20
+      },
+      {
+        "t": "Pricing and packaging",
+        "o": "Package logos, posters and social kits with value-based pricing.",
+        "m": 18
+      },
+      {
+        "t": "Your first clients",
+        "o": "Find paying clients locally and on freelance platforms.",
+        "m": 18
+      },
+      {
+        "t": "Deliver and manage revisions",
+        "o": "Hand over professional files and manage client revisions cleanly.",
+        "m": 16
+      }
+    ],
+    "31": [
+      {
+        "t": "Research papers and citations",
+        "o": "Literature summaries and citation help with AI.",
+        "m": 22
+      },
+      {
+        "t": "A personalized study plan",
+        "o": "Generate a study plan that fits your subjects and time.",
+        "m": 18
+      },
+      {
+        "t": "Exam prep across subjects",
+        "o": "Advanced techniques for multi-subject exam preparation.",
+        "m": 20
+      },
+      {
+        "t": "Academic integrity",
+        "o": "Use AI effectively while staying inside the rules.",
+        "m": 14
+      }
+    ],
+    "32": [
+      {
+        "t": "Idea to actual offer",
+        "o": "Turn your validated idea into a clear offer people understand.",
+        "m": 20
+      },
+      {
+        "t": "Price and a service page",
+        "o": "Set a price and create a simple catalog or service page.",
+        "m": 18
+      },
+      {
+        "t": "Your first 5 customers",
+        "o": "Win first customers via WhatsApp, social media and referrals.",
+        "m": 20
+      },
+      {
+        "t": "Get paid via M-Pesa",
+        "o": "Basic bookkeeping and getting paid without friction.",
+        "m": 16
+      }
+    ],
+    "33": [
+      {
+        "t": "Set up an auto-responder",
+        "o": "A basic AI auto-responder for WhatsApp Business.",
+        "m": 24
+      },
+      {
+        "t": "Automate FAQs and orders",
+        "o": "Automate FAQs, order taking and appointment booking.",
+        "m": 22
+      },
+      {
+        "t": "The right human handoff",
+        "o": "Pass from bot to human at the right moment.",
+        "m": 14
+      },
+      {
+        "t": "Low-cost tools for Kenya",
+        "o": "Affordable tooling options for Kenyan small businesses.",
+        "m": 16
+      }
+    ],
+    "34": [
+      {
+        "t": "Script from one idea",
+        "o": "Script a full faceless video from a single idea.",
+        "m": 20
+      },
+      {
+        "t": "AI voice, stock, captions",
+        "o": "Combine AI voice, stock footage and captions together.",
+        "m": 22
+      },
+      {
+        "t": "Grow the page step by step",
+        "o": "A repeatable growth playbook for a faceless page.",
+        "m": 18
+      },
+      {
+        "t": "Monetization paths",
+        "o": "TikTok, YouTube, affiliate and brand deals basics.",
+        "m": 16
+      }
+    ],
+    "35": [
+      {
+        "t": "Write with AI assistance",
+        "o": "Articles, product descriptions and website copy with AI.",
+        "m": 22
+      },
+      {
+        "t": "Pass as quality human writing",
+        "o": "Edit AI output so it reads like a skilled human wrote it.",
+        "m": 18
+      },
+      {
+        "t": "Find writing gigs",
+        "o": "Locally and on freelance platforms — where the work is.",
+        "m": 16
+      },
+      {
+        "t": "Price and manage clients",
+        "o": "Pricing your services and managing multiple clients.",
+        "m": 16
+      }
+    ],
+    "36": [
+      {
+        "t": "A full monthly budget system",
+        "o": "Build a monthly budgeting system with AI tracking prompts.",
+        "m": 22
+      },
+      {
+        "t": "Plan for irregular income",
+        "o": "Budgeting that handles the hustler and freelancer reality.",
+        "m": 18
+      },
+      {
+        "t": "Savings for milestones",
+        "o": "Set and track savings goals for specific milestones.",
+        "m": 16
+      },
+      {
+        "t": "Monthly budget reviews",
+        "o": "Review and adjust your budget monthly with AI.",
+        "m": 14
+      }
+    ],
+    "37": [
+      {
+        "t": "Farm records and planning",
+        "o": "A simple record-keeping and planning system with AI.",
+        "m": 20
+      },
+      {
+        "t": "Buyers, pricing, timing",
+        "o": "Research buyers, pricing trends and market timing.",
+        "m": 18
+      },
+      {
+        "t": "Market directly",
+        "o": "Marketing content that sells produce directly, bypassing brokers.",
+        "m": 18
+      },
+      {
+        "t": "Cooperative selling",
+        "o": "Basic cooperative and group-selling coordination.",
+        "m": 16
+      }
+    ],
+    "38": [
+      {
+        "t": "A ministry content calendar",
+        "o": "Plan sermons, devotionals and social posts for a whole season.",
+        "m": 20
+      },
+      {
+        "t": "One sermon, many platforms",
+        "o": "Multi-platform content from a single sermon.",
+        "m": 18
+      },
+      {
+        "t": "Outreach and follow-up",
+        "o": "Use AI to support outreach and new-member follow-up.",
+        "m": 16
+      },
+      {
+        "t": "A consistent voice",
+        "o": "Keep one authentic voice across all content.",
+        "m": 14
+      }
+    ],
+    "39": [
+      {
+        "t": "A bookable service",
+        "o": "Turn event-planning skill into a bookable service.",
+        "m": 18
+      },
+      {
+        "t": "Portfolio and packages",
+        "o": "Build a portfolio and price packages for different event types.",
+        "m": 20
+      },
+      {
+        "t": "Vendor management",
+        "o": "Vendor management systems and client communication with AI.",
+        "m": 18
+      },
+      {
+        "t": "Market locally",
+        "o": "Marketing your event planning business in your area.",
+        "m": 16
+      }
+    ],
+    "40": [
+      {
+        "t": "Structured multi-week programs",
+        "o": "Design programs for different client goals.",
+        "m": 22
+      },
+      {
+        "t": "Personalize at scale",
+        "o": "Personalize programs for multiple clients with AI.",
+        "m": 20
+      },
+      {
+        "t": "Package an online offer",
+        "o": "Package and price an online coaching offer.",
+        "m": 16
+      },
+      {
+        "t": "Deliver and track",
+        "o": "Deliver via WhatsApp and track client progress.",
+        "m": 16
+      }
+    ],
+    "41": [
+      {
+        "t": "Homework help to paid tutoring",
+        "o": "Turn your skill into paid tutoring content.",
+        "m": 18
+      },
+      {
+        "t": "A worksheet library",
+        "o": "Create AI-assisted worksheets and story-based lessons.",
+        "m": 18
+      },
+      {
+        "t": "Market to other parents",
+        "o": "Marketing to parents in your community and online.",
+        "m": 16
+      },
+      {
+        "t": "Pricing and delivery models",
+        "o": "Per session, subscription and packs — what to offer.",
+        "m": 14
+      }
+    ],
+    "42": [
+      {
+        "t": "Generate and refine beats",
+        "o": "Use AI tools to generate and refine beats and instrumentals.",
+        "m": 22
+      },
+      {
+        "t": "Structure a full song",
+        "o": "From lyrics to arrangement — complete the structure.",
+        "m": 20
+      },
+      {
+        "t": "Home recording basics",
+        "o": "Simple recording and mixing tips for a home setup.",
+        "m": 16
+      },
+      {
+        "t": "Distribution and royalties",
+        "o": "Spotify, Audiomack and Boomplay — and understanding royalties.",
+        "m": 16
+      }
+    ],
+    "43": [
+      {
+        "t": "A reusable template library",
+        "o": "Build a library of business document templates.",
+        "m": 18
+      },
+      {
+        "t": "A document-drafting service",
+        "o": "Offer drafting as a paid service to small businesses.",
+        "m": 18
+      },
+      {
+        "t": "Liability and referrals",
+        "o": "Know your limits and when to refer clients to a lawyer.",
+        "m": 14
+      },
+      {
+        "t": "Price and package",
+        "o": "Pricing and packaging a simple admin and documents service.",
+        "m": 14
+      }
+    ],
+    "44": [
+      {
+        "t": "A VA skill set with AI",
+        "o": "Scheduling, inbox management and data tasks, supercharged by AI.",
+        "m": 22
+      },
+      {
+        "t": "A VA-specific portfolio",
+        "o": "Create a simple portfolio and CV aimed at VA roles.",
+        "m": 18
+      },
+      {
+        "t": "Find remote VA jobs",
+        "o": "Where international remote VA work actually is.",
+        "m": 18
+      },
+      {
+        "t": "Manage multiple clients",
+        "o": "Handle several clients and tasks efficiently with AI tools.",
+        "m": 16
+      }
+    ],
+    "45": [
+      {
+        "t": "Translation as a paid service",
+        "o": "Position translation and transcription as a freelance service.",
+        "m": 20
+      },
+      {
+        "t": "Speed with accuracy",
+        "o": "Use AI to speed up work while keeping accuracy and nuance.",
+        "m": 20
+      },
+      {
+        "t": "Find clients",
+        "o": "Freelance platforms, NGOs, media and business — the buyers.",
+        "m": 18
+      },
+      {
+        "t": "Price and turnaround",
+        "o": "Per word and per minute pricing with clear turnaround.",
+        "m": 14
+      }
+    ],
+    "46": [
+      {
+        "t": "Choose a niche and profile up",
+        "o": "Pick a freelance niche and set up Upwork, Fiverr and local profiles.",
+        "m": 24
+      },
+      {
+        "t": "Proposals and portfolio pieces",
+        "o": "Write winning proposals and portfolio pieces with AI.",
+        "m": 22
+      },
+      {
+        "t": "Deliver faster, quality intact",
+        "o": "Speed up delivery with AI without sacrificing quality.",
+        "m": 20
+      },
+      {
+        "t": "Pricing, contracts, repeat clients",
+        "o": "Handle pricing, scope creep and getting repeat clients.",
+        "m": 18
+      },
+      {
+        "t": "Scale to a small team",
+        "o": "Use AI to handle overflow work as you grow.",
+        "m": 16
+      }
+    ],
+    "47": [
+      {
+        "t": "Property listings and ad copy",
+        "o": "Write listings, descriptions and ad copy that sell.",
+        "m": 22
+      },
+      {
+        "t": "Marketing content at scale",
+        "o": "Flyers, social posts and virtual tour scripts with AI.",
+        "m": 22
+      },
+      {
+        "t": "Automate inquiries and follow-ups",
+        "o": "Client inquiry handling and follow-up automation.",
+        "m": 20
+      },
+      {
+        "t": "Market research and comparables",
+        "o": "AI-assisted market research and comparables.",
+        "m": 18
+      },
+      {
+        "t": "Trust while using AI",
+        "o": "Build client trust while using AI behind the scenes.",
+        "m": 16
+      }
+    ],
+    "48": [
+      {
+        "t": "Lessons to digital courses",
+        "o": "Turn existing lesson plans into structured course content.",
+        "m": 22
+      },
+      {
+        "t": "Quizzes and study guides",
+        "o": "Create quizzes, assignments and study guides with AI.",
+        "m": 20
+      },
+      {
+        "t": "Record efficiently",
+        "o": "Record and edit lessons efficiently with AI tools.",
+        "m": 18
+      },
+      {
+        "t": "Choose a platform",
+        "o": "Pick where to host and sell your course or tutoring content.",
+        "m": 16
+      },
+      {
+        "t": "Market to parents and students",
+        "o": "Marketing to your local area and online.",
+        "m": 16
+      }
+    ],
+    "49": [
+      {
+        "t": "Map your processes",
+        "o": "Find where AI saves your business the most time.",
+        "m": 22
+      },
+      {
+        "t": "Automate marketing and ads",
+        "o": "Automate marketing content, ad copy and promotions.",
+        "m": 22
+      },
+      {
+        "t": "AI-assisted customer service",
+        "o": "Set up AI-assisted support across WhatsApp and social.",
+        "m": 20
+      },
+      {
+        "t": "Bookkeeping and reporting",
+        "o": "Use AI for basic bookkeeping, inventory notes and reporting.",
+        "m": 18
+      },
+      {
+        "t": "A 90-day automation roadmap",
+        "o": "Build a specific automation roadmap for your business.",
+        "m": 20
+      }
+    ],
+    "50": [
+      {
+        "t": "Your niche and pillars",
+        "o": "Define a personal brand niche and content pillars.",
+        "m": 20
+      },
+      {
+        "t": "Scripting and editing at scale",
+        "o": "Scripts, edits, thumbnails and captions at scale.",
+        "m": 22
+      },
+      {
+        "t": "A posting system that lasts",
+        "o": "Build consistency without burning out.",
+        "m": 18
+      },
+      {
+        "t": "Grow and pitch brands",
+        "o": "Grow an engaged audience and pitch to brands.",
+        "m": 18
+      },
+      {
+        "t": "Turn audience into income",
+        "o": "Products, affiliate and sponsorships.",
+        "m": 16
+      }
+    ],
+    "51": [
+      {
+        "t": "In-demand AI-adjacent skills",
+        "o": "Identify what employers want right now.",
+        "m": 20
+      },
+      {
+        "t": "A project portfolio with AI",
+        "o": "Build a portfolio that shows real capability.",
+        "m": 22
+      },
+      {
+        "t": "Applications and interviews",
+        "o": "Write applications and prep for technical and behavioral interviews.",
+        "m": 22
+      },
+      {
+        "t": "Remote roles from Kenya",
+        "o": "Find and apply to remote and international roles.",
+        "m": 18
+      },
+      {
+        "t": "Negotiate and go remote",
+        "o": "Negotiating offers and remote work logistics and payments.",
+        "m": 16
+      }
+    ],
+    "52": [
+      {
+        "t": "Pick and validate a niche",
+        "o": "Choose a product niche and validate demand with AI.",
+        "m": 22
+      },
+      {
+        "t": "Automate the store",
+        "o": "Product descriptions, ads and replies on autopilot.",
+        "m": 22
+      },
+      {
+        "t": "Customer service at scale",
+        "o": "Order follow-up and support at scale.",
+        "m": 18
+      },
+      {
+        "t": "Run and optimize ads",
+        "o": "AI-assisted ad copy and targeting optimization.",
+        "m": 20
+      },
+      {
+        "t": "Logistics and payments",
+        "o": "Handle returns and Kenyan payment and delivery realities.",
+        "m": 18
+      }
+    ],
+    "53": [
+      {
+        "t": "Listings that book",
+        "o": "Compelling listings for hotels, Airbnbs and tour packages.",
+        "m": 20
+      },
+      {
+        "t": "Automate inquiries and bookings",
+        "o": "Guest inquiries, bookings and follow-ups with AI.",
+        "m": 22
+      },
+      {
+        "t": "Seasonal promotions",
+        "o": "Marketing content for seasonal promotions.",
+        "m": 18
+      },
+      {
+        "t": "Reputation management",
+        "o": "Manage online reviews with AI-assisted responses.",
+        "m": 16
+      },
+      {
+        "t": "Partnerships and packages",
+        "o": "Build packages with other local tourism businesses.",
+        "m": 16
+      }
+    ],
+    "54": [
+      {
+        "t": "Design inspiration and mood boards",
+        "o": "Use AI for inspiration, mood boards and pattern ideas.",
+        "m": 20
+      },
+      {
+        "t": "Product photography concepts",
+        "o": "Create product photography concepts and marketing content.",
+        "m": 18
+      },
+      {
+        "t": "Online catalog and orders",
+        "o": "Build a catalog and take orders via WhatsApp and social.",
+        "m": 18
+      },
+      {
+        "t": "Price custom vs ready-made",
+        "o": "Pricing and production timeline management.",
+        "m": 16
+      },
+      {
+        "t": "Grow loyal customers",
+        "o": "AI-assisted follow-ups that build a loyal base.",
+        "m": 16
+      }
+    ],
+    "55": [
+      {
+        "t": "Grant proposals and donor reports",
+        "o": "Draft proposals and reports with AI.",
+        "m": 22
+      },
+      {
+        "t": "M&E summaries",
+        "o": "Build monitoring and evaluation summaries efficiently.",
+        "m": 18
+      },
+      {
+        "t": "Outreach and awareness content",
+        "o": "Create program outreach and awareness content.",
+        "m": 18
+      },
+      {
+        "t": "Stakeholder communication",
+        "o": "AI-assisted drafting for stakeholder communication.",
+        "m": 16
+      },
+      {
+        "t": "Accurate and honest",
+        "o": "Use AI as a drafting tool, never as a data source.",
+        "m": 12
+      }
+    ],
+    "56": [
+      {
+        "t": "Plan and script episodes",
+        "o": "Plan and script episodes and videos with AI.",
+        "m": 20
+      },
+      {
+        "t": "Editing, thumbnails, show notes",
+        "o": "Speed up editing, thumbnails and show notes.",
+        "m": 20
+      },
+      {
+        "t": "A publishing schedule",
+        "o": "Build a consistent publishing and promotion schedule.",
+        "m": 16
+      },
+      {
+        "t": "Grow and pitch sponsors",
+        "o": "Grow an audience and pitch for sponsorships.",
+        "m": 18
+      },
+      {
+        "t": "A full media brand",
+        "o": "Turn a channel into a full media brand.",
+        "m": 16
+      }
+    ],
+    "57": [
+      {
+        "t": "Intake and goal-setting",
+        "o": "Build client intake and goal-setting processes with AI.",
+        "m": 20
+      },
+      {
+        "t": "Personalized wellness content",
+        "o": "Create personalized content and check-in systems.",
+        "m": 20
+      },
+      {
+        "t": "Market your practice",
+        "o": "Market a coaching practice online and locally.",
+        "m": 18
+      },
+      {
+        "t": "Clear boundaries",
+        "o": "AI as an assistant, never a substitute for medical advice.",
+        "m": 14
+      },
+      {
+        "t": "Price coaching programs",
+        "o": "Pricing and packaging coaching programs.",
+        "m": 16
+      }
+    ],
+    "58": [
+      {
+        "t": "Pick your business model",
+        "o": "Choose a profitable AI-powered model for the Kenyan market.",
+        "m": 24
+      },
+      {
+        "t": "Offer, pricing, funnel",
+        "o": "Build your offer, pricing and initial acquisition funnel.",
+        "m": 24
+      },
+      {
+        "t": "Payments and operations",
+        "o": "Set up M-Pesa STK push, delivery and basic operations.",
+        "m": 20
+      },
+      {
+        "t": "Scale to consistent revenue",
+        "o": "Go from first sale to consistent monthly revenue.",
+        "m": 22
+      },
+      {
+        "t": "Case studies and 90-day plan",
+        "o": "Real case studies plus a step-by-step execution plan.",
+        "m": 22
+      },
+      {
+        "t": "Bonus templates",
+        "o": "Landing pages, ad copy and WhatsApp sales scripts.",
+        "m": 18
+      }
+    ],
+    "59": [
+      {
+        "t": "Who needs automation",
+        "o": "Identify which local businesses need automation and can pay.",
+        "m": 22
+      },
+      {
+        "t": "Your first 3 offers",
+        "o": "Build chatbot, lead capture and reporting offers.",
+        "m": 24
+      },
+      {
+        "t": "Retainers vs projects",
+        "o": "Price and package services as retainers or one-off projects.",
+        "m": 18
+      },
+      {
+        "t": "Sales scripts and outreach",
+        "o": "Outreach that lands your first agency clients.",
+        "m": 20
+      },
+      {
+        "t": "Deliver, document, maintain",
+        "o": "Deliver and maintain client automations professionally.",
+        "m": 18
+      },
+      {
+        "t": "Scale the agency",
+        "o": "Hiring, systemizing and handling multiple clients.",
+        "m": 18
+      }
+    ],
+    "60": [
+      {
+        "t": "Position yourself credibly",
+        "o": "Become a credible AI consultant and trainer.",
+        "m": 20
+      },
+      {
+        "t": "The readiness assessment",
+        "o": "Structure a company AI-readiness assessment.",
+        "m": 22
+      },
+      {
+        "t": "Design and deliver workshops",
+        "o": "Design and deliver AI training workshops for teams.",
+        "m": 22
+      },
+      {
+        "t": "Proposals and pricing",
+        "o": "Create proposals, price engagements and contracts.",
+        "m": 20
+      },
+      {
+        "t": "Case studies and referrals",
+        "o": "Build case studies and a referral pipeline.",
+        "m": 16
+      },
+      {
+        "t": "Stay current",
+        "o": "Keep your own AI knowledge sharp as tools evolve.",
+        "m": 14
+      }
+    ],
+    "61": [
+      {
+        "t": "Build with AI APIs",
+        "o": "Use OpenAI, Anthropic and others to build real applications.",
+        "m": 24
+      },
+      {
+        "t": "Design for a local problem",
+        "o": "Design a product around a problem worth paying for.",
+        "m": 20
+      },
+      {
+        "t": "Basic architecture",
+        "o": "Prompts, data handling and cost management.",
+        "m": 22
+      },
+      {
+        "t": "M-Pesa integration",
+        "o": "Integrate M-Pesa and payment gateways into your product.",
+        "m": 20
+      },
+      {
+        "t": "Launch and price",
+        "o": "Launch, price and get your first paying users.",
+        "m": 18
+      },
+      {
+        "t": "Maintain and iterate",
+        "o": "Keep improving the product post-launch.",
+        "m": 16
+      }
+    ],
+    "62": [
+      {
+        "t": "Store build end to end",
+        "o": "Sourcing, pricing and full store setup.",
+        "m": 24
+      },
+      {
+        "t": "AI-driven ads and copy",
+        "o": "Creative, copywriting and campaign optimization at scale.",
+        "m": 22
+      },
+      {
+        "t": "Automate operations",
+        "o": "Customer service, fulfillment and reporting automation.",
+        "m": 20
+      },
+      {
+        "t": "Scale to multiple brands",
+        "o": "Grow from one store to multiple products and brands.",
+        "m": 20
+      },
+      {
+        "t": "Real numbers",
+        "o": "Margins, ad spend ratios and reinvestment strategy.",
+        "m": 18
+      }
+    ],
+    "63": [
+      {
+        "t": "Remote-friendly roles",
+        "o": "Identify roles that value AI-adjacent skills.",
+        "m": 20
+      },
+      {
+        "t": "An internationally competitive profile",
+        "o": "Build a CV, portfolio and LinkedIn that compete globally.",
+        "m": 22
+      },
+      {
+        "t": "Time zones and contracts",
+        "o": "Navigate time zones, contracts and international payment platforms.",
+        "m": 18
+      },
+      {
+        "t": "Interview prep",
+        "o": "Prepare for international and remote-first company interviews.",
+        "m": 20
+      },
+      {
+        "t": "Long-term remote career",
+        "o": "A growth strategy for working remotely from Kenya.",
+        "m": 16
+      }
+    ],
+    "64": [
+      {
+        "t": "Validate a course topic",
+        "o": "Choose a profitable topic and validate demand.",
+        "m": 20
+      },
+      {
+        "t": "Structure and produce",
+        "o": "Script and produce a full course, like this catalog.",
+        "m": 22
+      },
+      {
+        "t": "Build your funnel",
+        "o": "Ads, landing pages, upsells and payments.",
+        "m": 22
+      },
+      {
+        "t": "Run a cohort",
+        "o": "Run a cohort or community for premium pricing.",
+        "m": 20
+      },
+      {
+        "t": "Scale to passive income",
+        "o": "Grow to multiple courses and passive income streams.",
+        "m": 18
+      }
+    ],
+    "65": [
+      {
+        "t": "Digitize farm operations",
+        "o": "Planning, records and forecasting in one system.",
+        "m": 22
+      },
+      {
+        "t": "Market access and pricing",
+        "o": "AI for market access, pricing strategy and buyer negotiations.",
+        "m": 20
+      },
+      {
+        "t": "Scale to cooperative",
+        "o": "From individual farm to cooperative or aggregator model.",
+        "m": 20
+      },
+      {
+        "t": "Brand for premium pricing",
+        "o": "Market and brand produce for premium prices.",
+        "m": 18
+      },
+      {
+        "t": "A sustainable system",
+        "o": "Build an AI-assisted operations system that lasts.",
+        "m": 18
+      }
+    ]
+  },
+  "prompts": {
+    "1": [
+      {
+        "l": "First email, done right",
+        "t": "You are my personal assistant. Draft a short, polite email to [client or colleague] about [task]. Ask me for the missing details before you write."
+      },
+      {
+        "l": "Summarize for a busy reader",
+        "t": "Summarize the text below in 3 bullet points for a busy reader. Keep it under 40 words and keep the original tone."
+      }
+    ],
+    "2": [
+      {
+        "l": "Weak to strong",
+        "t": "Show me a weak version of this prompt, then a strong version using role, context, task and format. Explain why the strong one works better."
+      },
+      {
+        "l": "Repair a bad answer",
+        "t": "My previous request gave a vague answer. Re-read my original prompt and ask me the 3 questions you need answered to give a useful response."
+      }
+    ],
+    "3": [
+      {
+        "l": "Week of captions",
+        "t": "Write 7 social media captions for [business or page] covering one week of posts. Mix promo, value and story formats. Use relaxed Kenyan English and include a CTA each time."
+      },
+      {
+        "l": "Tone match",
+        "t": "Rewrite this caption so it fits a [business page vs personal brand] audience. Keep the message but change the tone, hashtags and CTA."
+      }
+    ],
+    "4": [
+      {
+        "l": "CV rebuild",
+        "t": "Here is my rough work history. Rewrite it into a clean, achievement-first CV using numbers where possible, and list it in a recruiter-friendly order for a [role] application."
+      },
+      {
+        "l": "Tailored cover letter",
+        "t": "Write a tailored cover letter for this job description using my CV below. Mention one specific match per paragraph and keep it under 250 words."
+      }
+    ],
+    "5": [
+      {
+        "l": "Poster brief",
+        "t": "Write a Canva design brief for a [poster or flyer] for [business event or offer]. Include headline, subtext, colors, and where to place the CTA."
+      },
+      {
+        "l": "Reusable template",
+        "t": "Design a reusable social post layout for my business: header space, one key message, and a call-to-action bar. Describe the elements I should build in Canva."
+      }
+    ],
+    "6": [
+      {
+        "l": "Explain like I'm in form 2",
+        "t": "Explain [topic] as if I'm a form 2 student in Kenya. Use a real-life example from home or school, then give me one practice question."
+      },
+      {
+        "l": "Turn notes into revision",
+        "t": "Turn these notes into a revision summary with key points, a simple mnemonic, and 3 practice questions with answers."
+      }
+    ],
+    "7": [
+      {
+        "l": "Idea brainstorm",
+        "t": "Given my skills ([list skills]) and what I can spend on tools (KSh [amount]), suggest 8 realistic side hustles in Kenya. For each, give the first customer and a simple validation test."
+      },
+      {
+        "l": "Validate cheaply",
+        "t": "Design a 7-day validation plan for this hustle idea that costs under KSh 500. Include what to post, where, and what numbers tell me it is worth pursuing."
+      }
+    ],
+    "8": [
+      {
+        "l": "Reply library",
+        "t": "Write professional WhatsApp replies for a [type of business] for these common questions: price, delivery time, availability, returns. Warm tone, under 30 words each."
+      },
+      {
+        "l": "Close the chat",
+        "t": "Here is a customer conversation. Write a polite reply that answers the objection and moves the customer toward buying, without sounding pushy."
+      }
+    ],
+    "9": [
+      {
+        "l": "Short from a script",
+        "t": "Turn this script into a captioned short video plan: on-screen text for each line, which clips to show, and a hook for the first 2 seconds."
+      },
+      {
+        "l": "Voiceover read",
+        "t": "Write a natural voiceover script for this 30-second video. Use short sentences, a conversational tone, and no jargon."
+      }
+    ],
+    "10": [
+      {
+        "l": "Idea to outline",
+        "t": "Turn this idea into a blog post outline: title options, headings with key points, and a suggested keyword focus. Keep my tone simple and practical."
+      },
+      {
+        "l": "De-AI my draft",
+        "t": "Rewrite this draft so it no longer sounds AI-generated. Cut filler words, vary sentence length, and add one concrete local example."
+      }
+    ],
+    "11": [
+      {
+        "l": "Bio that converts",
+        "t": "Write 3 bio options for my [profile type] using this formula: who I help, what I do, and proof. Keep each under 150 characters."
+      },
+      {
+        "l": "Profile audit",
+        "t": "Here is my bio, niche and recent posts. Audit my profile for the 5 most important fixes to convert visitors into followers and customers."
+      }
+    ],
+    "12": [
+      {
+        "l": "Name brainstorm",
+        "t": "Generate 15 business name ideas for a [business type] in Kenya. Mix English, Kiswahili and Sheng. Flag any that may be hard to say or spell."
+      },
+      {
+        "l": "Slogan shortlist",
+        "t": "Write 5 short slogans for [business name] that are memorable and clear. Each must be under 8 words and easy to say aloud."
+      }
+    ],
+    "13": [
+      {
+        "l": "Weekly budget",
+        "t": "I earn [amount] per week with expenses [list]. Build me a simple weekly budget that covers needs first, then savings and a small treat. Show it in a table."
+      },
+      {
+        "l": "Cheap family meals",
+        "t": "Plan 5 affordable dinners for a family of [size] on a tight budget. Include the approximate cost per meal and staple Kenyan ingredients."
+      }
+    ],
+    "14": [
+      {
+        "l": "Photo diagnosis",
+        "t": "I have a photo of [crop] with [symptoms]. List the 3 most likely pests or diseases, the signs that confirm each, and whether a local agrovet should be consulted."
+      },
+      {
+        "l": "Planting timing",
+        "t": "For [crop] in [region], when is the best planting window this season? Give the reason and one thing to check before planting."
+      }
+    ],
+    "15": [
+      {
+        "l": "Sermon summary",
+        "t": "Turn these sermon notes into a clear, shareable summary with a key verse, 3 main points and one application for members. Keep the pastoral voice."
+      },
+      {
+        "l": "Weekly announcements",
+        "t": "Write this week's church announcements for WhatsApp: events, times, and one call to action. Warm and welcoming tone, under 120 words."
+      }
+    ],
+    "16": [
+      {
+        "l": "Day-of timeline",
+        "t": "Build a day-of timeline for a [wedding or event] starting at [time]. Include vendor arrival, key moments and buffer time. Format as a table."
+      },
+      {
+        "l": "MC script",
+        "t": "Write an MC script for a [event type] covering welcome, introductions, key moments and closing. Keep it warm and energetic with optional jokes."
+      }
+    ],
+    "17": [
+      {
+        "l": "Beginner plan",
+        "t": "Create a 4-week beginner workout plan for [goal] using only [equipment]. Give exercises, sets, reps and rest days."
+      },
+      {
+        "l": "Simple nutrition",
+        "t": "Give me a simple, affordable eating plan that supports this workout goal using Kenyan foods. No expensive supplements."
+      }
+    ],
+    "18": [
+      {
+        "l": "Explain at child level",
+        "t": "Explain [homework topic] to my [age]-year-old using an everyday example they will understand, then ask them 2 simple questions to check understanding."
+      },
+      {
+        "l": "Bedtime story",
+        "t": "Write a 3-minute bedtime story in [English or Kiswahili] about [theme]. Make the hero brave, include a gentle lesson, and end with a calm goodnight."
+      }
+    ],
+    "19": [
+      {
+        "l": "Hook and verse",
+        "t": "Write a hook and first verse for a [genre] song about [theme]. Match a rhythm that is easy to sing and keep the language natural."
+      },
+      {
+        "l": "Unstick a song",
+        "t": "I am stuck on a [verse or hook] about [idea]. Give me 3 directions the lyric could go, each with a sample line, without copying any existing song."
+      }
+    ],
+    "20": [
+      {
+        "l": "Demand letter",
+        "t": "Draft a polite but firm demand letter for [unpaid amount] owed to my business for [service or goods]. Include a 7-day deadline and next steps."
+      },
+      {
+        "l": "Simple agreement",
+        "t": "Write a simple one-page agreement for [type of arrangement]. Plain language, with sections for scope, payment, and cancellation."
+      }
+    ],
+    "21": [
+      {
+        "l": "Debt payoff plan",
+        "t": "Here are my debts [list amounts and rates] and my income [amount]. Build a payoff plan that prioritizes high-interest debt while keeping my essentials covered."
+      },
+      {
+        "l": "Savings target",
+        "t": "I want to save [amount] for [goal] in [months]. Give me a weekly savings plan and one cost to cut that gets me there faster."
+      }
+    ],
+    "22": [
+      {
+        "l": "Daily tracking setup",
+        "t": "Design a simple daily income and expense tracking sheet for a boda boda SACCO: columns for date, route, income, fuel, maintenance and savings. Show me the layout."
+      },
+      {
+        "l": "Meeting report",
+        "t": "Turn these records into a clean SACCO meeting report: income, expenses, loans and savings, plus 3 decisions for members to discuss."
+      }
+    ],
+    "23": [
+      {
+        "l": "Formula without memorizing",
+        "t": "I need an Excel formula to [describe task, e.g. total sales per day from a column]. Give me the formula and explain each part in plain language."
+      },
+      {
+        "l": "Clean messy data",
+        "t": "My spreadsheet has [describe mess, e.g. names and phone numbers in one column]. Give me steps to split and clean it using Excel, with the formulas."
+      }
+    ],
+    "24": [
+      {
+        "l": "Local translation",
+        "t": "Translate this marketing copy from [English to Kiswahili] so it sounds natural to a Kenyan reader, not robotic. Keep brand terms in English where natural."
+      },
+      {
+        "l": "Service offer",
+        "t": "Write a short service offer I can post on WhatsApp for translation services: what I do, turnaround, and pricing per word or page."
+      }
+    ],
+    "25": [
+      {
+        "l": "Ideal routine",
+        "t": "Design a realistic daily routine for me given my wake-up time [time], work or study blocks, and bedtime [time]. Include one focus block and one rest slot."
+      },
+      {
+        "l": "Habit ladder",
+        "t": "I want to [habit, e.g. sleep by 11pm]. Give me a 2-week habit ladder starting with one tiny change, and a reminder message I can set."
+      }
+    ],
+    "26": [
+      {
+        "l": "Task template",
+        "t": "Create a reusable prompt template for [recurring task]. It should accept variables for date, project and status, and produce a clean output I can paste into a report."
+      },
+      {
+        "l": "Meeting summary",
+        "t": "Summarize this meeting transcript into decisions, action items with owners, and open questions. Keep it under 150 words."
+      }
+    ],
+    "27": [
+      {
+        "l": "Chain a task",
+        "t": "Create a chain-prompt workflow for [goal, e.g. research, outline, draft, polish]. Show each step's prompt and how the output feeds the next step."
+      },
+      {
+        "l": "Package my library",
+        "t": "I have prompts for [area]. Suggest 3 ways to package them as a product (cheat sheet, workbook, service), each with a price point in Kenya."
+      }
+    ],
+    "28": [
+      {
+        "l": "Month calendar",
+        "t": "Build a 30-day content calendar for [brand] with themes per week, post types, and one hook idea per day. Keep it realistic to produce."
+      },
+      {
+        "l": "One piece, five formats",
+        "t": "Repurpose this content into 5 formats: a caption, a carousel, a short video script, a thread and a story. Same message, different angles."
+      }
+    ],
+    "29": [
+      {
+        "l": "Tailor my CV",
+        "t": "Here is my master CV and this job description. Rewrite my CV summary, skills and 2 key bullet points to match this role. Keep it honest."
+      },
+      {
+        "l": "Mock interview",
+        "t": "Interview me for this [role]. Ask one behavioral question at a time, then grade my answer using STAR and tell me how to improve it."
+      }
+    ],
+    "30": [
+      {
+        "l": "Design package",
+        "t": "Create a design services package for small businesses: 3 tiers with deliverables, price in KSh, and what makes each tier valuable."
+      },
+      {
+        "l": "Client pitch",
+        "t": "Write a short WhatsApp pitch for my design services targeting [type of business]. Include a relevant example of work I could do for them."
+      }
+    ],
+    "31": [
+      {
+        "l": "Literature summary",
+        "t": "Summarize this paper in 5 points: the question, method, key findings, limitations and how it relates to my research topic [topic]."
+      },
+      {
+        "l": "Study plan",
+        "t": "I have exams in [weeks] for [subjects]. Build me a weekly study plan with topics, revision blocks and practice tests."
+      }
+    ],
+    "32": [
+      {
+        "l": "Name your offer",
+        "t": "Turn my skill into a 1-line offer: who it is for, what they get, and the outcome. Give me 3 versions to test on WhatsApp."
+      },
+      {
+        "l": "First 5 customers",
+        "t": "Design a 2-week plan to get my first 5 customers using WhatsApp status, referrals and one local group. Include exact posts to make."
+      }
+    ],
+    "33": [
+      {
+        "l": "FAQ auto-replies",
+        "t": "Write auto-replies for my WhatsApp Business for the top 10 FAQs: price, delivery, location, hours, refunds. Friendly and complete."
+      },
+      {
+        "l": "Bot handoff",
+        "t": "Write a handoff rule: when a customer asks [trigger], the bot should say this and route to a human. Draft the exact message."
+      }
+    ],
+    "34": [
+      {
+        "l": "Faceless video script",
+        "t": "Write a full script for a faceless [topic] video: hook, 3 main points with visuals, and CTA. Suggest the stock clips and on-screen text per line."
+      },
+      {
+        "l": "Monetization map",
+        "t": "For a faceless page in [niche], rank 5 monetization paths from fastest to slowest, with what each realistically pays per month."
+      }
+    ],
+    "35": [
+      {
+        "l": "Client-ready copy",
+        "t": "Write product descriptions for [products or services] for a [business]. Make them sell without sounding like AI wrote them."
+      },
+      {
+        "l": "Human-sounding edit",
+        "t": "Rewrite this AI draft to pass as high-quality human writing: vary rhythm, cut cliches, and add one specific detail or local reference."
+      }
+    ],
+    "36": [
+      {
+        "l": "Irregular income budget",
+        "t": "I earn irregularly, around [range] per month. Build a budget with a baseline minimum, savings rule, and a plan for good months vs lean months."
+      },
+      {
+        "l": "Monthly review",
+        "t": "Here are my income and expenses this month. Review my budget: what to keep, cut and change for next month."
+      }
+    ],
+    "37": [
+      {
+        "l": "Farm records system",
+        "t": "Design a simple farm record system for [crop or livestock]: inputs, labor, yields and sales in one table. Show me the columns and a sample entry."
+      },
+      {
+        "l": "Direct selling post",
+        "t": "Write a WhatsApp status post selling [produce] directly to customers. Include price per unit, pickup or delivery, and why it is fresh."
+      }
+    ],
+    "38": [
+      {
+        "l": "Season calendar",
+        "t": "Plan a 12-week ministry content calendar covering sermons, devotionals and social posts. Group by theme and give one hook idea per week."
+      },
+      {
+        "l": "One sermon, many pieces",
+        "t": "Take this sermon summary and produce: a devotion, a YouTube thumbnail text, a Facebook post and a WhatsApp broadcast message."
+      }
+    ],
+    "39": [
+      {
+        "l": "Package your service",
+        "t": "Create 3 event-planning packages (basic, premium, full) with deliverables and prices in KSh for a [event type]."
+      },
+      {
+        "l": "Client follow-up",
+        "t": "Write a follow-up message to a client who asked about my event planning services but hasn't replied in a week. Friendly, not pushy."
+      }
+    ],
+    "40": [
+      {
+        "l": "Client program",
+        "t": "Design a 6-week program for a client who wants [goal]. Include weekly focus, workouts or check-ins, and a progress metric."
+      },
+      {
+        "l": "Coaching offer",
+        "t": "Write my online coaching offer: outcome, what's included, delivery via WhatsApp, price in KSh, and a simple guarantee."
+      }
+    ],
+    "41": [
+      {
+        "l": "Tutoring offer",
+        "t": "Turn my homework-help skills into a tutoring offer for parents: what I teach, how sessions work, and pricing per session or per month."
+      },
+      {
+        "l": "Worksheet lesson",
+        "t": "Create a one-page worksheet for [topic] at [grade level]: a short explainer, 5 questions and an answer key for the parent."
+      }
+    ],
+    "42": [
+      {
+        "l": "Song structure",
+        "t": "Build the structure of a [genre] song using these lyrics: intro, verse, pre-chorus, chorus, bridge, and where the beat should drop."
+      },
+      {
+        "l": "Distribution plan",
+        "t": "Compare distributing a single on Spotify, Audiomack and Boomplay for a Kenyan artist: cost, royalties, and the order to release."
+      }
+    ],
+    "43": [
+      {
+        "l": "Template library",
+        "t": "List the 15 most requested business documents for small Kenyan businesses, and draft one of them: [document type]."
+      },
+      {
+        "l": "Service pricing",
+        "t": "Price a document-drafting service: 3 packages by document type, turnaround and what's included, in KSh."
+      }
+    ],
+    "44": [
+      {
+        "l": "VA toolkit",
+        "t": "Build a VA toolkit for a [niche, e.g. e-commerce or real estate] client: scheduling, inbox triage, and data tasks, each with the AI prompt to do it."
+      },
+      {
+        "l": "VA resume",
+        "t": "Write a VA-focused CV summary and skills list from my background, targeting remote roles with international clients."
+      }
+    ],
+    "45": [
+      {
+        "l": "Translation service offer",
+        "t": "Write a freelance translation and transcription offer: languages, turnaround, pricing per word and per minute, and a sample guarantee."
+      },
+      {
+        "l": "Accuracy pass",
+        "t": "Review this translation for accuracy and naturalness. Flag anything a native Kenyan reader would notice and suggest the fix."
+      }
+    ],
+    "46": [
+      {
+        "l": "Proposal writer",
+        "t": "Here is a freelance job post. Write a winning proposal: my relevant experience, a specific plan, and why I am the right pick. Under 200 words."
+      },
+      {
+        "l": "Scope contract",
+        "t": "Draft a short freelance contract covering scope, deliverables, timeline, revision limit, payment terms and kill fee. Plain language."
+      }
+    ],
+    "47": [
+      {
+        "l": "Listing copy",
+        "t": "Write a property listing for [type of property] in [area]: headline, highlights, features and a soft CTA. Sell the lifestyle, not just the square meters."
+      },
+      {
+        "l": "Client follow-up flow",
+        "t": "Design a follow-up flow for property inquiries: day 1 intro, day 3 value add, day 7 check-in. Draft the WhatsApp messages."
+      }
+    ],
+    "48": [
+      {
+        "l": "Course outline",
+        "t": "Turn my lesson plans on [subject] into a structured digital course: modules, lessons, quizzes and a project per module."
+      },
+      {
+        "l": "Parent marketing",
+        "t": "Write a WhatsApp message to parents advertising my [course or tutoring] with the outcome, price and a free trial session."
+      }
+    ],
+    "49": [
+      {
+        "l": "Process map",
+        "t": "List the top 10 time-wasting tasks in my [type of business] and rank where AI would save the most time first. Then draft the automation for the top one."
+      },
+      {
+        "l": "90-day roadmap",
+        "t": "Build a 90-day AI automation roadmap for my business: month 1 marketing, month 2 customer service, month 3 reporting. Give one task per week."
+      }
+    ],
+    "50": [
+      {
+        "l": "Brand pillars",
+        "t": "Define my personal brand: niche, 4 content pillars, target audience, and 10 content ideas across the pillars."
+      },
+      {
+        "l": "Brand pitch",
+        "t": "Write a short brand pitch for [brand] to send to companies: who I am, my audience, engagement stats, and what I can create for them."
+      }
+    ],
+    "51": [
+      {
+        "l": "Skill gap analysis",
+        "t": "For [target role], list the top 8 skills employers want and map which I already have from [background]. Show the fastest 3 to learn with AI."
+      },
+      {
+        "l": "Portfolio project",
+        "t": "Propose a small portfolio project I can build with AI for [target role] that proves real capability, including the tools and the prompts to use."
+      }
+    ],
+    "52": [
+      {
+        "l": "Product research",
+        "t": "Research a dropshipping product niche for the Kenyan market: demand signals, competition, price range and margin potential. Give me a shortlist."
+      },
+      {
+        "l": "Store auto-replies",
+        "t": "Write automated responses for my online store: order confirmation, shipping update, out-of-stock, returns, and review request."
+      }
+    ],
+    "53": [
+      {
+        "l": "Airbnb listing",
+        "t": "Write an Airbnb or hotel listing for [property] in [area]: title, description, amenities, house rules and what makes it special."
+      },
+      {
+        "l": "Review responses",
+        "t": "Write a response to this guest review that acknowledges the feedback and invites them back, keeping the brand voice warm and professional."
+      }
+    ],
+    "54": [
+      {
+        "l": "Mood board",
+        "t": "Describe a mood board for a [collection or client]: color palette, fabrics, silhouettes and references, so I can build it in Canva or Pinterest."
+      },
+      {
+        "l": "Catalog post",
+        "t": "Write a WhatsApp catalog post for [piece, e.g. custom suit or dress]: features, fabric, sizes, price and ordering steps."
+      }
+    ],
+    "55": [
+      {
+        "l": "Grant proposal draft",
+        "t": "Draft a grant proposal outline for [project]: problem, solution, activities, budget summary and outcomes. Use plain, donor-friendly language."
+      },
+      {
+        "l": "Donor report",
+        "t": "Turn these project metrics into a concise donor report: what was done, results with numbers, challenges, and next quarter's focus."
+      }
+    ],
+    "56": [
+      {
+        "l": "Episode plan",
+        "t": "Plan a [podcast or YouTube] episode on [topic]: title options, a hook, 3 segments, and one question for the audience to answer."
+      },
+      {
+        "l": "Sponsorship pitch",
+        "t": "Write a sponsorship pitch for my channel to a [type of brand]: audience stats, what I will create, deliverables and rates."
+      }
+    ],
+    "57": [
+      {
+        "l": "Intake form",
+        "t": "Design a client intake questionnaire for a [wellness or coaching] practice: goals, current routine, obstacles, and readiness. Keep it to 10 questions."
+      },
+      {
+        "l": "Check-in system",
+        "t": "Create a weekly check-in message system for coaching clients: a Monday prompt, a midweek nudge, and a Friday reflection question."
+      }
+    ],
+    "58": [
+      {
+        "l": "Model selection",
+        "t": "Compare 3 AI-powered business models for the Kenyan market by startup cost, time to first sale and monthly potential, and recommend one for my skills."
+      },
+      {
+        "l": "STK push setup",
+        "t": "Give me a step-by-step plan to accept M-Pesa STK push payments for my digital product, including what a developer or no-code tool needs to build it."
+      }
+    ],
+    "59": [
+      {
+        "l": "Ideal client list",
+        "t": "List 15 types of local Kenyan businesses that need AI automation and can pay, ranked by urgency. For the top 3, give the automation offer they would buy first."
+      },
+      {
+        "l": "Retainer proposal",
+        "t": "Write a retainer proposal for an automation agency: services, monthly price, deliverables, and a 30-day pilot offer."
+      }
+    ],
+    "60": [
+      {
+        "l": "Readiness assessment",
+        "t": "Design a 20-question AI-readiness assessment for a company: their goals, current tools, data, skills and budget. Format it as a scorecard."
+      },
+      {
+        "l": "Consulting proposal",
+        "t": "Draft a consulting proposal for [company type]: the workshop, outcomes, timeline, price and a discount for booking this month."
+      }
+    ],
+    "61": [
+      {
+        "l": "Product brief",
+        "t": "Suggest 5 AI-powered product ideas for a specific Kenyan pain point that people would pay for, and flesh out the best one: users, core feature, and revenue model."
+      },
+      {
+        "l": "API cost check",
+        "t": "For this product idea, estimate the monthly API cost at [users] users with these usage assumptions, and suggest where to cut cost."
+      }
+    ],
+    "62": [
+      {
+        "l": "Margin math",
+        "t": "For a product I sell at [price] with [cost], calculate margin, and show what ad spend ratio keeps me profitable at [target] orders per day."
+      },
+      {
+        "l": "Brand expansion",
+        "t": "Suggest 3 product or brand extensions for my store that share the same suppliers and audience, with estimated setup effort."
+      }
+    ],
+    "63": [
+      {
+        "l": "Global CV",
+        "t": "Rewrite my CV for an international remote audience: American or UK formatting, skills-first, and quantifiable impact. Remove location assumptions."
+      },
+      {
+        "l": "Payment setup",
+        "t": "Compare payment platforms for receiving international payments from remote work as a Kenyan: fees, setup, and payout speed."
+      }
+    ],
+    "64": [
+      {
+        "l": "Topic validation",
+        "t": "I want to teach [topic]. Validate demand: who buys it, what they already pay for, and the fastest way to test interest with KSh 0."
+      },
+      {
+        "l": "Funnel plan",
+        "t": "Design a funnel for my course: a lead magnet, a landing page outline, a launch sequence, and an upsell path to a premium tier."
+      }
+    ],
+    "65": [
+      {
+        "l": "Forecast",
+        "t": "For my [crop or enterprise], build a simple forecast of costs, yield and revenue for the next season, and flag the 3 biggest risks."
+      },
+      {
+        "l": "Buyer negotiation",
+        "t": "Draft talking points for negotiating a better price with a produce buyer: my costs, quality proof, and a volume offer."
+      }
+    ]
+  }
+}

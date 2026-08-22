@@ -1,0 +1,120 @@
+/* ============================================================
+   LEARNAI — DESIGN TOKENS
+   Premium · Brutalist-Modern · Localized Micro-Learning
+   ============================================================ */
+
+:root {
+  /* ---------- Color — Surfaces ---------- */
+  --bg:            #FBFBFD;   /* main page background        */
+  --bg-alt:        #F5F5F7;   /* alternating sections/cards  */
+  --bg-inset:      #ECECF1;   /* wells, code, preview frames */
+  --dark:          #0F172A;   /* deep slate / dark sections  */
+  --dark-2:        #111827;   /* secondary dark surface      */
+
+  /* ---------- Color — Ink & Text ---------- */
+  --ink:           #0F172A;   /* headlines, primary text     */
+  --ink-soft:      #334155;   /* secondary text              */
+  --muted:         #64748B;   /* body copy, meta             */
+  --faint:         #94A3B8;   /* captions, timestamps        */
+  --on-dark:       #F8FAFC;   /* text on dark surfaces       */
+  --on-dark-muted: #A8B3C7;   /* muted text on dark          */
+
+  /* ---------- Color — Lines ---------- */
+  --line:          #E2E8F0;   /* 1px hairline                */
+  --line-strong:   #CBD5E1;
+  --line-dark:     #1E293B;   /* hairline on dark            */
+
+  /* ---------- Color — Primary Accent (Deep Emerald) ---------- */
+  --emerald-900:   #064E3B;
+  --emerald-800:   #065F46;
+  --emerald-700:   #047857;
+  --emerald-600:   #059669;
+  --emerald-500:   #10B981;
+  --emerald-100:   #D1FAE5;
+  --emerald-50:    #ECFDF5;
+
+  /* ---------- Color — Premium Accent (Champagne Gold) ---------- */
+  --gold-700:      #B45309;
+  --gold-600:      #D97706;
+  --gold-500:      #EAB308;
+  --gold-100:      #FDE68A;
+  --gold-50:       #FFFBEB;
+
+  /* ---------- Color — Function ---------- */
+  --alert:         #B91C1C;   /* scarcity, urgency ONLY      */
+  --alert-50:      #FEF2F2;
+  --whatsapp:      #25D366;   /* WhatsApp glyph accent       */
+  --whatsapp-ink:  #075E54;
+
+  /* ---------- Radii — squared-corner bias ---------- */
+  --r-xs: 2px;
+  --r-sm: 4px;
+  --r-md: 6px;
+  --r-lg: 8px;
+  --r-pill: 999px;
+
+  /* ---------- Shadows — low elevation, hairline-tight ---------- */
+  --shadow-xs: 0 1px 2px rgba(15,23,42,.05);
+  --shadow-sm: 0 1px 2px rgba(15,23,42,.06), 0 4px 12px -6px rgba(15,23,42,.10);
+  --shadow-md: 0 2px 4px rgba(15,23,42,.05), 0 16px 32px -18px rgba(15,23,42,.20);
+  --shadow-lg: 0 4px 8px rgba(15,23,42,.06), 0 32px 64px -32px rgba(15,23,42,.28);
+  --shadow-3d: 0 24px 48px -20px rgba(15,23,42,.30);
+
+  /* ---------- Type — Families ---------- */
+  --font-display: "Outfit", "Inter", system-ui, sans-serif;
+  --font-body:    "Inter", "SF Pro Text", system-ui, sans-serif;
+  --font-mono:    "IBM Plex Mono", "SFMono-Regular", ui-monospace, monospace;
+
+  /* ---------- Type — Fluid Scale ---------- */
+  --text-display-xl: clamp(2.75rem, 6.5vw, 4.75rem);
+  --text-display-lg: clamp(2.25rem, 4.5vw, 3.25rem);
+  --text-display-md: clamp(1.75rem, 3.2vw, 2.375rem);
+  --text-display-sm: clamp(1.375rem, 2.2vw, 1.75rem);
+  --text-h3:         1.25rem;
+  --text-h4:         1.0625rem;
+  --text-xl:         1.125rem;
+  --text-lg:         1.0625rem;
+  --text-md:         0.9375rem;
+  --text-sm:         0.875rem;
+  --text-xs:         0.75rem;
+  --text-2xs:        0.6875rem;
+
+  /* ---------- Type — Tracking ---------- */
+  --tracking-display: -0.03em;
+  --tracking-body:    -0.01em;
+  --tracking-label:   0.08em;   /* eyebrows, label caps       */
+
+  /* ---------- Layout — Container ---------- */
+  --container: 1200px;
+  --container-wide: 1400px;
+  --gutter: clamp(1.25rem, 4vw, 2.5rem);
+
+  /* ---------- Space — Scale ---------- */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.25rem;
+  --s-6: 1.5rem;
+  --s-8: 2rem;
+  --s-10: 2.5rem;
+  --s-12: 3rem;
+  --s-16: 4rem;
+  --s-20: 5rem;
+  --s-24: 6rem;
+
+  /* ---------- Motion ---------- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-snap: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 160ms;
+  --dur-med: 320ms;
+  --dur-slow: 560ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-med: 0ms;
+    --dur-slow: 0ms;
+  }
+}
