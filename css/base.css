@@ -25,6 +25,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  overflow-x: hidden;
 }
 
 img, svg, video, picture { display: block; max-width: 100%; height: auto; }
@@ -149,6 +150,8 @@ hr {
   justify-content: space-between;
   gap: var(--s-6);
 }
+
+.section-head--split > * { min-width: 0; }
 
 .section-head--split h2 { max-width: 22ch; }
 
