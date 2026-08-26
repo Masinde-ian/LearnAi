@@ -1,0 +1,12 @@
+{
+  "name": "learnaI",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node tools/build.js",
+    "assets": "node tools/generate-assets.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}

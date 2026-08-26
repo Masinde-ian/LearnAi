@@ -85,11 +85,12 @@
       "rating": 4.9,
       "unlocks": 1140,
       "updated": "2026-08-12",
-      "desc": "What ChatGPT is and isn't, free account setup, your first 10 useful prompts, and the beginner mistakes that waste time — all on your phone.",
+      "desc": "Learn what ChatGPT is and isn't, set up your free account in five minutes, write your first 10 useful prompts, and avoid the beginner mistakes that waste time. Designed for Kenyan students, professionals and business owners who want to use AI from their phone — no tech background needed.",
       "tagline": "Your first real ChatGPT win in under 2 hours.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "ChatGPT is a free AI tool that can draft emails, explain difficult concepts, brainstorm business ideas, and help you write professional documents — all from your phone. In this course you will learn exactly how ChatGPT works, set up your free account in under five minutes, and write your first ten useful prompts for everyday tasks. You will discover the four-part prompt formula — role, context, task, and format — that turns ChatGPT from a novelty into a tool you use daily. The course also covers voice input on your phone for faster prompting, how to save and organise your best prompts, and the three mental rules that prevent you from trusting wrong AI output. By the end you will have a working ChatGPT account, ten ready-to-use prompts, and the confidence to use AI for schoolwork, business ideas, or daily communication."
     },
     {
       "id": 2,
@@ -121,11 +122,12 @@
       "rating": 4.9,
       "unlocks": 920,
       "updated": "2026-08-10",
-      "desc": "The anatomy of a good prompt, weak-vs-strong before/afters, a 20-prompt cheat sheet, and how to fix a bad AI reply by re-prompting.",
+      "desc": "Master the structured prompting methods that turn vague AI outputs into precise, useful results every time. You will learn the four-part prompt formula, how to give AI the right context, and techniques for getting consistent output across ChatGPT, Claude and Gemini — all from your phone.",
       "tagline": "Stop getting vague answers — write prompts that work first time.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "Most people type vague one-line questions into ChatGPT and get vague one-line answers. This course teaches you the structured prompting methods that produce useful, specific output every time. You will learn how to give AI a clear role, provide the right context, specify your desired format, and iterate when the first answer misses the mark. The course includes a prompt repair framework for fixing bad outputs, techniques for getting consistent results across different AI tools, and a library of plug-and-play prompt templates for emails, reports, research, and creative tasks. Whether you use ChatGPT, Claude, or Gemini, these skills transfer directly."
     },
     {
       "id": 3,
@@ -155,11 +157,12 @@
       "rating": 4.8,
       "unlocks": 980,
       "updated": "2026-08-08",
-      "desc": "Generate captions for Instagram, TikTok, Facebook and WhatsApp Status, match tone to audience, and batch a week of posts in 15 minutes.",
+      "desc": "Generate a full week of platform-specific social media captions in under thirty minutes using AI. Learn tone-matching so your posts sound like your brand not a robot, master scroll-stopping hooks, and build a repeatable content system for Instagram, Twitter, TikTok and LinkedIn.",
       "tagline": "A week of captions in 15 minutes, in the right tone.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Creating a week of social media captions used to take hours. This course teaches you how to use AI to generate a full week of platform-specific captions in under thirty minutes. You will learn tone-matching techniques so your captions sound like your brand, not a robot. The course covers caption frameworks for Instagram, Twitter, TikTok, and LinkedIn, hashtag research prompts, and how to repurpose one piece of content across multiple platforms. You will also master the art of writing hooks that stop the scroll and calls-to-action that drive engagement. Every prompt is tested on Kenyan brands and audiences."
     },
     {
       "id": 4,
@@ -188,11 +191,12 @@
       "rating": 4.9,
       "unlocks": 1105,
       "updated": "2026-08-09",
-      "desc": "Turn a rough work history into a polished CV, write tailored cover letters, avoid Kenyan job-seeker mistakes, and format for ATS.",
+      "desc": "Rebuild your CV from scratch, tailor it to specific job postings, and write cover letters that hiring managers actually finish reading. Learn keyword extraction from job descriptions, achievement-oriented bullet rewriting, and ATS formatting — with templates for Kenyan and international job markets.",
       "tagline": "A CV that passes ATS filters and gets you interviews.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "Your next employer might never read your CV if the formatting is wrong or the keywords do not match the job description. This course shows you how to use AI to rebuild your CV from scratch, tailor it to specific job postings, and write cover letters that hiring managers actually finish reading. You will learn keyword extraction from job descriptions, achievement-oriented bullet point rewriting, and how to format your CV for both human readers and applicant tracking systems. The course includes templates for entry-level, mid-career, and senior professionals across Kenyan and international job markets."
     },
     {
       "id": 5,
@@ -223,11 +227,12 @@
       "rating": 4.8,
       "unlocks": 760,
       "updated": "2026-08-06",
-      "desc": "Use Canva's built-in AI tools, make posters and social posts in minutes, know which paid features are worth it, and keep 5 reusable templates.",
+      "desc": "Create professional social media posts, flyers and presentations in minutes using Canva AI features — no graphic design experience needed. Learn to write design briefs AI understands, use Magic Design for auto-generated layouts, and produce print-ready files for posters and business cards.",
       "tagline": "Professional graphics in minutes — no design degree needed.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "You do not need a graphic designer to create professional social media posts, flyers, and presentations. This course teaches you how to use Canva AI features to generate polished graphics in minutes. You will learn how to write design briefs that AI understands, use Magic Design to auto-generate layouts, create brand kits for consistent visuals, and produce print-ready files for posters and business cards. The course covers both the free and Pro versions of Canva, with specific workflows for Instagram posts, presentation decks, YouTube thumbnails, and event posters."
     },
     {
       "id": 6,
@@ -255,11 +260,12 @@
       "rating": 4.9,
       "unlocks": 1230,
       "updated": "2026-08-11",
-      "desc": "Understand hard topics, summarize textbooks, revise with AI-generated questions, and use AI responsibly without plagiarizing.",
+      "desc": "Use AI as a study companion to break down complex topics, generate practice questions, create study schedules and get feedback on your writing — without crossing your school's academic integrity line. Every prompt is designed for the Kenyan curriculum and examination format.",
       "tagline": "Understand any topic and revise smarter — the honest way.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "This course teaches students how to use AI as a study companion — not a cheating tool. You will learn how to use ChatGPT to break down complex topics into simple explanations, generate practice questions, create study schedules, and get feedback on your writing. The course covers ethical use guidelines that keep you on the right side of your school's academic integrity policy. You will also learn how to use AI for research, citation formatting, and essay structure. Every prompt is designed for the Kenyan school curriculum and examination format."
     },
     {
       "id": 7,
@@ -289,11 +295,12 @@
       "rating": 4.8,
       "unlocks": 860,
       "updated": "2026-08-05",
-      "desc": "Brainstorm side hustle ideas from your skills, validate them before spending money, and write a one-page plan with real Kenyan examples.",
+      "desc": "Identify, validate and launch an AI-powered side hustle that fits your skills and schedule. Learn to brainstorm business ideas based on your existing abilities, research market demand in Kenya, and create your first marketing materials — with fifteen proven AI side hustle models and step-by-step launch guides.",
       "tagline": "Find and validate a hustle idea before you risk a shilling.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "This course helps you identify, validate, and launch AI-powered side hustles that fit your skills and schedule. You will learn how to use AI to brainstorm business ideas based on your existing skills, research market demand in Kenya, write business plans, and create your first marketing materials. The course covers fifteen proven AI side hustles — from prompt engineering services to AI-assisted content creation — with step-by-step launch guides for each. You will also learn how to price your services, find your first clients on WhatsApp and social media, and scale from side hustle to full-time income."
     },
     {
       "id": 8,
@@ -322,11 +329,12 @@
       "rating": 4.9,
       "unlocks": 1500,
       "updated": "2026-08-14",
-      "desc": "Write quick professional replies, build saved templates, handle price and delivery objections, and turn chats into sales without sounding robotic.",
+      "desc": "Automate customer responses, create professional reply templates and handle enquiries at scale on WhatsApp. Learn to build a response library for common questions, draft personalised replies in seconds, and set up quick-reply workflows for sales, support and follow-ups — for any Kenyan business type.",
       "tagline": "Turn every WhatsApp chat into a chance to close.",
       "was": 1100,
       "discount": 45,
-      "save": 500
+      "save": 500,
+      "preview": "WhatsApp is how most Kenyan businesses communicate with customers. This course teaches you how to use AI to automate responses, create professional reply templates, and handle customer enquiries at scale. You will learn how to build a response library for common questions, use AI to draft personalised replies in seconds, and set up quick-reply workflows for sales, support, and follow-ups. The course covers both WhatsApp Business app features and third-party automation tools, with specific templates for restaurants, shops, service providers, and professional firms."
     },
     {
       "id": 9,
@@ -354,11 +362,12 @@
       "rating": 4.8,
       "unlocks": 640,
       "updated": "2026-08-03",
-      "desc": "Overview of free AI video and voice tools, turn a script into a captioned short, generate voiceovers, and export for TikTok, Reels and Shorts.",
+      "desc": "Generate voiceovers, edit videos, add subtitles and create talking-head content without a camera using AI tools. Learn text-to-speech for professional narration, AI video editors for quick cuts, and subtitle generators for accessibility — with practical workflows for YouTube Shorts, Instagram Reels and TikTok.",
       "tagline": "Your first captioned short, no camera or mic required.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Voice and video content is dominating social media, but most creators struggle with production. This course introduces you to AI tools that generate voiceovers, edit videos, add subtitles, and create talking-head content without a camera. You will learn how to use text-to-speech for professional narration, AI video editors for quick cuts and transitions, and subtitle generators for accessibility. The course covers tools like ElevenLabs, Descript, CapCut AI, and Runway, with practical workflows for YouTube shorts, Instagram reels, and TikTok content."
     },
     {
       "id": 10,
@@ -387,11 +396,12 @@
       "rating": 4.8,
       "unlocks": 700,
       "updated": "2026-08-02",
-      "desc": "Turn an idea into a full blog post outline with AI, write in your own voice, get SEO basics, and edit drafts so they don't read as AI-written.",
+      "desc": "Research, outline, write and optimise blog posts that rank on Google using AI. Learn keyword research prompts, content structure frameworks, SEO writing techniques and how to add your unique voice to AI-generated drafts — with real Kenyan examples throughout.",
       "tagline": "Write faster without sounding like a robot.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "This course teaches you how to use AI to research, outline, write, and optimise blog posts that rank on Google. You will learn keyword research prompts, content structure frameworks, and how to use AI for first drafts without producing generic content. The course covers SEO writing techniques, internal linking strategies, and how to add your unique voice to AI-generated drafts. You will also learn how to repurpose blog posts into social media content, email newsletters, and video scripts. Every technique is demonstrated with real Kenyan examples."
     },
     {
       "id": 11,
@@ -420,11 +430,12 @@
       "rating": 4.7,
       "unlocks": 540,
       "updated": "2026-08-01",
-      "desc": "Write a bio that converts, pick a niche and content angle, quick profile-pic and highlight ideas, and a 5-minute profile audit.",
+      "desc": "Craft social media bios that convert visitors into followers, customers or clients using AI. Learn platform-specific formulas for Instagram, Twitter, LinkedIn, TikTok and YouTube, keyword placement for discoverability, and A/B testing methods for optimising your profile.",
       "tagline": "A profile that turns visitors into followers and customers.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Your social media bio is the first thing people see. This course teaches you how to use AI to craft bios that convert visitors into followers, customers, or clients. You will learn platform-specific bio formulas for Instagram, Twitter, LinkedIn, TikTok, and YouTube. The course covers keyword placement for discoverability, call-to-action writing, and how to A/B test different bio versions. You will also learn how to optimise your profile photos, highlights, and link-in-bio pages for maximum impact."
     },
     {
       "id": 12,
@@ -453,11 +464,12 @@
       "rating": 4.8,
       "unlocks": 590,
       "updated": "2026-07-30",
-      "desc": "Generate and shortlist business names, check domain and social availability fast, write a memorable slogan, and know the BRS registration basics.",
+      "desc": "Generate hundreds of business name options, test them for memorability and create slogans that stick — all using AI. Learn naming frameworks, domain and handle availability checking, trademark conflict screening and slogan writing techniques that produce brandable results.",
       "tagline": "A name and slogan that stick — without paying a branding agency.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Finding the right business name and slogan can take weeks of brainstorming. This course shows you how to use AI to generate hundreds of name options, test them for memorability, and create slogans that stick. You will learn naming frameworks — compound names, evocative names, descriptive names — and how to use AI to check domain availability, social media handle availability, and trademark conflicts. The course also covers slogan writing techniques, tagline testing methods, and how to create a brand naming brief that produces useful results from AI."
     },
     {
       "id": 13,
@@ -488,11 +500,12 @@
       "rating": 4.8,
       "unlocks": 720,
       "updated": "2026-07-28",
-      "desc": "Build a simple weekly budget, plan affordable family meals, track spending without apps, and cut recurring costs with AI suggestions.",
+      "desc": "Manage money and plan meals on a budget using AI. Create weekly budgets, track expenses, plan nutritious family meals and generate shopping lists that reduce waste — with prompts for Kenyan-specific budgeting including M-Pesa tracking, SACCO contributions and school fee planning.",
       "tagline": "Make a tight income stretch further — one budget at a time.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Managing money and meal planning on a budget is easier with AI. This course teaches you how to use ChatGPT to create weekly budgets, track expenses, plan nutritious meals for your family, and generate shopping lists that reduce waste. You will learn prompts for Kenyan-specific budgeting — M-Pesa tracking, SACCO contributions, school fee planning — and meal planning that accounts for local ingredients and markets. The course also covers how to use AI for grocery price comparison, recipe adaptation, and dietary restriction planning."
     },
     {
       "id": 14,
@@ -521,11 +534,12 @@
       "rating": 4.8,
       "unlocks": 480,
       "updated": "2026-07-26",
-      "desc": "Identify common pests and diseases with AI photo tools, get planting and weather guidance, and know when a local agrovet is the real answer.",
+      "desc": "Use AI for crop management, pest identification and farm business planning. Diagnose crop diseases from descriptions, plan planting seasons, calculate fertiliser requirements and create market-day strategies — with prompts for weather-based decisions, livestock care and grant application writing.",
       "tagline": "Faster crop and pest answers — while knowing when to ask an expert.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "This course teaches Kenyan farmers how to use AI for crop management, pest identification, and farm business planning. You will learn how to use ChatGPT to diagnose crop diseases from descriptions, plan planting seasons, calculate fertiliser requirements, and create market-day strategies. The course covers prompts for weather-based planting decisions, livestock care, organic farming methods, and connecting with buyers. You will also learn how to use AI for farm record-keeping, expense tracking, and grant application writing."
     },
     {
       "id": 15,
@@ -554,11 +568,12 @@
       "rating": 4.7,
       "unlocks": 410,
       "updated": "2026-07-24",
-      "desc": "Turn rough sermon notes into shareable summaries, write weekly announcements and WhatsApp group messages, and make simple event graphics.",
+      "desc": "Draft weekly announcements, sermon study guides, event descriptions and social media content for your congregation using AI. Learn prompts for different church contexts — Sunday service, youth events, fundraising campaigns — that maintain a warm, welcoming tone reflecting your church's voice.",
       "tagline": "Clear, authentic church communication in minutes.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Church leaders spend hours writing weekly announcements, sermon notes, and community updates. This course teaches you how to use AI to draft announcements, create sermon study guides, write event descriptions, and produce social media content for your congregation. You will learn prompts for different church contexts — Sunday service, midweek Bible study, youth events, fundraising campaigns — and how to maintain a warm, welcoming tone that reflects your church's voice. The course also covers newsletter writing, volunteer coordination messages, and community outreach content."
     },
     {
       "id": 16,
@@ -589,11 +604,12 @@
       "rating": 4.8,
       "unlocks": 520,
       "updated": "2026-07-22",
-      "desc": "Build a day-of event checklist and timeline, write invitations and MC scripts, budget with AI, and use vendor communication templates.",
+      "desc": "Plan weddings and events in Kenya using AI for vendor shortlists, budgets, invitation messages, seating arrangements and timeline management. Learn prompts for weddings, corporate events and celebrations — with tools for guest list management, RSVP tracking and day-of coordination.",
       "tagline": "Plan a wedding or event that actually runs on time.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "Planning weddings and events in Kenya involves dozens of moving parts. This course teaches you how to use AI to create vendor shortlists, draft budgets, write invitation messages, plan seating arrangements, and manage timelines. You will learn prompts for different event types — weddings, corporate events, birthday parties, graduation celebrations — and how to use AI for guest list management, RSVP tracking, and day-of coordination checklists. The course also covers how to write event proposals, negotiate with vendors, and create social media buzz before and after the event."
     },
     {
       "id": 17,
@@ -622,11 +638,12 @@
       "rating": 4.7,
       "unlocks": 460,
       "updated": "2026-07-20",
-      "desc": "Generate a beginner workout plan from your goals and equipment, get basic nutrition guidance, track progress simply, and know when to see a pro.",
+      "desc": "Create custom workout plans, meal plans and progress tracking systems using AI. Learn prompts that generate safe, effective exercise programmes for different fitness levels — covering home workouts, gym programmes and outdoor training adapted for Kenyan contexts.",
       "tagline": "A simple plan you'll actually follow — no gym membership required.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Personal trainers and fitness enthusiasts can use AI to create custom workout plans, meal plans, and progress tracking systems. This course teaches you how to write prompts that generate safe, effective exercise programmes for different fitness levels and goals. You will learn how to use AI for warm-up routines, cool-down stretches, weekly training schedules, and nutrition plans. The course covers home workouts, gym programmes, and outdoor training — all adapted for Kenyan contexts where gym equipment may be limited."
     },
     {
       "id": 18,
@@ -655,11 +672,12 @@
       "rating": 4.8,
       "unlocks": 560,
       "updated": "2026-07-18",
-      "desc": "Explain homework in simple terms, generate custom bedtime stories in English or Kiswahili, and build a safe weekly family learning routine.",
+      "desc": "Support your children's education and create engaging bedtime stories using AI. Learn prompts for explaining homework, generating practice problems, building personalised stories and creating reading comprehension exercises — aligned with the Kenyan school curriculum.",
       "tagline": "Homework help and bedtime stories, in English or Kiswahili.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "This course teaches parents how to use AI to support their children's education and create engaging bedtime stories. You will learn prompts for explaining homework concepts, generating practice problems, creating personalised stories with your child as the hero, and building reading comprehension exercises. The course covers age-specific prompts for primary and secondary school students, curriculum-aligned study aids, and creative storytelling techniques that make learning fun. You will also learn how to use AI for school project ideas, science experiment suggestions, and revision timetables."
     },
     {
       "id": 19,
@@ -688,11 +706,12 @@
       "rating": 4.7,
       "unlocks": 430,
       "updated": "2026-07-16",
-      "desc": "Generate lyric ideas and song structures, beat writer's block, keep your originality, and turn lyrics into a rough demo.",
+      "desc": "Overcome creative blocks and generate lyric ideas in English and Kiswahili using AI. Learn prompts for different genres — gospel, Afrobeats, benga, hip-hop — song structure planning, melody brainstorming and marketing content creation for musicians in the Kenyan market.",
       "tagline": "Finish songs instead of staring at a blank page.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Musicians and songwriters can use AI to overcome creative blocks, generate lyric ideas, and experiment with different musical styles. This course teaches you how to use AI for lyric writing in English and Kiswahili, song structure planning, melody brainstorming, and content generation for music marketing. You will learn prompts for different genres — gospel, Afrobeats, benga, hip-hop — and how to use AI to write press kits, social media content, and press releases. The course also covers how to use AI for music production planning and collaboration coordination."
     },
     {
       "id": 20,
@@ -722,11 +741,12 @@
       "rating": 4.8,
       "unlocks": 620,
       "updated": "2026-07-14",
-      "desc": "Generate demand letters, notices and quotations, draft simple agreements and receipts, and know when a real lawyer is required.",
+      "desc": "Draft demand letters, contract summaries, notice letters and legal correspondence using AI. Learn prompts for Kenyan legal contexts including tenancy disputes, employment matters and consumer rights — with guidance on when to consult a qualified lawyer.",
       "tagline": "10 ready-to-edit templates — and a clear line for when to call a lawyer.",
       "was": 1100,
       "discount": 45,
-      "save": 500
+      "save": 500,
+      "preview": "Writing formal legal letters and documents requires precision and the right tone. This course teaches you how to use AI to draft demand letters, contract summaries, notice letters, and legal correspondence. You will learn prompts for Kenyan legal contexts — tenancy disputes, employment matters, business contracts, and consumer rights. The course covers how to use AI for legal research, case summaries, and document review. You will also learn the limitations of AI for legal work and when to consult a qualified lawyer."
     },
     {
       "id": 21,
@@ -756,11 +776,12 @@
       "rating": 4.8,
       "unlocks": 690,
       "updated": "2026-07-12",
-      "desc": "Map debts and build a payoff plan, set realistic savings goals, manage chama records with AI, and catch money mistakes early.",
+      "desc": "Take control of your finances, pay off debts and build savings using AI. Create debt repayment plans, negotiate with creditors, set up automatic savings rules and track your net worth — with prompts for Kenyan financial tools like SACCOs, money market funds and M-Pesa savings products.",
       "tagline": "A debt payoff and savings plan that fits your actual income.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "This course teaches you how to use AI to take control of your finances, pay off debts, and build savings. You will learn prompts for creating debt repayment plans, negotiating with creditors, setting up automatic savings rules, and tracking your net worth. The course covers Kenyan-specific financial tools — M-Pesa savings products, SACCOs, money market funds — and how to use AI to compare interest rates, calculate loan costs, and plan for major expenses like school fees and home improvement."
     },
     {
       "id": 22,
@@ -791,11 +812,12 @@
       "rating": 4.8,
       "unlocks": 380,
       "updated": "2026-07-10",
-      "desc": "Set up daily income and expense tracking, generate SACCO meeting reports, write member reminders, and track loans and savings.",
+      "desc": "Automate record-keeping, generate financial reports and streamline member communications for your SACCO using AI. Learn prompts for member ledger management, dividend calculations, loan tracking and regulatory filing — plus templates for meeting minutes and agenda planning.",
       "tagline": "Clean SACCO records and reports without the spreadsheet pain.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "SACCO managers and treasurers can use AI to automate record-keeping, generate financial reports, and streamline member communications. This course teaches you how to use AI for member ledger management, dividend calculations, loan tracking, and annual report preparation. You will learn prompts for SACCO-specific accounting tasks, compliance documentation, and regulatory filing. The course also covers how to use AI for meeting minutes, agenda planning, and member engagement communications."
     },
     {
       "id": 23,
@@ -827,11 +849,12 @@
       "rating": 4.8,
       "unlocks": 810,
       "updated": "2026-07-08",
-      "desc": "Write Excel formulas without memorizing syntax, clean messy data fast, build simple dashboards, and find local and remote data jobs.",
+      "desc": "Automate Excel tasks, clean messy data, create formulas and build dashboards using AI. Learn prompts for pivot tables, VLOOKUP, conditional formatting and data validation — with workflows for accounting, inventory management and reporting in Kenyan businesses.",
       "tagline": "Excel formulas on demand — and data jobs to use them on.",
       "was": 1000,
       "discount": 45,
-      "save": 450
+      "save": 450,
+      "preview": "Data entry and spreadsheet management are essential skills for any office worker. This course teaches you how to use AI to automate Excel tasks, clean messy data, create formulas, and build dashboards. You will learn prompts for common business tasks — pivot tables, VLOOKUP, conditional formatting, and data validation. The course covers both basic and intermediate Excel skills, with specific workflows for accounting, inventory management, and reporting. You will also learn how to use AI to troubleshoot formula errors and optimise spreadsheet performance."
     },
     {
       "id": 24,
@@ -861,11 +884,12 @@
       "rating": 4.8,
       "unlocks": 450,
       "updated": "2026-07-06",
-      "desc": "Translate marketing content accurately, make it sound natural not robotic, and build a translation side-service people pay for.",
+      "desc": "Produce high-quality translations between English and Kiswahili using AI, going beyond raw machine translation. Learn prompts for natural Kiswahili output, tone maintenance across languages, subtitle translation, website localisation and marketing copy adaptation — including Sheng and informal contexts.",
       "tagline": "Natural translations that read local — not robotic.",
       "was": 1100,
       "discount": 45,
-      "save": 500
+      "save": 500,
+      "preview": "Translating between English and Kiswahili accurately requires cultural context that raw machine translation often misses. This course teaches you how to use AI for high-quality translations, localisation, and multilingual content creation. You will learn prompts that produce natural Kiswahili output, techniques for maintaining tone and register across languages, and how to use AI for subtitle translation, website localisation, and marketing copy adaptation. The course also covers Sheng and informal Kenyan English contexts."
     },
     {
       "id": 25,
@@ -894,11 +918,12 @@
       "rating": 4.7,
       "unlocks": 400,
       "updated": "2026-07-04",
-      "desc": "Design a personalized daily and weekly routine, build simple habits and reminders, and fix what's disrupting your sleep and focus.",
+      "desc": "Analyse your sleep patterns, create personalised bedtime routines and build habits that improve sleep quality using AI. Learn prompts for sleep tracking, relaxation techniques, caffeine management and bedroom optimisation — designed for shift workers, students and parents.",
       "tagline": "A realistic routine you'll stick to — no 5am overhaul.",
       "was": 1000,
       "discount": 50,
-      "save": 500
+      "save": 500,
+      "preview": "Better sleep leads to better productivity, mood, and health. This course teaches you how to use AI to analyse your sleep patterns, create personalised bedtime routines, and build habits that improve sleep quality. You will learn prompts for sleep tracking, relaxation technique recommendations, caffeine and screen time management, and bedroom environment optimisation. The course covers shift workers, students with irregular schedules, and parents managing family sleep routines."
     },
     {
       "id": 26,
@@ -929,11 +954,12 @@
       "rating": 4.9,
       "unlocks": 680,
       "updated": "2026-08-15",
-      "desc": "Build repeatable prompt templates for recurring work tasks, use ChatGPT for research and reports, connect it to email and data workflows, and tune custom instructions.",
+      "desc": "Take your ChatGPT skills beyond the basics with advanced prompting techniques including chain-of-thought reasoning, few-shot learning, system prompt design and multi-turn conversation management. Learn custom GPTs, API basics for non-developers and how to combine ChatGPT with Google Sheets, Notion and Canva.",
       "tagline": "Repeatable prompt templates that save hours every week.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "This course takes your ChatGPT skills beyond the basics. You will learn advanced prompting techniques including chain-of-thought reasoning, few-shot learning, system prompt design, and multi-turn conversation management. The course covers custom GPTs, API basics for non-developers, and how to use ChatGPT for complex tasks like market research, data analysis, and strategic planning. You will also learn how to combine ChatGPT with other tools like Google Sheets, Notion, and Canva for powerful workflows."
     },
     {
       "id": 27,
@@ -963,11 +989,12 @@
       "rating": 4.9,
       "unlocks": 760,
       "updated": "2026-08-16",
-      "desc": "Chain prompting, role-stacking and few-shot structures, a personal prompt library, packaging prompts as a product, and where to sell locally and online.",
+      "desc": "Turn your prompt engineering skills into an income stream by offering consulting services, creating prompt libraries and building AI automation workflows for clients. Learn pricing strategies, client acquisition on LinkedIn and Twitter, portfolio building and how to package expertise into digital products.",
       "tagline": "Turn prompt skill into a sellable product or service.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "This course teaches you how to turn prompt engineering skills into a income stream. You will learn how to offer prompt consulting services, create and sell prompt libraries, and build AI automation workflows for clients. The course covers pricing strategies, client acquisition on LinkedIn and Twitter, portfolio building, and how to write proposals that win contracts. You will also learn how to package your expertise into digital products — prompt templates, workflow guides, and training materials — that generate passive income."
     },
     {
       "id": 28,
@@ -997,11 +1024,12 @@
       "rating": 4.8,
       "unlocks": 640,
       "updated": "2026-08-13",
-      "desc": "Plan a full month's content calendar with AI, batch-generate captions and hooks by theme, repurpose one piece into 5 formats, and read simple analytics.",
+      "desc": "Build a complete system for creating consistent, high-quality social media content using AI. Learn content calendars, platform-specific post generation, visual asset creation, scheduling, content pillars, brand voice development and analytics interpretation — with Kenyan brand examples.",
       "tagline": "A month of content planned, written and scheduled in 2 hours.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "This course gives you a complete system for creating consistent, high-quality social media content using AI. You will learn how to build a content calendar, generate platform-specific posts, create visual assets, and schedule everything in advance. The course covers content pillars, brand voice development, engagement strategies, and analytics interpretation. You will also learn how to use AI for trend monitoring, competitor analysis, and audience research. Every technique is demonstrated with real Kenyan brand examples."
     },
     {
       "id": 29,
@@ -1032,11 +1060,12 @@
       "rating": 4.9,
       "unlocks": 720,
       "updated": "2026-08-12",
-      "desc": "Build a master CV and tailor it per role in minutes, optimize LinkedIn with AI, prepare for interviews with mock Q&A, and follow up professionally.",
+      "desc": "Cover every stage of the job search process from identifying opportunities to negotiating your offer using AI. Learn job matching, CV optimisation, cover letter customisation, interview preparation and salary negotiation for both Kenyan and international markets — including LinkedIn strategy and professional networking.",
       "tagline": "A master CV and application system that gets replies.",
       "was": 5100,
       "discount": 47,
-      "save": 2400
+      "save": 2400,
+      "preview": "This comprehensive course covers every stage of the job search process — from identifying the right opportunities to negotiating your offer. You will learn how to use AI for job matching, CV optimisation, cover letter customisation, interview preparation, and salary negotiation. The course covers both Kenyan and international job markets, with specific strategies for East African companies, multinational corporations, and remote positions. You will also learn how to use LinkedIn effectively, build a professional online presence, and network strategically."
     },
     {
       "id": 30,
@@ -1067,11 +1096,12 @@
       "rating": 4.8,
       "unlocks": 560,
       "updated": "2026-08-10",
-      "desc": "Build a portfolio of AI-assisted designs, price and package design services, find your first paying clients, and deliver professional files with revisions.",
+      "desc": "Build a graphic design business using AI tools for logo design, brand identity creation, social media graphics and print materials. Learn client acquisition, pricing, project management and portfolio building — with specific workflows for Kenyan businesses from startups to established brands.",
       "tagline": "Portfolio, pricing and your first paying design clients.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "This course teaches you how to build a graphic design business using AI tools. You will learn how to use AI for logo design, brand identity creation, social media graphics, and print materials. The course covers client acquisition, pricing your design services, project management, and building a portfolio that wins clients. You will also learn how to use AI for design briefs, concept generation, and rapid prototyping. Specific workflows for Kenyan businesses — from startups to established brands — are included throughout."
     },
     {
       "id": 31,
@@ -1100,11 +1130,12 @@
       "rating": 4.9,
       "unlocks": 800,
       "updated": "2026-08-09",
-      "desc": "Research papers, citations and literature summaries with AI, a personalized study plan, exam prep across subjects, and staying within academic integrity rules.",
+      "desc": "Speed up literature reviews, data analysis and academic writing using AI. Learn prompts for finding relevant papers, summarising research, structuring arguments and formatting citations — for secondary school, undergraduate and postgraduate levels, with both qualitative and quantitative research methods.",
       "tagline": "Research papers and exam prep, done the honest way.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "Students and researchers can use AI to dramatically speed up literature reviews, data analysis, and academic writing. This course teaches you how to use AI for finding relevant papers, summarising research findings, structuring academic arguments, and formatting citations. You will learn prompts for different academic levels — secondary school, undergraduate, postgraduate — and how to use AI ethically in academic work. The course covers both qualitative and quantitative research methods, with tools for data visualisation and statistical analysis."
     },
     {
       "id": 32,
@@ -1134,11 +1165,12 @@
       "rating": 4.8,
       "unlocks": 600,
       "updated": "2026-08-08",
-      "desc": "Turn a validated idea into an offer, set a price and service page, get your first 5 customers via WhatsApp and referrals, and get paid via M-Pesa.",
+      "desc": "Go from idea to launched AI side hustle in thirty days. Learn to identify profitable services, set up business infrastructure, find first clients and deliver quality work — with launch checklists for content creation, virtual assistance, data analysis, design services and prompt consulting.",
       "tagline": "From validated idea to your first 5 paying customers.",
       "was": 4900,
       "discount": 47,
-      "save": 2300
+      "save": 2300,
+      "preview": "This step-by-step course takes you from idea to launched AI side hustle in thirty days. You will learn how to identify profitable AI services, set up your business infrastructure, find your first clients, and deliver quality work. The course covers five proven AI side hustle models — content creation, virtual assistance, data analysis, design services, and prompt consulting — with launch checklists for each. You will also learn how to manage your time between a full-time job and your side hustle, handle client relationships, and scale sustainably."
     },
     {
       "id": 33,
@@ -1167,11 +1199,12 @@
       "rating": 4.9,
       "unlocks": 520,
       "updated": "2026-08-14",
-      "desc": "Set up a basic AI auto-responder for WhatsApp Business, automate FAQs, orders and appointments, hand off bot to human at the right moment, and pick low-cost tools.",
+      "desc": "Build WhatsApp chatbots that handle customer enquiries, process orders and provide support — all without coding. Learn no-code tools like Twilio and WATI, conversation design, intent recognition and analytics tracking — building three complete chatbots during the course.",
       "tagline": "An auto-responder that books orders while you sleep.",
       "was": 6100,
       "discount": 48,
-      "save": 2900
+      "save": 2900,
+      "preview": "This course teaches you how to build WhatsApp chatbots that handle customer enquiries, process orders, and provide support — all without coding. You will learn how to use no-code tools like Twilio, WhatsApp Business API, and WATI to create automated workflows. The course covers conversation design, intent recognition, escalation to human agents, and analytics tracking. You will build three complete chatbots during the course: a customer support bot, a product catalogue bot, and a booking bot."
     },
     {
       "id": 34,
@@ -1200,11 +1233,12 @@
       "rating": 4.8,
       "unlocks": 580,
       "updated": "2026-08-07",
-      "desc": "Script a full faceless video from one idea, combine AI voice, stock footage and captions, grow the page step by step, and learn monetization paths.",
+      "desc": "Create engaging faceless videos using AI tools for scripting, voiceover, editing and publishing. Learn workflows for YouTube automation, TikTok and Instagram Reels — all without appearing on camera — with strategies for niche selection, content research and monetisation.",
       "tagline": "A faceless channel pipeline that grows while you sleep.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "You do not need to show your face to build a successful video channel. This course teaches you how to create engaging faceless videos using AI tools for scripting, voiceover, editing, and publishing. You will learn workflows for YouTube automation, TikTok content, and Instagram reels — all without appearing on camera. The course covers niche selection, content research, AI voice generation, stock footage editing, and monetisation strategies. You will also learn how to batch-produce content and schedule posts for consistent growth."
     },
     {
       "id": 35,
@@ -1235,11 +1269,12 @@
       "rating": 4.8,
       "unlocks": 620,
       "updated": "2026-08-06",
-      "desc": "Write articles, product descriptions and website copy with AI, edit output so it passes as quality human writing, find gigs, and price your services.",
+      "desc": "Build a freelance content writing business powered by AI. Learn to use AI for research, outlining, drafting and editing while maintaining your voice — covering blog posts, website copy, email newsletters and social media content with pricing strategies for the Kenyan and East African market.",
       "tagline": "Get paid to write — with AI doing the heavy lifting.",
       "was": 5100,
       "discount": 47,
-      "save": 2400
+      "save": 2400,
+      "preview": "This course teaches you how to build a freelance content writing business powered by AI. You will learn how to use AI for research, outlining, drafting, and editing while maintaining your unique voice and meeting client expectations. The course covers content types — blog posts, website copy, email newsletters, social media content — and how to price each one. You will also learn client acquisition strategies, portfolio building, and how to manage multiple projects simultaneously. Specific guidance for the Kenyan and East African market is included."
     },
     {
       "id": 36,
@@ -1268,11 +1303,12 @@
       "rating": 4.8,
       "unlocks": 580,
       "updated": "2026-08-05",
-      "desc": "A full monthly budgeting system with AI tracking prompts, planning for irregular income, savings goals for milestones, and monthly budget reviews.",
+      "desc": "Build a complete personal finance system using AI for budget creation, expense tracking, investment research and retirement planning. Learn prompts for Kenyan financial products — SACCOs, money market funds, government bonds and NSSF — with guidance on tax planning and emergency fund building.",
       "tagline": "A monthly budget system for irregular income.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "This course helps you build a complete personal finance system using AI. You will learn how to use ChatGPT for budget creation, expense tracking, investment research, insurance review, and retirement planning. The course covers Kenyan financial products — SACCOs, money market funds, government bonds, and NSSF — with prompts that help you compare options and make informed decisions. You will also learn how to use AI for tax planning, debt management, and building an emergency fund."
     },
     {
       "id": 37,
@@ -1303,11 +1339,12 @@
       "rating": 4.8,
       "unlocks": 420,
       "updated": "2026-08-04",
-      "desc": "A farm record-keeping and planning system with AI, research buyers and pricing trends, market produce directly, and coordinate cooperative selling.",
+      "desc": "Use AI across the entire agricultural value chain from planting decisions to market access. Learn prompts for crop selection, pest management, harvest timing, storage planning and market price research — with business planning, grant application and record-keeping for Kenyan agribusinesses.",
       "tagline": "From record-keeping to selling direct — a farm system.",
       "was": 4900,
       "discount": 47,
-      "save": 2300
+      "save": 2300,
+      "preview": "This course teaches smallholder farmers and agribusiness owners how to use AI for the entire value chain — from planting decisions to market access. You will learn prompts for crop selection based on soil and climate, pest and disease management, harvest timing, storage planning, and market price research. The course covers how to use AI for business planning, grant applications, and connecting with buyers through digital platforms. You will also learn how to use AI for record-keeping and financial management specific to agricultural businesses."
     },
     {
       "id": 38,
@@ -1336,11 +1373,12 @@
       "rating": 4.7,
       "unlocks": 380,
       "updated": "2026-08-03",
-      "desc": "A content calendar for sermons, devotionals and social posts, multi-platform content from one sermon, outreach support, and a consistent authentic voice.",
+      "desc": "Produce sermons outlines, social media posts, event promotions, newsletters and fundraising materials at scale for your church using AI. Learn prompts for youth ministry, women's fellowship and children's church — maintaining a consistent spiritual voice across all channels.",
       "tagline": "One sermon becomes a week of content.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "Churches and ministries need consistent content for social media, websites, and community outreach. This course teaches you how to use AI to produce sermons outlines, social media posts, event promotions, newsletters, and fundraising materials at scale. You will learn prompts for different church contexts — youth ministry, women's fellowship, men's league, and children's church — and how to maintain a consistent spiritual voice across all channels. The course also covers livestream graphics, podcast show notes, and volunteer recruitment content."
     },
     {
       "id": 39,
@@ -1371,11 +1409,12 @@
       "rating": 4.8,
       "unlocks": 460,
       "updated": "2026-08-02",
-      "desc": "Turn event-planning skill into a bookable service, build a portfolio and pricing packages, run vendor management and client communication, and market locally.",
+      "desc": "Build and grow an event planning business using AI for client proposals, vendor management, budget tracking and marketing. Learn workflows for weddings, corporate events, product launches and charity galas — with pricing, contracts and insurance guidance for the Kenyan market.",
       "tagline": "Turn event planning into paid bookings.",
       "was": 5100,
       "discount": 47,
-      "save": 2400
+      "save": 2400,
+      "preview": "This course teaches you how to build and grow an event planning business using AI. You will learn how to use AI for client proposals, vendor management, budget tracking, timeline creation, and marketing. The course covers different event types — weddings, corporate events, product launches, charity galas — with specific prompts and templates for each. You will also learn how to use AI for post-event reporting, client follow-ups, and building referral networks. The business side — pricing, contracts, insurance — is covered in detail."
     },
     {
       "id": 40,
@@ -1405,11 +1444,12 @@
       "rating": 4.8,
       "unlocks": 440,
       "updated": "2026-08-01",
-      "desc": "Design structured multi-week programs, personalize at scale for multiple clients, package and price an online coaching offer, and deliver via WhatsApp.",
+      "desc": "Create custom training programmes, meal plans and client communication systems as a personal trainer using AI. Learn prompts for different client goals — weight loss, muscle building, endurance — with client onboarding, progress tracking and social media content creation.",
       "tagline": "Design, package and sell online coaching programs.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "Personal trainers and fitness coaches can use AI to create custom training programmes, meal plans, and client communication systems. This course teaches you how to write prompts that generate safe, effective workout plans for different client goals — weight loss, muscle building, endurance, and flexibility. You will learn how to use AI for client onboarding, progress tracking, exercise video scripting, and social media content creation. The course also covers how to price your coaching services and build a client base through WhatsApp and social media."
     },
     {
       "id": 41,
@@ -1438,11 +1478,12 @@
       "rating": 4.7,
       "unlocks": 360,
       "updated": "2026-07-31",
-      "desc": "Turn homework-help skill into paid tutoring content, build a library of AI-assisted worksheets and story lessons, and market to other parents.",
+      "desc": "Support your children's education and potentially build an education-related business using AI. Learn prompts for homework help, exam preparation and study schedules aligned with the Kenyan curriculum — plus guidance on running a home tutoring business.",
       "tagline": "Turn homework help into paid tutoring content.",
       "was": 4800,
       "discount": 48,
-      "save": 2300
+      "save": 2300,
+      "preview": "This course is for parents who want to use AI to support their children's education and potentially build an education-related business. You will learn how to use AI for homework help, exam preparation, study schedule creation, and learning gap identification. The course covers prompts for different subjects — mathematics, English, science, and social studies — aligned with the Kenyan curriculum. You will also learn how to use AI to create tutoring materials, run a home tutoring business, and develop educational content for sale."
     },
     {
       "id": 42,
@@ -1471,11 +1512,12 @@
       "rating": 4.7,
       "unlocks": 400,
       "updated": "2026-07-30",
-      "desc": "Generate and refine beats with AI tools, structure a full song from lyrics to arrangement, home recording tips, and distribution on Spotify and Audiomack.",
+      "desc": "Accelerate every stage of music production from composition to distribution using AI. Learn beat generation, melody creation, lyric writing, mixing suggestions and mastering with tools like AIVA, Suno and BandLab AI — plus music marketing, playlist pitching and royalty management.",
       "tagline": "Beats, structure and distribution — from lyrics to Spotify.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "Musicians and producers can use AI to accelerate every stage of music production — from composition to distribution. This course teaches you how to use AI for beat generation, melody creation, lyric writing, mixing suggestions, and mastering. You will learn how to use tools like AIVA, Suno, and BandLab AI to create professional-sounding tracks. The course covers how to use AI for music marketing, playlist pitching, social media content, and fan engagement. You will also learn about music licensing and royalty management."
     },
     {
       "id": 43,
@@ -1505,11 +1547,12 @@
       "rating": 4.8,
       "unlocks": 480,
       "updated": "2026-07-29",
-      "desc": "Build a library of reusable business document templates, offer a document-drafting service to small businesses, understand liability, and price the service.",
+      "desc": "Build a business providing legal administrative services powered by AI. Learn document drafting, contract review, legal research and client correspondence for common Kenyan legal documents — plus case management, deadline tracking, pricing and client acquisition.",
       "tagline": "A document-drafting service for small businesses.",
       "was": 5100,
       "discount": 47,
-      "save": 2400
+      "save": 2400,
+      "preview": "This course teaches you how to build a business providing legal administrative services powered by AI. You will learn how to use AI for document drafting, contract review, legal research, and client correspondence. The course covers common legal documents in Kenya — tenancy agreements, employment contracts, sale agreements, and power of attorney forms. You will also learn how to use AI for case management, deadline tracking, and billing. The business side covers pricing, client acquisition, and working with law firms."
     },
     {
       "id": 44,
@@ -1540,11 +1583,12 @@
       "rating": 4.9,
       "unlocks": 700,
       "updated": "2026-07-28",
-      "desc": "Build a VA skill set — scheduling, inbox management, data tasks — with AI, create a VA-specific portfolio and CV, find remote jobs, and manage multiple clients.",
+      "desc": "Deliver virtual assistant services more efficiently using AI for email management, scheduling, research, data entry and customer support. Learn AI-enhanced workflows for Notion, Trello, Google Workspace and Slack — plus how to find VA clients, set rates and manage multiple accounts.",
       "tagline": "A VA skill set that wins international remote roles.",
       "was": 5700,
       "discount": 47,
-      "save": 2700
+      "save": 2700,
+      "preview": "Virtual assistants are in high demand globally. This course teaches you how to use AI to deliver VA services more efficiently — email management, scheduling, research, data entry, and customer support. You will learn how to use AI for inbox triage, meeting scheduling, travel booking, and document preparation. The course covers tools like Notion, Trello, Google Workspace, and Slack, with AI-enhanced workflows for each. You will also learn how to find VA clients, set your rates, and manage multiple accounts simultaneously."
     },
     {
       "id": 45,
@@ -1573,11 +1617,12 @@
       "rating": 4.8,
       "unlocks": 420,
       "updated": "2026-07-27",
-      "desc": "Offer translation and transcription as a paid freelance service, use AI to speed up work while keeping accuracy, find clients, and price per word and minute.",
+      "desc": "Offer professional translation and transcription services using AI for English-Kiswahili translation, audio transcription, subtitle creation and localisation. Learn quality control techniques for catching AI errors and delivering professional-grade output for legal, medical and technical contexts.",
       "tagline": "Offer translation and transcription as a paid service.",
       "was": 5300,
       "discount": 47,
-      "save": 2500
+      "save": 2500,
+      "preview": "This course teaches you how to use AI to offer professional translation and transcription services. You will learn how to use AI for English-Kiswahili translation, audio transcription, subtitle creation, and localisation. The course covers quality control techniques — how to catch AI errors, maintain consistency, and deliver professional-grade output. You will also learn how to use AI for specialised translation contexts — legal, medical, technical — and how to price your services competitively in the Kenyan and international market."
     },
     {
       "id": 46,
@@ -1607,11 +1652,12 @@
       "rating": 4.9,
       "unlocks": 380,
       "updated": "2026-08-18",
-      "desc": "Choose a niche and set up profiles, write winning proposals and portfolio pieces, deliver client work faster with AI, price contracts, and scale to a small team.",
+      "desc": "Use AI across every aspect of your freelance business — from finding clients to delivering work. Learn proposal writing, project scoping, time tracking, invoicing and portfolio management for Upwork, Fiverr and local platforms — with workflows for writers, designers, developers and consultants.",
       "tagline": "A full freelance business — proposals, delivery, scaling.",
       "was": 9500,
       "discount": 47,
-      "save": 4500
+      "save": 4500,
+      "preview": "This comprehensive course teaches freelancers how to use AI across every aspect of their business — from finding clients to delivering work. You will learn how to use AI for proposal writing, project scoping, time tracking, invoicing, and portfolio management. The course covers Upwork, Fiverr, and local freelance platforms, with specific strategies for each. You will also learn how to use AI for client communication, contract negotiation, and building long-term relationships. Workflows for writers, designers, developers, and consultants are included."
     },
     {
       "id": 47,
@@ -1640,11 +1686,12 @@
       "rating": 4.9,
       "unlocks": 300,
       "updated": "2026-08-17",
-      "desc": "Write property listings and ad copy, create marketing content and virtual tour scripts, automate client inquiries and follow-ups, and run comparables research.",
+      "desc": "Generate property descriptions, create virtual tour scripts, draft marketing emails and manage client databases as a real estate agent using AI. Learn prompts for compelling listings, neighbourhood guides and investment analysis — with lead qualification, follow-up sequences and Kenyan property market marketing.",
       "tagline": "Listings, follow-ups and marketing on autopilot.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "Real estate agents can use AI to generate property descriptions, create virtual tour scripts, draft marketing emails, and manage client databases. This course teaches you how to write prompts that produce compelling property listings, neighbourhood guides, and investment analysis reports. You will learn how to use AI for lead qualification, follow-up sequences, and social media marketing specific to the Kenyan property market. The course also covers how to use AI for market research, pricing analysis, and regulatory compliance."
     },
     {
       "id": 48,
@@ -1673,11 +1720,12 @@
       "rating": 4.8,
       "unlocks": 260,
       "updated": "2026-08-16",
-      "desc": "Turn lesson plans into structured digital course content, create quizzes and study guides with AI, record efficiently, pick a platform, and market to parents.",
+      "desc": "Plan lessons, create assessments, generate teaching materials and provide personalised student feedback as a teacher or tutor using AI. Learn prompts for curriculum-aligned planning, differentiated instruction and formative assessment — plus parent communication and report card comments.",
       "tagline": "Turn lesson plans into sellable digital courses.",
       "was": 9500,
       "discount": 47,
-      "save": 4500
+      "save": 4500,
+      "preview": "This course helps teachers and tutors use AI to plan lessons, create assessments, generate teaching materials, and provide personalised student feedback. You will learn prompts for curriculum-aligned lesson planning, differentiated instruction, and formative assessment creation. The course covers how to use AI for parent communication, report card comments, and professional development planning. You will also learn how to use AI for classroom management strategies and student engagement techniques."
     },
     {
       "id": 49,
@@ -1706,11 +1754,12 @@
       "rating": 4.9,
       "unlocks": 340,
       "updated": "2026-08-15",
-      "desc": "Map your processes to find where AI saves time, automate marketing and ad copy, set up AI-assisted customer service, and build a 90-day automation roadmap.",
+      "desc": "Automate repetitive tasks, streamline operations and focus on growth as a small business owner using AI. Learn workflows for inventory management, customer follow-ups, social media scheduling and bookkeeping — with specific prompts for Kenyan shops, restaurants, salons and service providers.",
       "tagline": "A 90-day automation roadmap for your business.",
       "was": 11400,
       "discount": 47,
-      "save": 5400
+      "save": 5400,
+      "preview": "Small business owners can use AI to automate repetitive tasks, streamline operations, and focus on growth. This course teaches you how to use AI for inventory management, customer follow-ups, social media scheduling, bookkeeping, and marketing. You will learn workflows for common Kenyan businesses — shops, restaurants, salons, and service providers — with specific prompts and templates for each. The course also covers how to use AI for business analysis, competitor research, and strategic planning."
     },
     {
       "id": 50,
@@ -1740,11 +1789,12 @@
       "rating": 4.8,
       "unlocks": 310,
       "updated": "2026-08-14",
-      "desc": "Define your brand niche and content pillars, script and edit at scale, build a posting system without burnout, grow an audience, and pitch to brands.",
+      "desc": "Brainstorm ideas, script videos, edit content and grow your audience as a content creator using AI. Learn prompts for content ideation, trend analysis, caption writing and engagement optimisation across YouTube, Instagram, TikTok and Twitter — with brand partnership pitches and analytics interpretation.",
       "tagline": "A personal-brand system that doesn't burn you out.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "Content creators and influencers can use AI to brainstorm ideas, script videos, edit content, and grow their audience. This course teaches you how to use AI for content ideation, trend analysis, caption writing, and engagement optimisation. You will learn prompts for different platforms — YouTube, Instagram, TikTok, Twitter — and how to use AI for brand partnership pitches, media kit creation, and analytics interpretation. The course also covers how to use AI for batch content creation and maintaining authenticity while using AI tools."
     },
     {
       "id": 51,
@@ -1775,11 +1825,12 @@
       "rating": 4.9,
       "unlocks": 330,
       "updated": "2026-08-13",
-      "desc": "Identify in-demand AI-adjacent skills, build a project portfolio with AI, prepare for technical and behavioral interviews, and apply to remote roles from Kenya.",
+      "desc": "Navigate your job search or career transition using AI for skills gap analysis, career path exploration, resume tailoring and interview preparation. Learn to identify transferable skills, write career change cover letters and prepare for interviews in new industries — with salary research and networking strategy.",
       "tagline": "Land a tech or remote job with an AI-built portfolio.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "This course is designed for job seekers and career switchers who want to use AI to navigate their transition. You will learn how to use AI for skills gap analysis, career path exploration, resume tailoring, interview preparation, and networking strategy. The course covers how to identify transferable skills, write career change cover letters, and prepare for interviews in new industries. You will also learn how to use AI for salary research, company analysis, and professional development planning."
     },
     {
       "id": 52,
@@ -1808,11 +1859,12 @@
       "rating": 4.8,
       "unlocks": 280,
       "updated": "2026-08-12",
-      "desc": "Validate a product niche with AI research, automate a store from listings to replies, handle customer service at scale, run ads, and manage logistics.",
+      "desc": "Write product descriptions, optimise listings, manage customer enquiries and analyse sales data as an e-commerce seller using AI. Learn prompts for Jumia, Kilimall and Shopify — including keyword optimisation, pricing strategy, review management and customer service automation.",
       "tagline": "Automate your store from listings to orders.",
       "was": 12400,
       "discount": 48,
-      "save": 5900
+      "save": 5900,
+      "preview": "E-commerce sellers can use AI to write product descriptions, optimise listings, manage customer enquiries, and analyse sales data. This course teaches you how to use AI for Jumia, Kilimall, and Shopify product listings, including keyword optimisation, pricing strategy, and review management. You will learn prompts for inventory forecasting, competitor analysis, and marketing campaign creation. The course also covers how to use AI for customer service automation and post-sale follow-up sequences."
     },
     {
       "id": 53,
@@ -1843,11 +1895,12 @@
       "rating": 4.8,
       "unlocks": 240,
       "updated": "2026-08-11",
-      "desc": "Write listings for hotels, Airbnbs and tour packages, automate guest inquiries and bookings, create seasonal promotions, and manage reviews and reputation.",
+      "desc": "Enhance guest experiences, streamline operations and boost online visibility as a hotel, restaurant or tour operator using AI. Learn prompts for menu descriptions, guest communication, review responses and TripAdvisor optimisation — with seasonal marketing campaigns for the Kenyan tourism market.",
       "tagline": "Listings, bookings and reviews on autopilot.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "Hotels, restaurants, and tour operators can use AI to enhance guest experiences, streamline operations, and boost online visibility. This course teaches you how to use AI for menu descriptions, guest communication, review responses, and marketing content. You will learn prompts for TripAdvisor optimisation, social media marketing, event planning, and staff training materials. The course covers how to use AI for booking management, pricing strategy, and seasonal marketing campaigns specific to the Kenyan tourism market."
     },
     {
       "id": 54,
@@ -1878,11 +1931,12 @@
       "rating": 4.8,
       "unlocks": 220,
       "updated": "2026-08-10",
-      "desc": "Generate design inspiration, mood boards and pattern ideas, create product photography concepts, build an online catalog, and grow loyal customers.",
+      "desc": "Use AI for design inspiration, pattern planning, client communication and business management as a fashion designer or tailor. Learn prompts for design briefs, garment pricing, order management and social media marketing — plus fabric sourcing, trend forecasting and online brand building.",
       "tagline": "Design, market and sell — from moodboard to client.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "Fashion designers and tailors can use AI for design inspiration, pattern planning, client communication, and business management. This course teaches you how to use AI for creating design briefs, pricing garments, managing orders, and marketing your work on social media. You will learn prompts for fabric sourcing, trend forecasting, and customer style consultations. The course also covers how to use AI for inventory management, supplier communication, and building an online fashion brand."
     },
     {
       "id": 55,
@@ -1911,11 +1965,12 @@
       "rating": 4.8,
       "unlocks": 200,
       "updated": "2026-08-09",
-      "desc": "Draft grant proposals and donor reports with AI, build M&E summaries efficiently, create outreach content, and use AI as a drafting tool, never a data source.",
+      "desc": "Write grant proposals, create impact reports, manage donor communications and plan programmes as an NGO using AI. Learn prompts for different donor types — USAID, EU, World Bank — plus monitoring and evaluation frameworks, beneficiary outreach and social media strategy for awareness campaigns.",
       "tagline": "Grant proposals and donor reports drafted fast.",
       "was": 9500,
       "discount": 47,
-      "save": 4500
+      "save": 4500,
+      "preview": "NGOs and community organisations can use AI to write grant proposals, create impact reports, manage donor communications, and plan programmes. This course teaches you how to use AI for proposal writing, logic model creation, monitoring and evaluation frameworks, and reporting. You will learn prompts for different donor types — USAID, EU, World Bank, and local foundations — and how to use AI for beneficiary outreach, volunteer coordination, and community engagement. The course also covers social media strategy for awareness campaigns."
     },
     {
       "id": 56,
@@ -1945,11 +2000,12 @@
       "rating": 4.8,
       "unlocks": 260,
       "updated": "2026-08-08",
-      "desc": "Plan and script episodes with AI, speed up editing and thumbnails, build a publishing and promotion schedule, grow an audience, and pitch for sponsorships.",
+      "desc": "Research topics, write scripts, create show notes, edit episodes and grow your audience as a podcaster or YouTuber using AI. Learn prompts for episode planning, guest research, title optimisation and thumbnail creation — with content repurposing, monetisation strategies and sponsorship pitches.",
       "tagline": "A full production system — script to sponsorship.",
       "was": 11400,
       "discount": 47,
-      "save": 5400
+      "save": 5400,
+      "preview": "Podcasters and YouTubers can use AI to research topics, write scripts, create show notes, edit episodes, and grow their audience. This course teaches you how to use AI for episode planning, guest research, title and description optimisation, and thumbnail creation. You will learn prompts for different content formats — interviews, solo episodes, panel discussions, and tutorials — and how to use AI for repurposing content across platforms. The course also covers monetisation strategies, sponsorship pitches, and audience analytics."
     },
     {
       "id": 57,
@@ -1979,11 +2035,12 @@
       "rating": 4.8,
       "unlocks": 210,
       "updated": "2026-08-07",
-      "desc": "Build client intake and goal-setting processes, create personalized wellness content and check-ins, market a coaching practice, and price coaching programs.",
+      "desc": "Create personalised client programmes, meal plans and progress tracking systems as a health coach using AI. Learn prompts for client intake assessments, goal setting, habit tracking and motivational messaging — plus content creation and social media marketing for your coaching business.",
       "tagline": "Client systems and a coaching business online.",
       "was": 10500,
       "discount": 48,
-      "save": 5000
+      "save": 5000,
+      "preview": "Health and wellness coaches can use AI to create personalised client programmes, meal plans, and progress tracking systems. This course teaches you how to use AI for client intake assessments, goal setting, habit tracking, and motivational messaging. You will learn prompts for different wellness contexts — weight management, stress reduction, sleep improvement, and mindfulness practice. The course also covers how to use AI for content creation, social media marketing, and building an online coaching business."
     },
     {
       "id": 58,
@@ -2013,11 +2070,12 @@
       "rating": 5,
       "unlocks": 180,
       "updated": "2026-08-19",
-      "desc": "Choose a profitable AI business model, build your offer and funnel, set up M-Pesa STK payments and delivery, scale to consistent monthly revenue, and execute a 90-day plan.",
+      "desc": "Build a profitable AI-powered business from scratch with everything you need — niche selection, technology stack, service offerings, client acquisition and scaling. Learn business registration in Kenya, pricing strategies, financial management and how to use AI internally for your own operations.",
       "tagline": "0 to 100K/month — a 90-day execution plan.",
       "was": 19000,
       "discount": 47,
-      "save": 9000
+      "save": 9000,
+      "preview": "This flagship course gives you everything you need to build a profitable AI-powered business from scratch. You will learn how to identify your niche, set up your technology stack, create your service offerings, find clients, and scale operations. The course covers business registration in Kenya, pricing strategies, financial management, and legal considerations. You will also learn how to use AI internally for your own business operations — from accounting to marketing to client delivery. This is the complete roadmap for turning AI skills into a sustainable income."
     },
     {
       "id": 59,
@@ -2047,11 +2105,12 @@
       "rating": 5,
       "unlocks": 150,
       "updated": "2026-08-19",
-      "desc": "Identify which local businesses need automation, build your first 3 automation offers, price retainers vs projects, land clients, and scale the agency.",
+      "desc": "Build an agency that sells AI automation services to businesses. Learn to identify automation opportunities, build solutions with no-code tools, price services and manage client relationships — covering WhatsApp chatbots, email automation, social media scheduling and customer support automation.",
       "tagline": "Sell automation retainers to local businesses.",
       "was": 22800,
       "discount": 47,
-      "save": 10800
+      "save": 10800,
+      "preview": "This course teaches you how to build an agency that sells AI automation services to businesses. You will learn how to identify automation opportunities, build solutions using no-code tools, price your services, and manage client relationships. The course covers WhatsApp chatbots, email automation, social media scheduling, data processing, and customer support automation. You will also learn how to pitch automation ROI to business owners, create case studies, and build a referral network."
     },
     {
       "id": 60,
@@ -2081,11 +2140,12 @@
       "rating": 4.9,
       "unlocks": 130,
       "updated": "2026-08-18",
-      "desc": "Position yourself as a credible AI consultant, run company AI-readiness assessments, deliver training workshops, price engagements, and build a referral pipeline.",
+      "desc": "Position yourself as an AI consultant who advises businesses on AI adoption, tool selection and workflow optimisation. Learn to assess AI readiness, create implementation roadmaps, train teams and measure ROI — plus consulting frameworks, proposal writing, pricing models and thought leadership building.",
       "tagline": "Train and advise businesses — a consulting practice.",
       "was": 20900,
       "discount": 47,
-      "save": 9900
+      "save": 9900,
+      "preview": "This course positions you as an AI consultant who can advise businesses on AI adoption, tool selection, and workflow optimisation. You will learn how to assess a business's AI readiness, create implementation roadmaps, train teams, and measure ROI. The course covers consulting frameworks, proposal writing, pricing models, and client management. You will also learn how to build thought leadership through content creation, speaking engagements, and professional networking."
     },
     {
       "id": 61,
@@ -2117,11 +2177,12 @@
       "rating": 5,
       "unlocks": 120,
       "updated": "2026-08-20",
-      "desc": "Build real applications with AI APIs, design a product around a local problem worth paying for, manage prompts and costs, integrate M-Pesa, and launch to paying users.",
+      "desc": "Accelerate your coding workflow using GitHub Copilot, ChatGPT and Claude for code generation, debugging, documentation and testing. Learn prompt engineering for developers, code review automation and technical writing — with practical examples in Python, JavaScript and common frameworks.",
       "tagline": "Build and sell AI-powered apps with M-Pesa built in.",
       "was": 26600,
       "discount": 47,
-      "save": 12600
+      "save": 12600,
+      "preview": "This course teaches software developers how to use AI to accelerate their coding workflow. You will learn how to use GitHub Copilot, ChatGPT, and Claude for code generation, debugging, documentation, and testing. The course covers prompt engineering for developers, code review automation, API documentation generation, and technical writing. You will also learn how to use AI for architecture planning, database design, and deployment automation. Practical examples use Python, JavaScript, and common frameworks."
     },
     {
       "id": 62,
@@ -2151,11 +2212,12 @@
       "rating": 4.9,
       "unlocks": 140,
       "updated": "2026-08-17",
-      "desc": "Full end-to-end store build from sourcing to setup, AI-driven ads and copy at scale, automated operations, scaling to multiple brands, and real margin numbers.",
+      "desc": "Go from zero to a fully operational e-commerce business. Learn product selection, online store setup, logistics management and marketing campaigns for Jumia, Kilimall, Shopify and social commerce through WhatsApp and Instagram — with AI-powered product research, listing optimisation and financial tracking for the Kenyan market.",
       "tagline": "Scale one store into multiple brands.",
       "was": 22800,
       "discount": 47,
-      "save": 10800
+      "save": 10800,
+      "preview": "This course takes you from zero to a fully operational e-commerce business. You will learn how to choose profitable products, set up your online store, manage logistics, and run marketing campaigns. The course covers Jumia, Kilimall, Shopify, and social commerce through WhatsApp and Instagram. You will learn how to use AI for product research, listing optimisation, customer service, and financial tracking. The course also covers supplier management, inventory planning, and scaling strategies for the Kenyan market."
     },
     {
       "id": 63,
@@ -2185,11 +2247,12 @@
       "rating": 4.9,
       "unlocks": 160,
       "updated": "2026-08-16",
-      "desc": "Identify remote-friendly roles, build an internationally competitive CV and LinkedIn presence, navigate time zones and contracts, and interview for remote-first companies.",
+      "desc": "Advance your career or find new opportunities as a Kenyan in the diaspora using AI. Learn international job searching, CV adaptation for different markets, interview preparation across time zones and professional networking — with strategies for UK, US, EU and Middle East markets including visa sponsorship guidance.",
       "tagline": "Land remote international roles from Kenya.",
       "was": 19000,
       "discount": 47,
-      "save": 9000
+      "save": 9000,
+      "preview": "This course is designed for Kenyans in the diaspora who want to advance their careers or find new opportunities. You will learn how to use AI for international job searching, CV adaptation for different markets, interview preparation across time zones, and professional networking. The course covers strategies for UK, US, EU, and Middle East job markets, with specific guidance on visa sponsorship, relocation planning, and cross-cultural communication. You will also learn how to use AI for freelance income generation while job searching."
     },
     {
       "id": 64,
@@ -2221,11 +2284,12 @@
       "rating": 4.9,
       "unlocks": 110,
       "updated": "2026-08-15",
-      "desc": "Validate a profitable course topic, structure and produce a full course, build your funnel with ads and landing pages, run a cohort, and scale to passive income.",
+      "desc": "Create and sell your own AI-powered online courses. Learn topic validation, curriculum structure, engaging content creation and sales funnel building — with platforms like Teachable and Gumroad, Kenyan payment methods, course promotion and student engagement for a sustainable course business.",
       "tagline": "Build and sell your own course empire.",
       "was": 22800,
       "discount": 47,
-      "save": 10800
+      "save": 10800,
+      "preview": "This course teaches you how to create and sell your own AI-powered online courses. You will learn how to identify profitable course topics, structure your curriculum, create engaging content, and build a sales funnel. The course covers platforms like Teachable, Gumroad, and Payhip, with specific workflows for Kenyan payment methods. You will also learn how to use AI for course promotion, student engagement, and content updates. The business side covers pricing, marketing, and building a sustainable course business."
     },
     {
       "id": 65,
@@ -2256,11 +2320,12 @@
       "rating": 4.9,
       "unlocks": 100,
       "updated": "2026-08-14",
-      "desc": "Build a digitized farm operation with planning, records and forecasting, use AI for market access and pricing, scale to cooperative models, and brand produce.",
+      "desc": "Scale your agribusiness operations using AI for supply chain optimisation, market analysis, quality control, export documentation and financial planning. Learn value chain mapping, cold chain management, international buyer connections and sustainability reporting for agricultural enterprises.",
       "tagline": "Farm to market at cooperative scale.",
       "was": 20900,
       "discount": 47,
-      "save": 9900
+      "save": 9900,
+      "preview": "This advanced course is for agribusiness owners who want to scale their operations using AI. You will learn how to use AI for supply chain optimisation, market analysis, quality control, export documentation, and financial planning. The course covers value chain mapping, cold chain management, and connecting with international buyers. You will also learn how to use AI for compliance documentation, sustainability reporting, and grant application writing for agricultural projects."
     },
     {
       "id": 66,
@@ -2290,8 +2355,9 @@
       "rating": 4.8,
       "unlocks": 0,
       "updated": "2026-08-26",
-      "desc": "What Claude is, how it differs from ChatGPT, free account setup, Projects feature, your first 10 prompts, and the beginner mistakes to avoid — all on your phone.",
-      "tagline": "Your first real Claude win in under 2 hours."
+      "desc": "Set up Claude, write effective prompts and use it for everyday tasks like drafting emails, analysing documents and brainstorming ideas. Learn what makes Claude different from ChatGPT — its longer context window, careful reasoning and strengths in analysis — with practical exercises for students, professionals and business owners.",
+      "tagline": "Your first real Claude win in under 2 hours.",
+      "preview": "Claude is Anthropic's AI assistant known for its thoughtful, nuanced responses and strong reasoning capabilities. This course teaches you how to set up Claude, write effective prompts, and use it for everyday tasks like drafting emails, analysing documents, brainstorming ideas, and solving problems. You will learn what makes Claude different from ChatGPT — its longer context window, its careful approach to sensitive topics, and its strengths in analysis and writing. The course includes practical exercises for students, professionals, and business owners."
     },
     {
       "id": 67,
@@ -2324,8 +2390,9 @@
       "rating": 4.9,
       "unlocks": 0,
       "updated": "2026-08-26",
-      "desc": "Turn Claude into a daily work system — Projects for ongoing context, long-document analysis, writing style control, research workflows, and 15 reusable prompt templates.",
-      "tagline": "Stop using Claude randomly. Build a system that saves you hours every week."
+      "desc": "Master advanced Claude features for complex analysis, long-document processing, code generation, strategic planning and creative writing. Learn extended thinking, document upload analysis, multi-turn reasoning and how to combine Claude with other AI tools — ideal for professionals needing AI for high-stakes work.",
+      "tagline": "Stop using Claude randomly. Build a system that saves you hours every week.",
+      "preview": "This advanced course takes your Claude skills to the next level. You will learn how to use Claude for complex analysis, long-document processing, code generation, strategic planning, and creative writing. The course covers Claude's unique features — extended thinking, document upload analysis, and multi-turn reasoning — with practical exercises for each. You will also learn how to combine Claude with other AI tools, build custom workflows, and use Claude's API for automation. This course is ideal for professionals who need AI for high-stakes work."
     },
     {
       "id": 68,
@@ -2358,8 +2425,9 @@
       "rating": 4.9,
       "unlocks": 0,
       "updated": "2026-08-26",
-      "desc": "Use Claude for high-stakes professional work — proposals, contracts, research analysis, content strategy, client communication systems, and Artifacts for live reports.",
-      "tagline": "Claude at its deepest: the professional's toolkit for proposals, research and client delivery."
+      "desc": "Use Claude for demanding professional tasks — legal analysis, financial modelling, research synthesis and strategic decision-making. Learn document review, contract analysis, market research and report writing with Claude's strengths in long-document handling and nuanced reasoning — for accuracy-critical professional contexts.",
+      "tagline": "Claude at its deepest: the professional's toolkit for proposals, research and client delivery.",
+      "preview": "This course is designed for professionals who need AI for demanding work tasks — legal analysis, financial modelling, research synthesis, and strategic decision-making. You will learn how to use Claude for document review, contract analysis, market research, competitive intelligence, and report writing. The course covers Claude's strengths in handling long documents, nuanced reasoning, and careful analysis. You will also learn prompt engineering techniques specific to professional contexts, where accuracy and thoroughness matter most."
     }
   ],
   "chapters": {

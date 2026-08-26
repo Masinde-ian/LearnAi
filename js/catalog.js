@@ -140,6 +140,41 @@
     if (empty) empty.classList.toggle("is-visible", results.length === 0);
     renderChips();
     wirePreviewToggles();
+    injectItemList(results);
+  }
+
+  function injectItemList(courses) {
+    var existing = document.getElementById("catalog-itemlist-jsonld");
+    if (existing) existing.remove();
+    if (!courses.length) return;
+    var items = courses.map(function (c, i) {
+      return {
+        "@type": "ListItem",
+        "position": i + 1,
+        "item": {
+          "@type": "Course",
+          "name": c.title,
+          "url": "https://elimuaike.co.ke/guide.html?slug=" + c.slug,
+          "description": c.desc,
+          "offers": {
+            "@type": "Offer",
+            "price": c.price,
+            "priceCurrency": "KES"
+          }
+        }
+      };
+    });
+    var ld = document.createElement("script");
+    ld.type = "application/ld+json";
+    ld.id = "catalog-itemlist-jsonld";
+    ld.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Elimu AI Course Catalog",
+      "numberOfItems": items.length,
+      "itemListElement": items
+    });
+    document.head.appendChild(ld);
   }
 
   function wirePreviewToggles() {

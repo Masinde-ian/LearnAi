@@ -40,9 +40,9 @@
         "<p>" + esc(p.t) + "</p></div>";
     }).join("");
     var btn = waLink(buyMsg(course));
-    return '<div class="prompts-locked">' + html +
-      '<div class="prompt-overlay">' +
-        '<span class="badge badge--emerald">' + total + " prompts inside</span>" +
+    return '<div class="prompts-free">' + html +
+      '<div class="prompts-free__cta">' +
+        '<span class="badge badge--emerald">' + total + " prompts inside the full course</span>" +
         '<a class="btn btn--primary" href="' + btn + '">Unlock all ' + total + " prompts</a>" +
         '<span class="form-note">Unlocked instantly after M-Pesa payment</span>' +
       "</div></div>";
@@ -144,7 +144,13 @@
         "<div>" +
           '<span class="eyebrow eyebrow--emerald">The problem, solved</span>' +
           '<h2 class="display-sm" style="margin-block:var(--s-3)">' + esc(c.title) + "</h2>" +
-          '<p class="lede" style="margin-bottom:var(--s-8)">' + esc(c.desc) + "</p>" +
+          '<p class="lede" style="margin-bottom:var(--s-5)">' + esc(c.desc) + "</p>" +
+
+          (c.preview ? '<section class="product-preview" data-reveal>' +
+            '<span class="eyebrow eyebrow--emerald">Free Preview</span>' +
+            '<h3 class="product-preview__title">What you will learn</h3>' +
+            '<p class="product-preview__text">' + esc(c.preview) + "</p>" +
+          "</section>" : "") +
 
           '<div class="product-tabs" role="tablist" aria-label="Course details">' +
             '<button role="tab" id="tab-1" aria-controls="panel-1" aria-selected="true">Inside the Course</button>' +
@@ -184,6 +190,49 @@
     document.title = c.title + " — Elimu AI";
     var meta = document.querySelector('meta[name="description"]');
     if (meta) meta.setAttribute("content", c.desc + " " + ksh(c.price) + " one-time. Unlock instantly via M-Pesa or WhatsApp.");
+
+    var pageUrl = location.href;
+    var ogDesc = c.desc + " " + ksh(c.price) + " one-time. Unlock instantly via M-Pesa or WhatsApp.";
+
+    function setMeta(attr, key, val) {
+      var el = document.querySelector('meta[property="' + attr + '"]') || document.querySelector('meta[name="' + attr + '"]');
+      if (el) el.setAttribute("content", val);
+    }
+    setMeta("og:title", null, c.title + " — Elimu AI");
+    setMeta("og:description", null, ogDesc);
+    setMeta("og:url", null, pageUrl);
+    setMeta("og:type", null, "product");
+    setMeta("twitter:title", null, c.title + " — Elimu AI");
+    setMeta("twitter:description", null, ogDesc);
+
+    var canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) canonical.setAttribute("href", pageUrl);
+
+    var existingLD = document.getElementById("course-jsonld");
+    if (existingLD) existingLD.remove();
+    var ldScript = document.createElement("script");
+    ldScript.type = "application/ld+json";
+    ldScript.id = "course-jsonld";
+    ldScript.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": c.title,
+      "description": c.desc,
+      "provider": {
+        "@type": "Organization",
+        "name": "Elimu AI",
+        "url": "https://elimuaike.co.ke"
+      },
+      "url": pageUrl,
+      "dateModified": c.updated || new Date().toISOString().slice(0, 10),
+      "offers": {
+        "@type": "Offer",
+        "price": c.price,
+        "priceCurrency": "KES",
+        "availability": "https://schema.org/InStock"
+      }
+    });
+    document.head.appendChild(ldScript);
 
     wireTabs();
     wireGallery();
