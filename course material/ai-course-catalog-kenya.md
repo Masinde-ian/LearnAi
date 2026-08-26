@@ -74,6 +74,13 @@ Fast, specific, single-outcome courses. The buyer should get one clear win in un
 - SEO basics: titles, headings, keywords AI can help with
 - Editing AI drafts so they don't read as obviously AI-written
 
+### 11. Claude Basics for Beginners
+- What Claude is and how it differs from ChatGPT
+- Setting up a free account on your phone
+- Writing your first 10 effective prompts for daily tasks
+- Using Claude Projects for ongoing work with context
+- Analysing long documents — contracts, reports, assignments
+
 ---
 
 ## Tier 2 — Upsell Courses (KES 2,500 each)
@@ -404,6 +411,15 @@ Comprehensive, high-commitment programs for buyers ready to build something subs
 - Finding clients on freelance platforms and locally (NGOs, media, business)
 - Pricing per word/minute and managing turnaround expectations
 
+### 21. Claude Mastery System: Projects, Prompts & Long-Doc Power
+*(Upsell from: Claude Basics for Beginners)*
+- Building a Project-based workflow that keeps context across conversations
+- Analysing long documents — contracts, reports, transcripts — with structured prompts
+- Controlling Claude's writing style, tone, and format for consistency
+- Research and structured note-taking with Claude
+- Writing systems for emails, proposals, and content at scale
+- Weekly automation routine with 15 reusable prompt templates
+
 ---
 
 ## More Tier 3 Niche Courses (KES 5,000+ each)
@@ -449,6 +465,15 @@ Comprehensive, high-commitment programs for buyers ready to build something subs
 - Marketing a coaching practice online and locally
 - Clear boundaries: AI as an assistant, never a substitute for medical advice
 - Pricing and packaging coaching programs
+
+### 13. Claude for Professionals: Proposals, Research & Client Work
+- Building a proposal system that wins freelance and consulting work
+- Analysing contracts and legal documents with structured Claude workflows
+- Producing client-ready research briefs and market analysis
+- Content strategy at scale with Claude Projects and Artifacts
+- Client communication systems — onboarding, updates, scope protection, delivery
+- Professional prompt engineering patterns (CHAIN method, chain-of-thought)
+- Course assignment: build a portfolio-ready deliverable
 
 ---
 

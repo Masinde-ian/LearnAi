@@ -3,12 +3,12 @@
     "name": "Elimu AI",
     "tagline": "Practical AI courses for the way Kenya works.",
     "waNumber": "254792238421",
-    "email": "hello@elimuai.co.ke",
+    "email": "hello@elimuaike.co.ke",
     "builders": 2500,
     "rating": 4.9,
     "updated": "2026-08-20",
-    "count": 65,
-    "promptCount": 5002
+    "count": 68,
+    "promptCount": 5107
   },
   "instructors": {
     "KM": {
@@ -2261,6 +2261,105 @@
       "was": 20900,
       "discount": 47,
       "save": 9900
+    },
+    {
+      "id": 66,
+      "slug": "claude-basics-for-beginners",
+      "title": "Claude Basics for Beginners",
+      "tier": 1,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "student",
+        "job-seeker",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "productivity"
+      ],
+      "price": 500,
+      "pages": 26,
+      "prompts": 25,
+      "format": "Course",
+      "mockup": "book",
+      "cover": 1,
+      "featured": false,
+      "authors": [
+        "KM"
+      ],
+      "rating": 4.8,
+      "unlocks": 0,
+      "updated": "2026-08-26",
+      "desc": "What Claude is, how it differs from ChatGPT, free account setup, Projects feature, your first 10 prompts, and the beginner mistakes to avoid — all on your phone.",
+      "tagline": "Your first real Claude win in under 2 hours."
+    },
+    {
+      "id": 67,
+      "slug": "claude-mastery-system",
+      "title": "Claude Mastery System: Projects, Prompts & Long-Doc Power",
+      "tier": 2,
+      "cat": "AI Basics",
+      "level": "beginner",
+      "roles": [
+        "entrepreneur",
+        "professional",
+        "freelancer"
+      ],
+      "tasks": [
+        "productivity",
+        "writing",
+        "admin"
+      ],
+      "price": 2500,
+      "pages": 58,
+      "prompts": 35,
+      "format": "Course",
+      "mockup": "tablet",
+      "cover": 2,
+      "featured": false,
+      "authors": [
+        "KM",
+        "FN"
+      ],
+      "rating": 4.9,
+      "unlocks": 0,
+      "updated": "2026-08-26",
+      "desc": "Turn Claude into a daily work system — Projects for ongoing context, long-document analysis, writing style control, research workflows, and 15 reusable prompt templates.",
+      "tagline": "Stop using Claude randomly. Build a system that saves you hours every week."
+    },
+    {
+      "id": 68,
+      "slug": "claude-for-professionals",
+      "title": "Claude for Professionals: Proposals, Research & Client Work",
+      "tier": 3,
+      "cat": "Business",
+      "level": "pro",
+      "roles": [
+        "professional",
+        "freelancer",
+        "entrepreneur"
+      ],
+      "tasks": [
+        "writing",
+        "admin",
+        "productivity"
+      ],
+      "price": 5000,
+      "pages": 82,
+      "prompts": 45,
+      "format": "Course",
+      "mockup": "folder",
+      "cover": 3,
+      "featured": false,
+      "authors": [
+        "KM",
+        "AO"
+      ],
+      "rating": 4.9,
+      "unlocks": 0,
+      "updated": "2026-08-26",
+      "desc": "Use Claude for high-stakes professional work — proposals, contracts, research analysis, content strategy, client communication systems, and Artifacts for live reports.",
+      "tagline": "Claude at its deepest: the professional's toolkit for proposals, research and client delivery."
     }
   ],
   "chapters": {
@@ -3813,6 +3912,117 @@
         "o": "Build an AI-assisted operations system that lasts.",
         "m": 18
       }
+    ],
+    "66": [
+      {
+        "t": "What Claude is and why it matters",
+        "o": "Understand Claude's strengths — long docs, natural writing, Projects — and when to use it over ChatGPT.",
+        "m": 14
+      },
+      {
+        "t": "Setting up on your phone",
+        "o": "Create a free Claude account, explore voice input, and upload your first image.",
+        "m": 12
+      },
+      {
+        "t": "How Claude differs from ChatGPT",
+        "o": "Compare long-document handling, writing quality, Projects, and personality.",
+        "m": 16
+      },
+      {
+        "t": "Writing your first 10 prompts",
+        "o": "Copy and use 10 ready-made prompts for emails, WhatsApp, study, and business tasks.",
+        "m": 20
+      },
+      {
+        "t": "Using Claude Projects",
+        "o": "Create a Project, upload files, set instructions, and start ongoing work.",
+        "m": 18
+      },
+      {
+        "t": "Common beginner mistakes",
+        "o": "Avoid vague prompts, ignoring Projects, and trusting output blindly.",
+        "m": 14
+      }
+    ],
+    "67": [
+      {
+        "t": "From one-off chats to a Project system",
+        "o": "List recurring tasks and create a Project for each one.",
+        "m": 16
+      },
+      {
+        "t": "Building your first power Project",
+        "o": "Set role instructions, upload reference files, and provide example outputs.",
+        "m": 20
+      },
+      {
+        "t": "Long-document analysis",
+        "o": "Analyse contracts, reports, transcripts, and WhatsApp threads with structured prompts.",
+        "m": 22
+      },
+      {
+        "t": "Controlling Claude's writing style",
+        "o": "Set tone, format, length, vocabulary, and voice-matching rules.",
+        "m": 18
+      },
+      {
+        "t": "Research and structured note-taking",
+        "o": "Use the research workflow: search, paste, analyse, identify gaps, repeat.",
+        "m": 18
+      },
+      {
+        "t": "Writing systems — emails, proposals, content",
+        "o": "Build Projects for email, proposals, content, and reporting.",
+        "m": 20
+      },
+      {
+        "t": "Your weekly Claude routine",
+        "o": "Set a weekly block to run your Projects and review your system.",
+        "m": 14
+      }
+    ],
+    "68": [
+      {
+        "t": "The proposal system",
+        "o": "Build a proposal Project, analyse job postings, and write custom proposals that win.",
+        "m": 24
+      },
+      {
+        "t": "Contract and legal document analysis",
+        "o": "Use Claude to analyse contracts clause by clause and identify risks.",
+        "m": 22
+      },
+      {
+        "t": "Research and analysis for clients",
+        "o": "Produce market research, competitive analysis, and grant research with Claude.",
+        "m": 22
+      },
+      {
+        "t": "Content strategy at scale",
+        "o": "Build content strategy Projects, plan weekly content, and repurpose across platforms.",
+        "m": 20
+      },
+      {
+        "t": "Client communication and delivery systems",
+        "o": "Design onboarding, updates, scope protection, and delivery packages.",
+        "m": 22
+      },
+      {
+        "t": "Using Claude Artifacts for deliverables",
+        "o": "Create reports, dashboards, and interactive tools directly in Claude.",
+        "m": 20
+      },
+      {
+        "t": "Professional prompt engineering patterns",
+        "o": "Master the CHAIN method, chain-of-thought, and iterative refinement.",
+        "m": 18
+      },
+      {
+        "t": "Course assignment — portfolio deliverable",
+        "o": "Complete a real proposal, research brief, or content strategy for your portfolio.",
+        "m": 24
+      }
     ]
   },
   "prompts": {
@@ -4464,6 +4674,172 @@
       {
         "l": "Buyer negotiation",
         "t": "Draft talking points for negotiating a better price with a produce buyer: my costs, quality proof, and a volume offer."
+      }
+    ],
+    "66": [
+      {
+        "l": "Professional email",
+        "t": "Write a polite email to a client explaining that my order will be delivered two days late because of transport delays. My business is a phone accessories shop in Kisumu. Keep it short and warm, end with an apology."
+      },
+      {
+        "l": "WhatsApp customer reply",
+        "t": "Reply to this customer message in a friendly but professional tone: 'Uko na hiyo smartwatch ya Amazfit?' I sell smartwatches at KES 3,500. Offer delivery within Nairobi via Glovo or boda."
+      },
+      {
+        "l": "Summarise a message",
+        "t": "Summarise this message in 5 clear bullet points. Keep the key facts and numbers: [paste the message]"
+      },
+      {
+        "l": "Social media post",
+        "t": "Write a Facebook post announcing that my tailor shop now offers free fittings on Saturdays. Target young professionals in Nakuru. Keep it under 80 words, friendly and direct."
+      },
+      {
+        "l": "Business proposal help",
+        "t": "I run a small cleaning company in Nairobi. Write a short proposal for a one-time deep clean of a 3-bedroom house. Include what is included, the price (KES 4,500), and how to book. Keep it professional but warm."
+      },
+      {
+        "l": "Study explanation",
+        "t": "Explain what supply and demand means in simple terms, like you are teaching a Form 2 student. Give one example using maize prices in Kenya."
+      },
+      {
+        "l": "Name ideas",
+        "t": "Give me 10 name ideas for a small coffee shop in Thika that also sells pastries. Mix English and Kiswahili names. Explain the meaning of each."
+      },
+      {
+        "l": "Rewrite for clarity",
+        "t": "Rewrite this sentence to be clearer and more professional: [paste your sentence]"
+      },
+      {
+        "l": "Product description",
+        "t": "Write a short product description for a wireless Bluetooth speaker I sell for KES 1,800. It is waterproof, has 12-hour battery, and is good for outdoor events. Keep it under 60 words."
+      },
+      {
+        "l": "Problem solving",
+        "t": "My small grocery shop is losing customers to a bigger shop that opened nearby. Give me 5 practical, low-budget ideas to win them back. Focus on what a small shop can do that a big one cannot."
+      }
+    ],
+    "67": [
+      {
+        "l": "Client proposal from template",
+        "t": "You are my business partner at [business name] in [town]. We provide [service/product]. Write a proposal for [client name] who needs [what they need]. Our price is [amount] KES. Include: what we will deliver, the timeline, why we are the right pick, and a clear call to action. Professional but warm tone. Under 300 words."
+      },
+      {
+        "l": "Long document summary",
+        "t": "I am pasting a [document type — contract, report, article]. Read the entire document and give me: 1. A 5-bullet summary, 2. The 3 most important points, 3. Anything unusual or risky, 4. Recommended next steps."
+      },
+      {
+        "l": "Contract risk check",
+        "t": "I am about to sign this contract. Read it carefully and tell me: What am I agreeing to deliver? What are the payment terms? Are there any clauses that put me at risk? What should I try to negotiate? Any missing protections I should ask for?"
+      },
+      {
+        "l": "Meeting minutes from transcript",
+        "t": "Here is a transcript of a meeting. Produce one page of minutes with: Key decisions made, Action items (with owner and deadline), Open questions needing follow-up, Any commitments or promises made. Keep names and numbers exact."
+      },
+      {
+        "l": "Batch email drafts",
+        "t": "I need to reply to these messages. For each, write a reply in my tone — friendly but professional, under 80 words: [paste the messages]"
+      },
+      {
+        "l": "Weekly report builder",
+        "t": "Write my weekly report for [role/business]. Structure: What was completed this week, Challenges or blockers, Plans for next week. Here are my rough points: [paste points]"
+      },
+      {
+        "l": "Research plan",
+        "t": "I need to research [topic] for [purpose]. Break it into 5 focused questions. For each question, tell me what kind of source to look for and what keywords to search. Keep it practical and specific."
+      },
+      {
+        "l": "Summarise multiple sources",
+        "t": "Here are notes from 3 articles on [topic]. Extract: Key facts from each article, Where the articles agree, Where they conflict, One practical takeaway per article. Flag anything that needs verification."
+      },
+      {
+        "l": "Messy data to table",
+        "t": "Organise this into a table with columns: [list columns]. Fix obvious typos in names, flag missing amounts, and keep the original order: [paste data]"
+      },
+      {
+        "l": "Email triage",
+        "t": "Here are 10 emails I received today (summaries). Sort them into: Reply today (urgent), Reply this week, Delegate, Archive. One line of reason for each decision."
+      },
+      {
+        "l": "Custom style instructions",
+        "t": "Based on these 3 examples of my writing, write a style guide I can use as Claude instructions. Cover: tone, sentence length, word choices, greeting style, and sign-off style: [paste 3 writing examples]"
+      },
+      {
+        "l": "Proposal improvement",
+        "t": "Here is a proposal I sent that did not win the client. Analyse it: what is weak, what is missing, and what would make it more compelling. Then rewrite the improved version: [paste proposal]"
+      },
+      {
+        "l": "Task repetition check",
+        "t": "Here are my tasks this month: [list tasks]. Which ones repeat weekly or monthly? For each, suggest a Claude Project setup with the files I would upload and the instructions I would set."
+      },
+      {
+        "l": "Weekly review",
+        "t": "Here is what I accomplished this week: [list]. Here is what I struggled with: [list]. Analyse my week: what should I keep doing, what should I stop, and what one change would save me the most time next week?"
+      },
+      {
+        "l": "Template improvement",
+        "t": "Here is a prompt I use and an output I did not like. Suggest specific edits to the prompt so the next output fits me better: [prompt] [bad output]"
+      }
+    ],
+    "68": [
+      {
+        "l": "Winning proposal writer",
+        "t": "I am writing a proposal for [client type] who needs [service]. Here is the job posting: [paste]. Analyse the posting, then write a proposal with: I understand your problem, My approach, What I will deliver, Why me, Next steps. Match the tone of my winning proposals. Under 400 words."
+      },
+      {
+        "l": "Proposal personaliser",
+        "t": "I have a generic proposal draft for a [client type] job. Personalise it with these details about the client: Their business: [describe], A recent project: [link or description], A specific pain point: [detail]. Add 2-3 sentences that show I researched them specifically."
+      },
+      {
+        "l": "Contract deep-dive",
+        "t": "Read this entire contract clause by clause. For each clause: plain-language explanation, what it obligates me to do, what rights it gives me, what risks it creates, whether it is standard for [type of contract]. End with a negotiation priority list."
+      },
+      {
+        "l": "Client research brief",
+        "t": "I am preparing a research brief for [client type] about [topic]. Here is my raw research: [paste]. Create a client-ready brief with: Executive Summary, Market Context, Key Findings, Implications, Recommended Actions. Professional, client-facing tone."
+      },
+      {
+        "l": "Grant proposal outline",
+        "t": "I am writing a grant proposal for [organisation] to [funder]. Project: [cause] in [location]. Create an outline: Problem Statement, Proposed Solution, Target Beneficiaries, Activities and Timeline, Expected Outcomes, Budget Framework, Sustainability Plan. Donor-friendly language."
+      },
+      {
+        "l": "Content strategy engine",
+        "t": "You are the content strategist for [client]. Brand: [description]. Audience: [description]. Platforms: [list]. Plan this week's content: posts for each platform with format, topic, caption, hashtags, and how it drives [goal]. Match the brand voice."
+      },
+      {
+        "l": "Client update email",
+        "t": "Write my weekly update to [client name] for the [project]. Completed: [list]. Challenges: [list]. Next week: [list]. Professional, transparent, confident. Under 150 words."
+      },
+      {
+        "l": "Scope creep handler",
+        "t": "A client asked for [extra request]. Original scope was [scope]. Write a message that acknowledges the request, explains it is out of scope, offers a change order with pricing (KES [amount]), and keeps the relationship warm. Under 100 words."
+      },
+      {
+        "l": "Delivery package creator",
+        "t": "I am delivering [project type] to [client]. Create a delivery package: cover email, table of contents, 1-page 'How to Use This' guide, and feedback request with 3 questions. Professional tone, exceptional value."
+      },
+      {
+        "l": "Payment reminders",
+        "t": "Write 3 payment reminders for Invoice [#] sent [date], amount KES [amount] for [service], client [name]. Version 1 (7 days late): friendly. Version 2 (14 days): firmer. Version 3 (30 days): professional with consequences. All brief and not aggressive."
+      },
+      {
+        "l": "Rate analysis",
+        "t": "I am pricing a [service] project. Scope: [describe]. Client budget: [budget or unknown]. Analyse: market rate in Kenya, pricing strategy, 3 pricing options with deliverables, what to charge extra for, scope creep red flags. Give a recommended price with justification."
+      },
+      {
+        "l": "Portfolio case study",
+        "t": "Here is a project I completed: [describe]. Write a case study: Client challenge, My approach, The solution, Results with metrics, Client quote. Professional tone, 300 words max. Show expertise without bragging."
+      },
+      {
+        "l": "Industry trend analysis",
+        "t": "Here are 6 articles about [industry trend]. Analyse: What the trend is, Why it matters for Kenyan businesses, Evidence with data points, Who benefits and who is at risk, 3 actionable recommendations. Write as a professional industry analysis."
+      },
+      {
+        "l": "Thought leadership content",
+        "t": "I want to position myself as an expert in [field] on LinkedIn. Here are 3 insights from my work: [list]. For each, write a hook, the insight in 2-3 paragraphs, a takeaway or question, and hashtags. Professional but human, under 200 words per post."
+      },
+      {
+        "l": "Scope definition",
+        "t": "A client wants [service]. Define the scope: what is included in base price, what is extra, what I need from client, realistic timeline with milestones, revision rounds, and what happens if requirements change. Write as a professional scope document."
       }
     ]
   }
